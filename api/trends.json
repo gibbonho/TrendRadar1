@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T17:41:57.172024+08:00",
-  "total_titles_processed": 1533,
+  "generated_at": "2026-01-27T18:37:57.260616+08:00",
+  "total_titles_processed": 1626,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 95,
+      "match_count": 97,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -16,8 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时31分 ~ 17时41分]"
+          "appearance_count": 12,
+          "time_info": "[06时31分 ~ 18时37分]"
+        },
+        {
+          "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
+          "url": "https://wallstreetcn.com/articles/3764206",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时26分 ~ 18时37分]"
         },
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -29,18 +41,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时43分 ~ 07时31分]"
-        },
-        {
-          "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
-          "url": "https://wallstreetcn.com/articles/3764206",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时26分 ~ 17时41分]"
         },
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -148,8 +148,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时31分 ~ 17时41分]"
+          "appearance_count": 11,
+          "time_info": "[07时31分 ~ 18时37分]"
         },
         {
           "title": "黄金逼近5100美元！一图看懂金银加速上涨",
@@ -200,8 +200,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时35分 ~ 17时41分]"
+          "appearance_count": 7,
+          "time_info": "[13时35分 ~ 18时37分]"
         },
         {
           "title": "白银走势颇似模因股？前小摩策略师警告：银价恐较当前水平腰斩",
@@ -218,6 +218,18 @@
           "time_info": "[10时26分 ~ 16时43分]"
         },
         {
+          "title": "紫金黄金拟55亿加元收购Allied Gold，加速挺进西非核心金矿区",
+          "url": "https://wallstreetcn.com/articles/3764180",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时13分 ~ 18时37分]"
+        },
+        {
           "title": "国投白银LOF将暂停申购",
           "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%8A%95%E7%99%BD%E9%93%B6LOF%E5%B0%86%E6%9A%82%E5%81%9C%E7%94%B3%E8%B4%AD%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -232,16 +244,15 @@
           "time_info": "[00时43分 ~ 04时37分]"
         },
         {
-          "title": "紫金黄金拟55亿加元收购Allied Gold，加速挺进西非核心金矿区",
-          "url": "https://wallstreetcn.com/articles/3764180",
-          "source": "华尔街见闻",
+          "title": "1g黄金的区别有多大",
+          "url": "https://s.weibo.com/weibo?q=1g%E9%BB%84%E9%87%91%E7%9A%84%E5%8C%BA%E5%88%AB%E6%9C%89%E5%A4%9A%E5%A4%A7&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            9
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时13分 ~ 17时41分]"
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 18时37分]"
         },
         {
           "title": "李蓓清仓黄金",
@@ -256,17 +267,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时48分 ~ 17时41分]"
-        },
-        {
-          "title": "1g黄金的区别有多大",
-          "url": "https://s.weibo.com/weibo?q=1g%E9%BB%84%E9%87%91%E7%9A%84%E5%8C%BA%E5%88%AB%E6%9C%89%E5%A4%9A%E5%A4%A7&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
         },
         {
           "title": "现货黄金突破5040美元/盎司，早盘涨逾30美元。",
@@ -412,6 +412,17 @@
           "time_info": "[02时49分 ~ 04时37分]"
         },
         {
+          "title": "白银价格暴涨后日内急速回落，这轮行情结束了吗？这种暴涨暴跌说明了什么？",
+          "url": "https://www.zhihu.com/question/1999391504246990744",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时36分 ~ 18时37分]"
+        },
+        {
           "title": "现货白银日内暴涨10.00%，现报113.55美元/盎司。纽约期银日内暴涨12.00%，现报113.57美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260127001619610800",
           "source": "金十数据",
@@ -496,15 +507,18 @@
           "time_info": "[00时43分 ~ 01时37分]"
         },
         {
-          "title": "白银价格暴涨后日内急速回落，这轮行情结束了吗？这种暴涨暴跌说明了什么？",
-          "url": "https://www.zhihu.com/question/1999391504246990744",
-          "source": "知乎",
+          "title": "上期所出手：收紧白银期货、锡期货交易限额",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32467553",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            20,
+            18,
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时36分 ~ 17时41分]"
+          "appearance_count": 4,
+          "time_info": "[15时36分 ~ 18时37分]"
         },
         {
           "title": "纽约银日内涨幅达15.0%，报116.55美元/盎司。 现货白银日内涨幅达13.0%，报116.63美元/盎司。",
@@ -518,19 +532,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时49分 ~ 04时37分]"
-        },
-        {
-          "title": "上期所出手：收紧白银期货、锡期货交易限额",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32467553",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时36分 ~ 17时41分]"
         },
         {
           "title": "现货白银日内涨幅扩大至11.00%，现报114.57美元/盎司。",
@@ -787,6 +788,17 @@
           "time_info": "12时13分"
         },
         {
+          "title": "A股午后拉升，三大股指集体收涨，算力产业链爆发，恒指涨超1%，紫金黄金涨超11%，沪银逆势涨7%",
+          "url": "https://wallstreetcn.com/articles/3764225",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "现货白银价格5年翻10倍",
           "url": "https://flash.jin10.com/detail/20260126235858977800",
           "source": "金十数据",
@@ -815,7 +827,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -848,7 +860,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -947,9 +959,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
+        },
+        {
+          "title": "欧洲资管巨头Amundi称去美元化浪潮下 黄金还有上涨空间",
+          "url": "https://wallstreetcn.com/livenews/3044683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "现货白银突破115美元",
@@ -980,7 +1003,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -1002,7 +1025,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -1035,7 +1058,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -1079,7 +1102,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -1201,8 +1224,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时31分 ~ 17时41分]"
+          "appearance_count": 11,
+          "time_info": "[07时31分 ~ 18时37分]"
         },
         {
           "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
@@ -1320,6 +1343,21 @@
           "time_info": "14时48分"
         },
         {
+          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时48分 ~ 18时37分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普认为，上周日在明尼苏达州发生（联邦移民执法官员枪杀一名男子）的事件是一场悲剧。",
           "url": "https://wallstreetcn.com/livenews/3044152",
           "source": "华尔街见闻-快讯",
@@ -1417,20 +1455,6 @@
           "time_info": "[06时31分 ~ 07时31分]"
         },
         {
-          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时48分 ~ 17时41分]"
-        },
-        {
           "title": "韩国人还在睡梦中特朗普突然下手",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%BF%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E4%B8%8B%E6%89%8B%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -1453,6 +1477,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时31分]"
+        },
+        {
+          "title": "美媒：特朗普一周内两次妥协",
+          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 18时37分]"
         },
         {
           "title": "美国白宫：总统特朗普并未放弃乌克兰和平进程。",
@@ -1652,17 +1687,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "美媒：特朗普一周内两次妥协",
-          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
         },
         {
           "title": "韩国股市低开高走，特朗普关税威胁引发逢低买入",
@@ -2005,7 +2029,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -2103,11 +2127,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%BF%98%E5%89%A9%E5%93%AA%E4%BA%9B%E5%BA%95%E7%89%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 18时37分]"
         },
         {
           "title": "靛蓝航空：考虑到伊朗局势的发展，对部分航班的时刻表进行了调整。",
@@ -2201,7 +2226,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -2267,7 +2292,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "美元指数DXY失守97，日内跌幅0.48%。",
@@ -2313,6 +2338,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "美元指数短线下挫 非美货币走高",
+          "url": "https://wallstreetcn.com/livenews/3044664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "美元指数DXY短线下挫 非美货币走高",
+          "url": "https://flash.jin10.com/detail/20260127175649548800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         }
       ]
     },
