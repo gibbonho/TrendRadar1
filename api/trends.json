@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T03:37:37.655084+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-01-29T04:41:47.559187+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时41分]"
         },
         {
           "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时41分]"
         },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时41分]"
         },
         {
           "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时41分]"
         },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -62,8 +62,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时41分]"
         },
         {
           "title": "特朗普再施压伊朗：庞大舰队已部署在途 谈判时间所剩无几",
@@ -71,11 +71,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时41分]"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：民主党必须与总统特朗普的白宫处理（与国土安全部/DHS相关的）预算问题。",
@@ -229,9 +230,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
+        },
+        {
+          "title": "美国财长贝森特：总统特朗普的美联储主席人选可能会在一周左右浮出水面。（雅虎财经）",
+          "url": "https://wallstreetcn.com/livenews/3045806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         },
         {
           "title": "特朗普再次暗示不会提名哈塞特执掌美联储",
@@ -276,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "鲍威尔：（鉴于特朗普的司法部发起刑事调查）拒绝置评国会山关键共和党人Thom Tillis发誓要阻挠美联储主席提名人的立场。 美联储独立性这种立法安排已经让美联储很好地服务于美国。 不相信美联储会（因为特朗普而）丧失独立性。 我的同僚们和我本人都强烈致力于维护独立性。",
+          "url": "https://wallstreetcn.com/livenews/3045799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         },
         {
           "title": "美国总统特朗普称赞优步和英特尔为“特朗普账户”捐款。",
@@ -358,7 +381,7 @@
     },
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
@@ -369,8 +392,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时41分]"
         },
         {
           "title": "科技巨头财报前标普五连阳，美元重挫创四年新低，黄金又新高，原油拉升，期银跳水",
@@ -381,8 +404,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时41分]"
         },
         {
           "title": "现货黄金短线走低超20美元，现报5280.94美元/盎司。",
@@ -394,6 +417,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "现货黄金涨超3%，在鲍威尔新闻发布会结束之际刷新历史高位至5341.85美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3045814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         },
         {
           "title": "黄金白银LOF为何突然停售",
@@ -418,6 +452,40 @@
           "time_info": "02时48分"
         },
         {
+          "title": "白银面临\"交割失败\"危机？3月或成贵金属\"关键时刻\"",
+          "url": "https://wallstreetcn.com/articles/3764384",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时41分]"
+        },
+        {
+          "title": "黄金白银基金暂停申购",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%9F%BA%E9%87%91%E6%9A%82%E5%81%9C%E7%94%B3%E8%B4%AD%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时41分]"
+        },
+        {
+          "title": "未来几周看涨到150美元！花旗高喊白银是“打了兴奋剂的黄金”，中国主导、印度跟买，但全球ETF净流出",
+          "url": "https://wallstreetcn.com/articles/3764316",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时41分]"
+        },
+        {
           "title": "白银有色7连板逻辑何在",
           "url": "https://www.toutiao.com/trending/7600386087566970422/",
           "source": "今日头条",
@@ -440,38 +508,86 @@
           "time_info": "02时48分"
         },
         {
-          "title": "白银面临\"交割失败\"危机？3月或成贵金属\"关键时刻\"",
-          "url": "https://wallstreetcn.com/articles/3764384",
-          "source": "华尔街见闻",
+          "title": "【每日收评】三大指数震荡分化涨跌不一，全市场超3600股飘绿，黄金、油气等周期股持续爆发",
+          "url": "https://www.cls.cn/detail/2272713",
+          "source": "财联社热门",
           "ranks": [
-            6
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时41分]"
         },
         {
-          "title": "黄金白银基金暂停申购",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%9F%BA%E9%87%91%E6%9A%82%E5%81%9C%E7%94%B3%E8%B4%AD%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "黄金突破 5300 美元关口，国内金饰克价突破 1610 元，黄金还能涨多久？",
+          "url": "https://www.zhihu.com/question/1999138722730500772",
+          "source": "知乎",
           "ranks": [
-            6,
-            7
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时41分]"
         },
         {
-          "title": "未来几周看涨到150美元！花旗高喊白银是“打了兴奋剂的黄金”，中国主导、印度跟买，但全球ETF净流出",
-          "url": "https://wallstreetcn.com/articles/3764316",
-          "source": "华尔街见闻",
+          "title": "水贝黄金预定价平台“杰我睿”兑付困难，深圳罗湖成立工作专班",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32480151",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时41分]"
+        },
+        {
+          "title": "黄金白银基金宣布暂停申购",
+          "url": "https://www.douyin.com/hot/2381695",
+          "source": "抖音",
+          "ranks": [
+            17,
+            24,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时41分]"
+        },
+        {
+          "title": "黄金平台暴雷,老千卷百亿跑路",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349810&amp;topic_name=%E9%BB%84%E9%87%91%E5%B9%B3%E5%8F%B0%E6%9A%B4%E9%9B%B7%2C%E8%80%81%E5%8D%83%E5%8D%B7%E7%99%BE%E4%BA%BF%E8%B7%91%E8%B7%AF",
+          "source": "贴吧",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时41分]"
+        },
+        {
+          "title": "金价暴涨女子卖300克黄金变现30万",
+          "url": "https://www.toutiao.com/trending/7600256243789627398/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时41分]"
+        },
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时41分]"
         },
         {
           "title": "现货黄金突破5320美元/盎司，日内涨2.69%。",
@@ -510,91 +626,11 @@
           "time_info": "[02时48分 ~ 03时37分]"
         },
         {
-          "title": "【每日收评】三大指数震荡分化涨跌不一，全市场超3600股飘绿，黄金、油气等周期股持续爆发",
-          "url": "https://www.cls.cn/detail/2272713",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时37分]"
-        },
-        {
-          "title": "黄金突破 5300 美元关口，国内金饰克价突破 1610 元，黄金还能涨多久？",
-          "url": "https://www.zhihu.com/question/1999138722730500772",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时37分]"
-        },
-        {
           "title": "水贝黄金预定价平台「杰我睿」疑似暴雷，深圳罗湖成立工作专班，目前情况怎么样？影响如何？受害者该怎么做？",
           "url": "https://www.zhihu.com/question/1999102898806732352",
           "source": "知乎",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时37分]"
-        },
-        {
-          "title": "水贝黄金预定价平台“杰我睿”兑付困难，深圳罗湖成立工作专班",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32480151",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时37分]"
-        },
-        {
-          "title": "黄金白银基金宣布暂停申购",
-          "url": "https://www.douyin.com/hot/2381695",
-          "source": "抖音",
-          "ranks": [
-            17,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时37分]"
-        },
-        {
-          "title": "黄金平台暴雷,老千卷百亿跑路",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349810&amp;topic_name=%E9%BB%84%E9%87%91%E5%B9%B3%E5%8F%B0%E6%9A%B4%E9%9B%B7%2C%E8%80%81%E5%8D%83%E5%8D%B7%E7%99%BE%E4%BA%BF%E8%B7%91%E8%B7%AF",
-          "source": "贴吧",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时37分]"
-        },
-        {
-          "title": "金价暴涨女子卖300克黄金变现30万",
-          "url": "https://www.toutiao.com/trending/7600256243789627398/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时37分]"
-        },
-        {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -632,7 +668,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         },
@@ -659,13 +695,24 @@
           "time_info": "00时50分"
         },
         {
+          "title": "现货黄金突破5330美元/盎司，日内涨2.89%。",
+          "url": "https://wallstreetcn.com/livenews/3045801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
           "title": "现货黄金涨1.80%，暂报5274.50美元；COMEX黄金期货涨3.71%。 现货白银跌0.65%，纽约期银涨5.15%。 COMEX铜期货涨0.96%。 WTI原油期货涨1.17%，布油涨1.01%。",
           "url": "https://wallstreetcn.com/livenews/3045756",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         },
@@ -702,11 +749,12 @@
           "url": "https://www.toutiao.com/trending/7599835425266089993/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时41分]"
         },
         {
           "title": "解读伊朗多重危机背后逻辑",
@@ -719,8 +767,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时41分]"
+        },
+        {
+          "title": "伊朗总统宣布启动紧急状态",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%AE%A3%E5%B8%83%E5%90%AF%E5%8A%A8%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时48分 ~ 04时41分]"
         },
         {
           "title": "伊朗副外长：做好200%的自卫准备",
@@ -733,18 +793,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 01时39分]"
-        },
-        {
-          "title": "伊朗总统宣布启动紧急状态",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%AE%A3%E5%B8%83%E5%90%AF%E5%8A%A8%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 03时37分]"
         },
         {
           "title": "美国国务卿鲁比奥：伊朗的抗议活动可能已经平息，但未来还会再次爆发。",
@@ -830,7 +878,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         },
@@ -860,8 +908,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时41分]"
         },
         {
           "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览（美股盘中）",
@@ -894,8 +942,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时41分]"
         },
         {
           "title": "瑞银：美联储仍将成为美股的顺风因素",
@@ -923,7 +971,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -933,8 +981,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时41分]"
         },
         {
           "title": "金价屡创历史新高意味着什么",
@@ -946,8 +994,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时41分]"
         },
         {
           "title": "金价波动如何影响实体金店",
@@ -957,11 +1005,12 @@
             6,
             2,
             14,
-            3
+            3,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时41分]"
         },
         {
           "title": "金价波动",
@@ -972,8 +1021,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 03时37分]"
+          "appearance_count": 3,
+          "time_info": "[02时48分 ~ 04时41分]"
+        },
+        {
+          "title": "美联储主席鲍威尔：未从金价上涨中解读出太多宏观信息。",
+          "url": "https://flash.jin10.com/detail/20260129041316561800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         }
       ]
     },
@@ -988,7 +1048,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         },
@@ -1016,7 +1076,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         }
