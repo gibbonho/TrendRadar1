@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T00:52:10.711596+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-31T01:41:11.528067+08:00",
+  "total_titles_processed": 373,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 20,
+      "match_count": 29,
       "titles": [
         {
           "title": "黄金、白银急速跳水，此轮暴跌的主要原因有哪些？瑞银为何在金银暴跌时逆势上调黄金目标价？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "英国首相今起访问上海：外滩钟声准时鸣响，期待下个中英黄金时代",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "【数据看盘】6.53亿资金逆势抢筹兴业银锡，湖南黄金龙虎榜现机构与游资博弈",
@@ -37,30 +37,41 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
-          "title": "美联储理事米兰：黄金是一个小市场。",
-          "url": "https://flash.jin10.com/detail/20260131003605691800",
+          "title": "酒店回应大堂78公斤黄金砖被连夜撤走",
+          "url": "https://www.toutiao.com/trending/7601082244884217875/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 01时41分]"
+        },
+        {
+          "title": "现货黄金失守4930美元/盎司，日内跌幅8.32%。",
+          "url": "https://flash.jin10.com/detail/20260131010830791800",
           "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "现货白银失守90美元/盎司，为1月16日以来首次，日内跌22.11%。",
+          "url": "https://wallstreetcn.com/livenews/3047512",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "现货白银再度走低，跌破94美元/盎司，日内跌18.62%。",
-          "url": "https://flash.jin10.com/detail/20260131003537553800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "time_info": "01时41分"
         },
         {
           "title": "沪指跌1%，创业板V型反弹涨超1%，算力硬件反弹，黄金、基本金属掀跌停潮，恒指跌2%，科网股普跌",
@@ -70,8 +81,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "24小时内两度巨震 黄金、白银在创纪录涨势后迎“拥挤交易清算”",
@@ -81,8 +92,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "黄金牛市还能走多远？小摩喊出8500美元天价 但警告短期回调风险",
@@ -92,19 +103,32 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
+        },
+        {
+          "title": "美联储理事米兰：黄金是一个小市场。",
+          "url": "https://flash.jin10.com/detail/20260131003605691800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "time_info": "[00时52分 ~ 01时41分]"
         },
         {
           "title": "澳门一酒店大堂78公斤黄金被曝搬空",
           "url": "https://s.weibo.com/weibo?q=%23%E6%BE%B3%E9%97%A8%E4%B8%80%E9%85%92%E5%BA%97%E5%A4%A7%E5%A0%8278%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91%E8%A2%AB%E6%9B%9D%E6%90%AC%E7%A9%BA%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "深交所：对“国投白银LOF”相关投资者采取了暂停交易等自律监管措施",
@@ -114,8 +138,20 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
+        },
+        {
+          "title": "现货白银再度走低，跌破94美元/盎司，日内跌18.62%。",
+          "url": "https://flash.jin10.com/detail/20260131003537553800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "time_info": "[00时52分 ~ 01时41分]"
         },
         {
           "title": "黄金暴跌!韭菜党全员跳崖",
@@ -125,8 +161,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "疯狂的黄金",
@@ -136,8 +172,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "高盛 CEO 认为，二三十岁的打工人应多投股票而非黄金，如何看待这一言论？",
@@ -147,8 +183,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "观察｜军事选项被不断推前，美伊已临界开打时刻？",
@@ -158,41 +194,44 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "博闻丨深圳水贝黄金预定价平台“杰我睿”兑付困难，全职宝妈称被套百万元",
           "url": "https://m.thepaper.cn/newsDetail_forward_32490260",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "女子卖房得120万元后全部买入白银，5个月狂赚200万元",
           "url": "https://m.thepaper.cn/newsDetail_forward_32498267",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "黄金为何下跌",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%B8%BA%E4%BD%95%E4%B8%8B%E8%B7%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "夫妻用CT废胶片提炼白银超27斤",
@@ -202,8 +241,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "黄金巨震原因找到了",
@@ -213,37 +252,93 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "黄金牛市还能走多远",
           "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%89%9B%E5%B8%82%E8%BF%98%E8%83%BD%E8%B5%B0%E5%A4%9A%E8%BF%9C",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
+        },
+        {
+          "title": "黄金价格单日巨震超400美元，回调开始了吗？如何应对？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32496768",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "time_info": "[01时40分 ~ 01时41分]"
+        },
+        {
+          "title": "现货黄金日内暴跌8.00%，现报4946.59美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260131005312654800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "现货白银日内暴跌20%",
+          "url": "https://flash.jin10.com/detail/20260131005101740800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "现货白银日内跌近20%",
+          "url": "https://flash.jin10.com/detail/20260131004841480800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "白银创2008年以来最大盘中跌幅",
+          "url": "https://wallstreetcn.com/livenews/3047502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "现货白银日内跌幅达18.5%，报93.83美元/盎司。 纽约银日内跌幅达18.0%，报93.76美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3047498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 24,
       "titles": [
-        {
-          "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
-          "url": "https://wallstreetcn.com/articles/3764534",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
-        },
         {
           "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
           "url": "https://www.cls.cn/detail/2276051",
@@ -252,19 +347,65 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
+        },
+        {
+          "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
+          "url": "https://wallstreetcn.com/articles/3764534",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "提名沃什，特朗普：他会是最伟大的美联储主席之一！",
           "url": "https://wallstreetcn.com/articles/3764603",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
+        },
+        {
+          "title": "美国总统特朗普：美联储主席鲍威尔要么是无能之辈，要么是骗子（crook）。 （对于司法部对鲍威尔的刑事调查）翻修工程要么无能，要么就是盗窃。",
+          "url": "https://wallstreetcn.com/livenews/3047514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "美国总统特朗普：向伊朗派遣军舰，如果达不成协议会发生什么，就拭目以待了。",
+          "url": "https://flash.jin10.com/detail/20260131010457097800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "美国总统特朗普：庞大的舰队正驶向伊朗，规模甚至超过前往委内瑞拉的。",
+          "url": "https://flash.jin10.com/detail/20260131010332215800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
         },
         {
           "title": "特朗普提名凯文·沃什担任美联储主席",
@@ -274,8 +415,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "谁是沃什？其岳父第一个建议特朗普买下格陵兰岛",
@@ -285,8 +426,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "特朗普提名凯文·沃什出任美联储主席，特朗普为何会选中他？若他出任将如何影响美国货币政策？",
@@ -296,8 +437,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
+        },
+        {
+          "title": "特朗普起诉美政府部门",
+          "url": "https://www.douyin.com/hot/2383706",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
@@ -307,19 +460,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
-        },
-        {
-          "title": "特朗普起诉美政府部门",
-          "url": "https://www.douyin.com/hot/2383706",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "特朗普：提名凯文·沃什出任美联储主席",
@@ -329,8 +471,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
+        },
+        {
+          "title": "俄方：普京收到了特朗普的请求",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E6%99%AE%E4%BA%AC%E6%94%B6%E5%88%B0%E4%BA%86%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E8%AF%B7%E6%B1%82",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
@@ -340,41 +494,98 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
-        },
-        {
-          "title": "俄方：普京收到了特朗普的请求",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E6%99%AE%E4%BA%AC%E6%94%B6%E5%88%B0%E4%BA%86%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E8%AF%B7%E6%B1%82",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "沃什胜出！特朗普为何提名他任美联储主席？对市场有何影响？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32498632",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "据NBC新闻：特朗普今日将签署行政命令，禁止在华盛顿特区举行印地赛车比赛。",
           "url": "https://flash.jin10.com/detail/20260131003448280800",
           "source": "金十数据",
           "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时41分]"
+        },
+        {
+          "title": "特朗普为啥选中沃什接棒鲍威尔",
+          "url": "https://www.toutiao.com/trending/7601024522976231430/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 01时41分]"
+        },
+        {
+          "title": "美国总统特朗普称赞标普500指数创历史新高。",
+          "url": "https://flash.jin10.com/detail/20260131010300000800",
+          "source": "金十数据",
+          "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时52分"
+          "time_info": "01时41分"
+        },
+        {
+          "title": "特朗普：要求沃什降息可能不太合适，沃什想要降息",
+          "url": "https://wallstreetcn.com/livenews/3047509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "纳斯达克100指数跌超1%，标普跌0.7%，道指下跌473点跌幅将近1%。 半导体指数跌幅扩大至2.2%。 此前，特朗普“赞赏标普创历史新高”的话音刚落。",
+          "url": "https://wallstreetcn.com/livenews/3047508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "美国总统特朗普赞赏1月30日发布的“惊人”数字。",
+          "url": "https://wallstreetcn.com/livenews/3047506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "美国总统特朗普赞赏标普500指数创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3047505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
         },
         {
           "title": "墨西哥总统辛鲍姆：美国总统特朗普在周四的通话中未提及古巴。",
@@ -383,7 +594,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
         },
@@ -394,7 +605,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
         }
@@ -402,8 +613,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "美国对伊朗实施新一轮制裁",
+          "url": "https://wallstreetcn.com/livenews/3047510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
         {
           "title": "美军兵临城下，伊朗如何反击？",
           "url": "https://news.ifeng.com/c/8qL149kv1KE",
@@ -412,19 +634,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "伊朗最高领袖顾问：欧盟国家军队将被视为恐怖组织",
           "url": "https://wallstreetcn.com/livenews/3047475",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时41分]"
+        },
+        {
+          "title": "曝伊朗4万吨“航母”出动",
+          "url": "https://www.toutiao.com/trending/7601069328506555931/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 01时41分]"
         },
         {
           "title": "伊朗外长：伊美谈判应在公平、平等的前提下进行",
@@ -433,7 +667,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
         },
@@ -444,7 +678,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
         }
@@ -452,7 +686,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指齐跌，闪迪涨24%，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
@@ -462,8 +696,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -473,8 +707,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时41分]"
+        },
+        {
+          "title": "美股股指走低，道指跌1%，纳指跌超0.9%，标普500指数跌0.72%。",
+          "url": "https://flash.jin10.com/detail/20260131010558530800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
         }
       ]
     }
