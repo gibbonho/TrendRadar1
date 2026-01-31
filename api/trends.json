@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-01-31T17:36:59.933300+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2026-01-31T18:34:07.802066+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
       "match_count": 94,
       "titles": [
+        {
+          "title": "沃什冲击！金属遭遇“黑色星期五”，金铂钯大跳水超10%，白银一度暴跌37%，铜跌4%，美股指齐跌，原油逆市收涨",
+          "url": "https://wallstreetcn.com/articles/3764541",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时35分 ~ 18时34分]"
+        },
+        {
+          "title": "【早报】黄金、白银崩盘式跳水；吴清：全力巩固资本市场稳中向好势头",
+          "url": "https://www.cls.cn/detail/2276385",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时35分 ~ 18时34分]"
+        },
         {
           "title": "黄金、白银急速跳水，此轮暴跌的主要原因有哪些？瑞银为何在金银暴跌时逆势上调黄金目标价？",
           "url": "https://www.zhihu.com/question/2000650330480800125",
@@ -21,6 +44,20 @@
           "time_info": "[00时51分 ~ 07时34分]"
         },
         {
+          "title": "黄金白银遭遇史诗级跳水 背后“推手”究竟是谁？",
+          "url": "https://www.cls.cn/detail/2276432",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时40分 ~ 18时34分]"
+        },
+        {
           "title": "英国首相今起访问上海：外滩钟声准时鸣响，期待下个中英黄金时代",
           "url": "https://m.thepaper.cn/newsDetail_forward_32496582",
           "source": "澎湃新闻",
@@ -33,29 +70,6 @@
           "time_info": "[00时51分 ~ 07时34分]"
         },
         {
-          "title": "沃什冲击！金属遭遇“黑色星期五”，金铂钯大跳水超10%，白银一度暴跌37%，铜跌4%，美股指齐跌，原油逆市收涨",
-          "url": "https://wallstreetcn.com/articles/3764541",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时35分 ~ 17时36分]"
-        },
-        {
-          "title": "【早报】黄金、白银崩盘式跳水；吴清：全力巩固资本市场稳中向好势头",
-          "url": "https://www.cls.cn/detail/2276385",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时35分 ~ 17时36分]"
-        },
-        {
           "title": "沃什提名引爆金银“血洗”！盘中白银创纪录跌超35%、黄金跌超10%",
           "url": "https://wallstreetcn.com/articles/3764625",
           "source": "华尔街见闻",
@@ -64,8 +78,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时35分 ~ 17时36分]"
+          "appearance_count": 11,
+          "time_info": "[10时35分 ~ 18时34分]"
         },
         {
           "title": "沪指跌1%，创业板V型反弹涨超1%，算力硬件反弹，黄金、基本金属掀跌停潮，恒指跌2%，科网股普跌",
@@ -90,22 +104,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时35分 ~ 17时36分]"
-        },
-        {
-          "title": "黄金白银遭遇史诗级跳水 背后“推手”究竟是谁？",
-          "url": "https://www.cls.cn/detail/2276432",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时40分 ~ 17时36分]"
+          "appearance_count": 14,
+          "time_info": "[06时35分 ~ 18时34分]"
         },
         {
           "title": "酒店回应大堂78公斤黄金砖被连夜撤走",
@@ -119,6 +119,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时40分 ~ 12时40分]"
+        },
+        {
+          "title": "黄金白银为何暴涨暴跌",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%B8%BA%E4%BD%95%E6%9A%B4%E6%B6%A8%E6%9A%B4%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时40分 ~ 18时34分]"
         },
         {
           "title": "【数据看盘】6.53亿资金逆势抢筹兴业银锡，湖南黄金龙虎榜现机构与游资博弈",
@@ -156,8 +169,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时33分 ~ 17时36分]"
+          "appearance_count": 13,
+          "time_info": "[07时33分 ~ 18时34分]"
         },
         {
           "title": "深交所：对“国投白银LOF”相关投资者采取了暂停交易等自律监管措施",
@@ -226,8 +239,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时51分 ~ 17时36分]"
+          "appearance_count": 23,
+          "time_info": "[00时51分 ~ 18时34分]"
         },
         {
           "title": "博闻丨深圳水贝黄金预定价平台“杰我睿”兑付困难，全职宝妈称被套百万元",
@@ -241,6 +254,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时51分 ~ 10时35分]"
+        },
+        {
+          "title": "黄金遭遇40年来最大下跌",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E9%81%AD%E9%81%8740%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E4%B8%8B%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            12,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时40分 ~ 18时34分]"
         },
         {
           "title": "高盛 CEO 认为，二三十岁的打工人应多投股票而非黄金，如何看待这一言论？",
@@ -266,6 +293,22 @@
           "time_info": "[00时51分 ~ 07时34分]"
         },
         {
+          "title": "黄金白银大幅下跌",
+          "url": "https://www.douyin.com/hot/2384797",
+          "source": "抖音",
+          "ranks": [
+            19,
+            23,
+            25,
+            29,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时40分 ~ 18时34分]"
+        },
+        {
           "title": "黄金为何下跌",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%B8%BA%E4%BD%95%E4%B8%8B%E8%B7%8C",
           "source": "bilibili 热搜",
@@ -278,8 +321,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时51分 ~ 17时36分]"
+          "appearance_count": 23,
+          "time_info": "[00时51分 ~ 18时34分]"
         },
         {
           "title": "夫妻用CT废胶片提炼白银超27斤",
@@ -318,19 +361,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时51分 ~ 06时35分]"
-        },
-        {
-          "title": "黄金白银为何暴涨暴跌",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%B8%BA%E4%BD%95%E6%9A%B4%E6%B6%A8%E6%9A%B4%E8%B7%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时40分 ~ 17时36分]"
         },
         {
           "title": "黄金遭遇40年来最大下跌",
@@ -379,36 +409,6 @@
             21,
             22,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时40分 ~ 17时36分]"
-        },
-        {
-          "title": "黄金遭遇40年来最大下跌",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E9%81%AD%E9%81%8740%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E4%B8%8B%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            12,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时40分 ~ 17时36分]"
-        },
-        {
-          "title": "黄金白银大幅下跌",
-          "url": "https://www.douyin.com/hot/2384797",
-          "source": "抖音",
-          "ranks": [
-            19,
-            23,
-            25,
-            29,
-            27,
-            30
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -499,17 +499,6 @@
           "time_info": "[02时56分 ~ 07时34分]"
         },
         {
-          "title": "深圳罗湖区：水贝黄金平台杰我睿公司已启动兑付",
-          "url": "https://wallstreetcn.com/livenews/3047665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
-        },
-        {
           "title": "现货黄金跌破4700美元/盎司，日内跌12.60%。",
           "url": "https://flash.jin10.com/detail/20260131022917931800",
           "source": "金十数据",
@@ -573,26 +562,17 @@
           "time_info": "[10时35分 ~ 13时45分]"
         },
         {
-          "title": "伊朗陆军总司令：伊朗武装部队已做好充分的防御和军事准备",
-          "url": "https://wallstreetcn.com/livenews/3047663",
-          "source": "华尔街见闻-快讯",
+          "title": "乘客带400万黄金坐高铁 安检员报警",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E5%B8%A6400%E4%B8%87%E9%BB%84%E9%87%91%E5%9D%90%E9%AB%98%E9%93%81+%E5%AE%89%E6%A3%80%E5%91%98%E6%8A%A5%E8%AD%A6",
+          "source": "百度热搜",
           "ranks": [
-            3
+            17,
+            5,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
-        },
-        {
-          "title": "伊朗陆军总司令：伊朗武装部队已做好充分的防御和军事准备",
-          "url": "https://flash.jin10.com/detail/20260131164253443800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时40分 ~ 18时34分]"
         },
         {
           "title": "现货黄金重回4900美元/盎司，较日低反弹超200美元。",
@@ -675,6 +655,18 @@
           "time_info": "[03时39分 ~ 07时34分]"
         },
         {
+          "title": "深圳罗湖区：水贝黄金平台杰我睿公司已启动兑付",
+          "url": "https://wallstreetcn.com/livenews/3047665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 18时34分]"
+        },
+        {
           "title": "金价重挫12%，白银暴跌超34%，标普跌超1%，投资者对美联储独立性的担忧情绪降温",
           "url": "https://wallstreetcn.com/livenews/3047536",
           "source": "华尔街见闻-快讯",
@@ -738,16 +730,16 @@
           "time_info": "[01时41分 ~ 02时56分]"
         },
         {
-          "title": "乘客带400万黄金坐高铁 安检员报警",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E5%B8%A6400%E4%B8%87%E9%BB%84%E9%87%91%E5%9D%90%E9%AB%98%E9%93%81+%E5%AE%89%E6%A3%80%E5%91%98%E6%8A%A5%E8%AD%A6",
-          "source": "百度热搜",
+          "title": "伊朗陆军总司令：伊朗武装部队已做好充分的防御和军事准备",
+          "url": "https://wallstreetcn.com/livenews/3047663",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17,
-            5
+            3,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时36分]"
+          "time_info": "[17时36分 ~ 18时34分]"
         },
         {
           "title": "现货白银再度走低，跌破94美元/盎司，日内跌18.62%。",
@@ -760,6 +752,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时41分]"
+        },
+        {
+          "title": "伊朗陆军总司令：伊朗武装部队已做好充分的防御和军事准备",
+          "url": "https://flash.jin10.com/detail/20260131164253443800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 18时34分]"
         },
         {
           "title": "美持续施压伊朗，特朗普：没有撤回军事部署的时间表",
@@ -835,6 +839,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时35分 ~ 13时45分]"
+        },
+        {
+          "title": "再度提保扩板！上期所调整白银期货部分合约涨跌停板和交易保证金比例",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32500767",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 18时34分]"
         },
         {
           "title": "40年最大单日跌幅！现货黄金价格跳水超10%，白银一度暴跌近36%",
@@ -1043,17 +1059,6 @@
           "time_info": "02时56分"
         },
         {
-          "title": "再度提保扩板！上期所调整白银期货部分合约涨跌停板和交易保证金比例",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32500767",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
           "title": "黄金白银断崖式崩盘",
           "url": "https://www.douyin.com/hot/2384797",
           "source": "抖音",
@@ -1190,8 +1195,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时51分 ~ 17时36分]"
+          "appearance_count": 23,
+          "time_info": "[00时51分 ~ 18时34分]"
         },
         {
           "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
@@ -1203,8 +1208,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时51分 ~ 17时36分]"
+          "appearance_count": 23,
+          "time_info": "[00时51分 ~ 18时34分]"
         },
         {
           "title": "特朗普粗暴评论斯塔默访华，英高官罕见回了一巴掌",
@@ -1217,8 +1222,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[04时40分 ~ 17时36分]"
+          "appearance_count": 17,
+          "time_info": "[04时40分 ~ 18时34分]"
         },
         {
           "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
@@ -1233,6 +1238,17 @@
           "time_info": "[00时51分 ~ 10时35分]"
         },
         {
+          "title": "斯塔默回击特朗普涉中英言论",
+          "url": "https://news.ifeng.com/c/8qMRPj6uboL",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时52分 ~ 18时34分]"
+        },
+        {
           "title": "沃什胜出！特朗普为何提名他任美联储主席？对市场有何影响？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32498632",
           "source": "澎湃新闻",
@@ -1245,6 +1261,19 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时51分 ~ 15时36分]"
+        },
+        {
+          "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
+          "url": "https://wallstreetcn.com/premium/articles/3764615?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时35分 ~ 18时34分]"
         },
         {
           "title": "特朗普提名凯文·沃什担任美联储主席",
@@ -1269,6 +1298,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时51分 ~ 07时34分]"
+        },
+        {
+          "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
+          "url": "https://wallstreetcn.com/articles/3764623",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时40分 ~ 18时34分]"
         },
         {
           "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
@@ -1297,17 +1340,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时51分 ~ 07时34分]"
-        },
-        {
-          "title": "斯塔默回击特朗普涉中英言论",
-          "url": "https://news.ifeng.com/c/8qMRPj6uboL",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时52分 ~ 17时36分]"
         },
         {
           "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
@@ -1345,8 +1377,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时35分 ~ 17时36分]"
+          "appearance_count": 14,
+          "time_info": "[06时35分 ~ 18时34分]"
         },
         {
           "title": "俄方：普京收到了特朗普的请求",
@@ -1362,32 +1394,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时51分 ~ 07时34分]"
-        },
-        {
-          "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
-          "url": "https://wallstreetcn.com/premium/articles/3764615?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时35分 ~ 17时36分]"
-        },
-        {
-          "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
-          "url": "https://wallstreetcn.com/articles/3764623",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时40分 ~ 17时36分]"
         },
         {
           "title": "特朗普：已告知伊朗达成协议的最后期限",
@@ -1413,6 +1419,19 @@
           "time_info": "[00时51分 ~ 04时40分]"
         },
         {
+          "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
+          "url": "https://www.cls.cn/detail/2276487",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时52分 ~ 18时34分]"
+        },
+        {
           "title": "特朗普驱赶ABC记者",
           "url": "https://www.douyin.com/hot/2385006",
           "source": "抖音",
@@ -1432,11 +1451,12 @@
             8,
             9,
             17,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时45分 ~ 17时36分]"
+          "appearance_count": 6,
+          "time_info": "[13时45分 ~ 18时34分]"
         },
         {
           "title": "美国总统特朗普：向伊朗派遣军舰，如果达不成协议会发生什么，就拭目以待了。",
@@ -1489,19 +1509,6 @@
           "time_info": "01时41分"
         },
         {
-          "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
-          "url": "https://www.cls.cn/detail/2276487",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时52分 ~ 17时36分]"
-        },
-        {
           "title": "美国总统特朗普将于十分钟后出席一场政策会议。",
           "url": "https://flash.jin10.com/detail/20260131025000000800",
           "source": "金十数据",
@@ -1526,6 +1533,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时40分 ~ 15时36分]"
+        },
+        {
+          "title": "观察丨美伊开打风险在回落？专家：特朗普虚实难辨，威胁与对话并存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32502341",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时36分 ~ 18时34分]"
         },
         {
           "title": "美国总统特朗普：很高兴提名Brett Matsumoto担任美国劳工统计局（BLS）局长。 有信心Brett Matsumoto能够解决BLS的问题。",
@@ -1605,16 +1625,16 @@
           "time_info": "[04时40分 ~ 05时36分]"
         },
         {
-          "title": "观察丨美伊开打风险在回落？专家：特朗普虚实难辨，威胁与对话并存",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32502341",
-          "source": "澎湃新闻",
+          "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
+          "url": "https://wallstreetcn.com/articles/3764621",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时36分 ~ 17时36分]"
+          "appearance_count": 4,
+          "time_info": "[16时40分 ~ 18时34分]"
         },
         {
           "title": "特朗普宣布提名布雷特·松本为劳工统计局新任局长",
@@ -1711,17 +1731,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时33分 ~ 07时34分]"
-        },
-        {
-          "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
-          "url": "https://wallstreetcn.com/articles/3764621",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时36分]"
         },
         {
           "title": "美国参议院民主党领导人Schumer：如果总统特朗普对美联储继续“仇深似海”（vendetta），参议院就不可以推动他的美联储主席提名人沃什的确认程序。",
@@ -1873,8 +1882,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[04时40分 ~ 17时36分]"
+          "appearance_count": 17,
+          "time_info": "[04时40分 ~ 18时34分]"
         },
         {
           "title": "伊朗最高领袖顾问：已掌握敌方作战计划，将适时发动打击",
@@ -1885,8 +1894,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[05时35分 ~ 17时36分]"
+          "appearance_count": 16,
+          "time_info": "[05时35分 ~ 18时34分]"
         },
         {
           "title": "曝伊朗4万吨“航母”出动",
@@ -2121,8 +2130,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时35分 ~ 17时36分]"
+          "appearance_count": 11,
+          "time_info": "[10时35分 ~ 18时34分]"
         },
         {
           "title": "鹰派预期抬升，美股指齐跌，闪迪冲高回落仍涨7%，商品遭遇黑色星期五，地缘风险撑原油收涨",
@@ -2213,7 +2222,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价",
@@ -2258,6 +2267,20 @@
           "time_info": "[10时35分 ~ 14时53分]"
         },
         {
+          "title": "机构：金价雪崩式暴跌或因“伽马挤压”而加剧",
+          "url": "https://flash.jin10.com/detail/20260131144922707800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时36分 ~ 18时34分]"
+        },
+        {
           "title": "实探“北京水贝”：金价高位跳水观望情绪浓厚，成交一夜之间降至冰点",
           "url": "https://wallstreetcn.com/livenews/3047622",
           "source": "华尔街见闻-快讯",
@@ -2273,19 +2296,6 @@
           "time_info": "[10时35分 ~ 15时36分]"
         },
         {
-          "title": "机构：金价雪崩式暴跌或因“伽马挤压”而加剧",
-          "url": "https://flash.jin10.com/detail/20260131144922707800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时36分 ~ 17时36分]"
-        },
-        {
           "title": "实探“北京水贝”：金价高位跳水观望情绪浓厚，成交一夜之间降至冰点",
           "url": "https://flash.jin10.com/detail/20260131084457932800",
           "source": "金十数据",
@@ -2296,6 +2306,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时35分 ~ 12时40分]"
+        },
+        {
+          "title": "金价银价为何创纪录暴跌",
+          "url": "https://www.douyin.com/hot/2385262",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 18时34分]"
         },
         {
           "title": "金价大幅下跌水贝市场有人果断抄底",
