@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T22:34:52.624098+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-02-01T23:34:06.333119+08:00",
+  "total_titles_processed": 1291,
   "failed_sources": [],
   "trends": [
     {
@@ -53,6 +53,21 @@
           "time_info": "[00时39分 ~ 15时45分]"
         },
         {
+          "title": "【早报】SpaceX申请部署100万颗卫星；CME上调黄金、白银期货保证金比例",
+          "url": "https://www.cls.cn/detail/2276655",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时17分 ~ 23时34分]"
+        },
+        {
           "title": "黄金白银大幅下跌 投资者怎么办",
           "url": "https://www.douyin.com/hot/2385311",
           "source": "抖音",
@@ -65,18 +80,18 @@
           "time_info": "[02时43分 ~ 07时31分]"
         },
         {
-          "title": "【早报】SpaceX申请部署100万颗卫星；CME上调黄金、白银期货保证金比例",
-          "url": "https://www.cls.cn/detail/2276655",
-          "source": "财联社热门",
+          "title": "美银Hartnett：终结\"黄金大牛市\"的只能是\"更大的事件\"",
+          "url": "https://wallstreetcn.com/articles/3764682",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            7,
+            10,
+            5,
             6,
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时17分 ~ 22时34分]"
+          "appearance_count": 8,
+          "time_info": "[16时42分 ~ 23时34分]"
         },
         {
           "title": "拟整合6000亿元金矿的黄金股月内股价涨超70% 1月披露并购重组进展的A股名单一览",
@@ -87,11 +102,12 @@
             11,
             10,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时25分 ~ 22时34分]"
+          "appearance_count": 12,
+          "time_info": "[13时25分 ~ 23时34分]"
         },
         {
           "title": "黄金白银创单日暴跌纪录",
@@ -142,18 +158,43 @@
           "time_info": "[00时39分 ~ 03时28分]"
         },
         {
-          "title": "美银Hartnett：终结\"黄金大牛市\"的只能是\"更大的事件\"",
-          "url": "https://wallstreetcn.com/articles/3764682",
-          "source": "华尔街见闻",
+          "title": "国投白银LOF开市停牌1小时",
+          "url": "https://www.douyin.com/hot/2386318",
+          "source": "抖音",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时06分 ~ 23时34分]"
+        },
+        {
+          "title": "周末要闻汇总：SpaceX申请部署100万颗卫星；黄金、白银迎史诗级暴跌",
+          "url": "https://www.cls.cn/detail/2276774",
+          "source": "财联社热门",
           "ranks": [
             10,
-            5,
-            6,
-            4
+            7,
+            3,
+            1
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时42分 ~ 22时34分]"
+          "time_info": "[18时35分 ~ 23时34分]"
+        },
+        {
+          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
+          "url": "https://wallstreetcn.com/articles/3764687",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时29分 ~ 23时34分]"
         },
         {
           "title": "第一批重仓黄金的人，正排队维权？",
@@ -228,18 +269,6 @@
           "time_info": "[11时17分 ~ 18时35分]"
         },
         {
-          "title": "国投白银LOF开市停牌1小时",
-          "url": "https://www.douyin.com/hot/2386318",
-          "source": "抖音",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 22时34分]"
-        },
-        {
           "title": "黄金现在适合抄底吗",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%8E%B0%E5%9C%A8%E9%80%82%E5%90%88%E6%8A%84%E5%BA%95%E5%90%97",
           "source": "bilibili 热搜",
@@ -252,17 +281,19 @@
           "time_info": "[17时39分 ~ 18时35分]"
         },
         {
-          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
-          "url": "https://wallstreetcn.com/articles/3764687",
-          "source": "华尔街见闻",
+          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
+          "url": "https://wallstreetcn.com/livenews/3047808",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            4,
-            3
+            1,
+            6,
+            11,
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时29分 ~ 22时34分]"
+          "appearance_count": 5,
+          "time_info": "[18时35分 ~ 23时34分]"
         },
         {
           "title": "黄金暴跌的成因与未来展望",
@@ -275,6 +306,22 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时39分 ~ 21时06分]"
+        },
+        {
+          "title": "国投白银LOF：本基金将于2月2日开市起至当日10:30停牌",
+          "url": "https://wallstreetcn.com/livenews/3047793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10,
+            15,
+            20,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时39分 ~ 23时34分]"
         },
         {
           "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
@@ -297,33 +344,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
-        },
-        {
-          "title": "周末要闻汇总：SpaceX申请部署100万颗卫星；黄金、白银迎史诗级暴跌",
-          "url": "https://www.cls.cn/detail/2276774",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时35分 ~ 22时34分]"
-        },
-        {
-          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
-          "url": "https://wallstreetcn.com/livenews/3047808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时35分 ~ 22时34分]"
         },
         {
           "title": "据以色列第12频道：以色列总参谋长与美国官员举行会谈，讨论了有关对伊朗进行潜在打击的军事协调问题。以色列方面尚不清楚特朗普对伊朗的意图，但他们正在为各种可能性做好准备。",
@@ -368,19 +388,16 @@
           "time_info": "[18时35分 ~ 22时34分]"
         },
         {
-          "title": "国投白银LOF：本基金将于2月2日开市起至当日10:30停牌",
-          "url": "https://wallstreetcn.com/livenews/3047793",
-          "source": "华尔街见闻-快讯",
+          "title": "1克纯银仅6.88元？以2.5吨白银建造的湖南永兴银楼被拍卖",
+          "url": "https://news.ifeng.com/c/8qOM4ThmwoB",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            10,
-            15,
-            20,
-            27
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时39分 ~ 22时34分]"
+          "time_info": "[19时29分 ~ 23时34分]"
         },
         {
           "title": "30年前黄金80一克 女子囤了几公斤",
@@ -446,16 +463,16 @@
           "time_info": "[15时01分 ~ 15时45分]"
         },
         {
-          "title": "1克纯银仅6.88元？以2.5吨白银建造的湖南永兴银楼被拍卖",
-          "url": "https://news.ifeng.com/c/8qOM4ThmwoB",
-          "source": "凤凰网",
+          "title": "女演员13年前囤白银遗忘 需补交7千",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%BC%94%E5%91%9813%E5%B9%B4%E5%89%8D%E5%9B%A4%E7%99%BD%E9%93%B6%E9%81%97%E5%BF%98+%E9%9C%80%E8%A1%A5%E4%BA%A47%E5%8D%83",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            11
+            26,
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时29分 ~ 22时34分]"
+          "time_info": "[22时34分 ~ 23时34分]"
         },
         {
           "title": "白银lof为何禁止申购",
@@ -468,6 +485,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时39分 ~ 19时29分]"
+        },
+        {
+          "title": "伊朗官员：有关伊斯兰革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。伊斯兰革命卫队并未就将在霍尔木兹海峡举行军事演习发布任何官方公告。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3047820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 23时34分]"
         },
         {
           "title": "黄金白银下跌会如何影响A股",
@@ -494,6 +523,18 @@
           "time_info": "[13时25分 ~ 15时01分]"
         },
         {
+          "title": "据路透社：伊朗官员表示，有关伊朗革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。革命卫队尚未就霍尔木兹海峡军演事宜发布官方声明。",
+          "url": "https://flash.jin10.com/detail/20260201210033131800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 23时34分]"
+        },
+        {
           "title": "金价暴跌后顾客排长队出售黄金",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%90%8E%E9%A1%BE%E5%AE%A2%E6%8E%92%E9%95%BF%E9%98%9F%E5%87%BA%E5%94%AE%E9%BB%84%E9%87%91",
           "source": "百度热搜",
@@ -515,28 +556,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
-        },
-        {
-          "title": "伊朗官员：有关伊斯兰革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。伊斯兰革命卫队并未就将在霍尔木兹海峡举行军事演习发布任何官方公告。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3047820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "据路透社：伊朗官员表示，有关伊朗革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。革命卫队尚未就霍尔木兹海峡军演事宜发布官方声明。",
-          "url": "https://flash.jin10.com/detail/20260201210033131800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
         },
         {
           "title": "女演员补缴7千提取13年前囤的白银",
@@ -581,17 +600,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
-        },
-        {
-          "title": "女演员13年前囤白银遗忘 需补交7千",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%BC%94%E5%91%9813%E5%B9%B4%E5%89%8D%E5%9B%A4%E7%99%BD%E9%93%B6%E9%81%97%E5%BF%98+%E9%9C%80%E8%A1%A5%E4%BA%A47%E5%8D%83",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
         },
         {
           "title": "内存条变身“电子黄金”背后",
@@ -646,8 +654,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时17分 ~ 22时34分]"
+          "appearance_count": 13,
+          "time_info": "[11时17分 ~ 23时34分]"
         },
         {
           "title": "伊朗北部一地司法部门逮捕300名参与骚乱人员",
@@ -789,6 +797,21 @@
           "time_info": "[00时39分 ~ 07时31分]"
         },
         {
+          "title": "伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32509724",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            8,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时01分 ~ 23时34分]"
+        },
+        {
           "title": "伊朗总统：战争既不符合伊朗也不符合美国利益",
           "url": "https://m.thepaper.cn/newsDetail_forward_32509366",
           "source": "澎湃新闻",
@@ -801,8 +824,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时25分 ~ 22时34分]"
+          "appearance_count": 12,
+          "time_info": "[13时25分 ~ 23时34分]"
         },
         {
           "title": "美军侦察机现身伊朗附近空域，美国为何盯上伊朗？一旦动武将产生哪些连锁反应？",
@@ -838,21 +861,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时39分 ~ 07时31分]"
-        },
-        {
-          "title": "伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32509724",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9,
-            8,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时01分 ~ 22时34分]"
         },
         {
           "title": "两名以色列官员表示，以色列未参与伊朗爆炸事件。",
@@ -1055,17 +1063,6 @@
           "time_info": "00时39分"
         },
         {
-          "title": "伊朗军方：我们的手始终放在扳机上",
-          "url": "https://www.toutiao.com/trending/7601336798447140918/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
           "title": "伊朗革命卫队：伊武装部队准备就绪 状态远超“12日战争”时期",
           "url": "https://flash.jin10.com/detail/20260201160413399800",
           "source": "金十数据",
@@ -1078,6 +1075,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时42分 ~ 19时29分]"
+        },
+        {
+          "title": "伊朗军方：我们的手始终放在扳机上",
+          "url": "https://www.toutiao.com/trending/7601336798447140918/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时34分 ~ 23时34分]"
         },
         {
           "title": "伊朗阿巴斯港一楼房发生爆炸，已致1死14伤",
@@ -1097,11 +1106,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 22时34分]"
+          "appearance_count": 3,
+          "time_info": "[21时06分 ~ 23时34分]"
         },
         {
           "title": "以美军方高层被曝本周末密集会谈 讨论对伊朗打击行动",
@@ -1109,11 +1119,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 22时34分]"
+          "appearance_count": 3,
+          "time_info": "[21时06分 ~ 23时34分]"
         },
         {
           "title": "伊朗议长宣布欧洲国家军队将被视为“恐怖组织”",
@@ -1155,6 +1166,18 @@
           "time_info": "[05时31分 ~ 11时17分]"
         },
         {
+          "title": "下周重磅日程：美非农、欧英央行决议、日本大选、伊朗局势、谷歌亚马逊AMD财报",
+          "url": "https://wallstreetcn.com/articles/3764656",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时06分 ~ 23时34分]"
+        },
+        {
           "title": "伊朗总统谴责美以欧煽动仇恨",
           "url": "https://wallstreetcn.com/livenews/3047682",
           "source": "华尔街见闻-快讯",
@@ -1164,6 +1187,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时39分 ~ 03时28分]"
+        },
+        {
+          "title": "伊朗革命卫队海军司令：伊朗人民将继续坚定不移地抵御敌人的阴谋。",
+          "url": "https://flash.jin10.com/detail/20260201193037958800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时06分 ~ 23时34分]"
         },
         {
           "title": "伊朗最高领袖：如果美国挑起战争 这次冲突将不再局限于一地",
@@ -1190,30 +1226,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时39分 ~ 19时29分]"
-        },
-        {
-          "title": "伊朗革命卫队海军司令：伊朗人民将继续坚定不移地抵御敌人的阴谋。",
-          "url": "https://flash.jin10.com/detail/20260201193037958800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 22时34分]"
-        },
-        {
-          "title": "下周重磅日程：美非农、欧英央行决议、日本大选、伊朗局势、谷歌亚马逊AMD财报",
-          "url": "https://wallstreetcn.com/articles/3764656",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 22时34分]"
         },
         {
           "title": "伊朗阿巴斯港一楼房发生爆炸，伊朗军方表示已完成备战随时待发，目前伊朗局势如何？",
@@ -1277,7 +1289,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
@@ -1302,6 +1314,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时39分 ~ 07时31分]"
+        },
+        {
+          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时39分 ~ 23时34分]"
         },
         {
           "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
@@ -1352,20 +1378,6 @@
           "time_info": "[02时43分 ~ 07时31分]"
         },
         {
-          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时39分 ~ 22时34分]"
-        },
-        {
           "title": "特朗普夫人个人纪录片上映，成本超5亿元，全球票房惨淡，评分1.7分",
           "url": "https://wallstreetcn.com/livenews/3047706",
           "source": "华尔街见闻-快讯",
@@ -1378,6 +1390,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时39分 ~ 07时31分]"
+        },
+        {
+          "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
+          "url": "https://news.ifeng.com/c/8qOFedymx0W",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时06分 ~ 23时34分]"
         },
         {
           "title": "特朗普：明尼苏达州州长要么是腐败之人，要么能力不足",
@@ -1465,17 +1488,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时31分]"
-        },
-        {
-          "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
-          "url": "https://news.ifeng.com/c/8qOFedymx0W",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 22时34分]"
         },
         {
           "title": "特朗普称伊朗正“严肃”与美国对话",
@@ -1566,7 +1578,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -1577,11 +1589,23 @@
           "ranks": [
             1,
             9,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时29分 ~ 22时34分]"
+          "appearance_count": 4,
+          "time_info": "[19时29分 ~ 23时34分]"
+        },
+        {
+          "title": "美国众议院议长约翰逊：特朗普在移民政策上可能会进行“重新调整”。 未来数日将就拨款法案展开 “富有成效的” 磋商。",
+          "url": "https://wallstreetcn.com/livenews/3047823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：在美国总统特朗普领导下，与美国的接触已变得高效得多。在所谓“特朗普混乱”背后，他是一位高效且富有创造力的美国领导人。",
@@ -1590,11 +1614,39 @@
           "ranks": [
             3,
             11,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时29分 ~ 22时34分]"
+          "appearance_count": 4,
+          "time_info": "[19时29分 ~ 23时34分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-01）",
+          "url": "https://flash.jin10.com/detail/20260201185420868800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            13,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时29分 ~ 23时34分]"
+        },
+        {
+          "title": "特朗普：美委将“分享”石油收益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510288",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时29分 ~ 23时34分]"
         },
         {
           "title": "特朗普：伊朗正“严肃”地与美国进行对话",
@@ -1609,6 +1661,18 @@
           "time_info": "[11时17分 ~ 13时25分]"
         },
         {
+          "title": "特朗普宣布：白宫草坪看格斗，首都街头飙赛车",
+          "url": "https://news.ifeng.com/c/8qOL2MAnXO8",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时06分 ~ 23时34分]"
+        },
+        {
           "title": "特朗普称沃什有望获民主党人支持 并预期其将推动降息",
           "url": "https://flash.jin10.com/detail/20260201105105064800",
           "source": "金十数据",
@@ -1621,17 +1685,16 @@
           "time_info": "[11时17分 ~ 13时25分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-01）",
-          "url": "https://flash.jin10.com/detail/20260201185420868800",
-          "source": "金十数据",
+          "title": "特朗普给自己提名的美联储主席下马威：小心被起诉",
+          "url": "https://news.ifeng.com/c/8qOLT943YcA",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            13,
-            24
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时29分 ~ 22时34分]"
+          "appearance_count": 4,
+          "time_info": "[21时06分 ~ 23时34分]"
         },
         {
           "title": "特朗普：认为格陵兰岛协议已基本达成",
@@ -1657,31 +1720,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时17分 ~ 15时45分]"
-        },
-        {
-          "title": "特朗普：美委将“分享”石油收益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510288",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时29分 ~ 22时34分]"
-        },
-        {
-          "title": "特朗普宣布：白宫草坪看格斗，首都街头飙赛车",
-          "url": "https://news.ifeng.com/c/8qOL2MAnXO8",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 22时34分]"
         },
         {
           "title": "美国总统特朗普：认为我们即将就古巴达成一项协议。",
@@ -1730,18 +1768,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时31分]"
-        },
-        {
-          "title": "特朗普给自己提名的美联储主席下马威：小心被起诉",
-          "url": "https://news.ifeng.com/c/8qOLT943YcA",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 22时34分]"
         },
         {
           "title": "特朗普称就格陵兰岛的谈判即将达成一致",
@@ -1832,7 +1858,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -1851,7 +1877,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "金价大跌男子斥资20多万买入200克",
@@ -2023,6 +2049,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时17分 ~ 13时25分]"
+        },
+        {
+          "title": "金价暴跌 有人一下花掉36万抄底",
+          "url": "https://www.toutiao.com/trending/7601211432490893331/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时33分 ~ 23时34分]"
         },
         {
           "title": "金价爆跌有柜姐放话退货扣500无效",
