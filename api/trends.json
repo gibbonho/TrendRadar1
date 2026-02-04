@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T18:51:41.668896+08:00",
-  "total_titles_processed": 1550,
+  "generated_at": "2026-02-04T19:40:17.625265+08:00",
+  "total_titles_processed": 1620,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 76,
+      "match_count": 80,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时40分 ~ 18时51分]"
+          "appearance_count": 12,
+          "time_info": "[07时40分 ~ 19时40分]"
         },
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -68,8 +68,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时40分 ~ 18时51分]"
+          "appearance_count": 12,
+          "time_info": "[07时40分 ~ 19时40分]"
         },
         {
           "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
@@ -111,6 +111,18 @@
           "time_info": "[01时06分 ~ 07时40分]"
         },
         {
+          "title": "谈判前夕美伊军事摩擦不断，白宫表态",
+          "url": "https://news.ifeng.com/c/8qTHeilJDde",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时54分 ~ 19时40分]"
+        },
+        {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
           "url": "https://wallstreetcn.com/articles/3764901",
           "source": "华尔街见闻",
@@ -121,6 +133,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时04分 ~ 18时51分]"
+        },
+        {
+          "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时54分 ~ 19时40分]"
         },
         {
           "title": "买了52公斤白银在暴跌前卖出45公斤",
@@ -137,6 +163,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时06分 ~ 07时40分]"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，纳指期货跌0.3%，欧股诺和诺德下挫18%，现货黄金一度触及5080美元，现货白银接近90美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 19时40分]"
+        },
+        {
+          "title": "乌克兰外交部发言人表示，俄罗斯对能源设施的大规模袭击阻碍了和平谈判。本轮在阿布扎比举行的会谈重点将主要集中在军事和军事政治问题上。乌克兰希望了解莫斯科和华盛顿在和平谈判中的“真实意图”。",
+          "url": "https://flash.jin10.com/detail/20260204190458537800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "国投白银LOF(161226)今日复牌再度跌停，报3.825元，最新溢价率为64.6%。",
@@ -183,15 +231,15 @@
           "time_info": "15时04分"
         },
         {
-          "title": "谈判前夕美伊军事摩擦不断，白宫表态",
-          "url": "https://news.ifeng.com/c/8qTHeilJDde",
-          "source": "凤凰网",
+          "title": "无惧大跌！投行称黄金没有泡沫丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260204190021421800",
+          "source": "金十数据",
           "ranks": [
-            7
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 18时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "现货黄金日内涨幅达7.0%，报4984.69美元/盎司。",
@@ -238,19 +286,6 @@
           "time_info": "07时40分"
         },
         {
-          "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 18时51分]"
-        },
-        {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少3.72吨，当前持仓量为1083.38吨。",
           "url": "https://flash.jin10.com/detail/20260204072033808800",
           "source": "金十数据",
@@ -261,6 +296,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时40分 ~ 13时56分]"
+        },
+        {
+          "title": "母亲盗卖大儿子黄金给弟弟买房你咋看",
+          "url": "https://www.toutiao.com/trending/7602795563536400420/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时55分 ~ 19时40分]"
+        },
+        {
+          "title": "男子300万黄金被母亲变卖给弟弟买房",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90300%E4%B8%87%E9%BB%84%E9%87%91%E8%A2%AB%E6%AF%8D%E4%BA%B2%E5%8F%98%E5%8D%96%E7%BB%99%E5%BC%9F%E5%BC%9F%E4%B9%B0%E6%88%BF",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时55分 ~ 19时40分]"
         },
         {
           "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
@@ -310,28 +370,28 @@
           "time_info": "[04时48分 ~ 05时43分]"
         },
         {
-          "title": "母亲盗卖大儿子黄金给弟弟买房你咋看",
-          "url": "https://www.toutiao.com/trending/7602795563536400420/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时55分 ~ 18时51分]"
-        },
-        {
-          "title": "男子300万黄金被母亲变卖给弟弟买房",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90300%E4%B8%87%E9%BB%84%E9%87%91%E8%A2%AB%E6%AF%8D%E4%BA%B2%E5%8F%98%E5%8D%96%E7%BB%99%E5%BC%9F%E5%BC%9F%E4%B9%B0%E6%88%BF",
+          "title": "女子用20克黄金做美甲",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A820%E5%85%8B%E9%BB%84%E9%87%91%E5%81%9A%E7%BE%8E%E7%94%B2",
           "source": "百度热搜",
           "ranks": [
             24,
-            14
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时55分 ~ 18时51分]"
+          "time_info": "[18时51分 ~ 19时40分]"
+        },
+        {
+          "title": "CNDOTA白银一代访谈",
+          "url": "https://search.bilibili.com/all?keyword=CNDOTA%E7%99%BD%E9%93%B6%E4%B8%80%E4%BB%A3%E8%AE%BF%E8%B0%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 19时40分]"
         },
         {
           "title": "OpenAI就ChatGPT故障问题发表声明：所有受影响的服务现已完全恢复。",
@@ -344,6 +404,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时40分]"
+        },
+        {
+          "title": "国投白银LOF：将于2月5日开市起至当日10:30停牌",
+          "url": "https://wallstreetcn.com/livenews/3049815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 19时40分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
@@ -382,6 +454,17 @@
           "time_info": "[04时48分 ~ 05时43分]"
         },
         {
+          "title": "北约启动今年规模最大的军事演习，11 国参与、美国缺席，释放什么信号？此次演习的目标是什么？",
+          "url": "https://www.zhihu.com/question/2001956434041124754",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 19时40分]"
+        },
+        {
           "title": "的哥早年听广播买30多克黄金已全卖",
           "url": "https://www.toutiao.com/trending/7602611657323515438/",
           "source": "今日头条",
@@ -413,17 +496,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
-        },
-        {
-          "title": "国投白银LOF：将于2月5日开市起至当日10:30停牌",
-          "url": "https://wallstreetcn.com/livenews/3049815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
         },
         {
           "title": "现货白银盘初下跌2.00美元，现报83.21美元/盎司，跌幅2.35%。",
@@ -641,7 +713,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -652,7 +724,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -734,17 +806,6 @@
           "time_info": "03时05分"
         },
         {
-          "title": "女子用20克黄金做美甲",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A820%E5%85%8B%E9%BB%84%E9%87%91%E5%81%9A%E7%BE%8E%E7%94%B2",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
-        },
-        {
           "title": "现货黄金站上4990美元/盎司，日内涨7.07%。",
           "url": "https://flash.jin10.com/detail/20260204003831641800",
           "source": "金十数据",
@@ -798,17 +859,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
-        },
-        {
-          "title": "CNDOTA白银一代访谈",
-          "url": "https://search.bilibili.com/all?keyword=CNDOTA%E7%99%BD%E9%93%B6%E4%B8%80%E4%BB%A3%E8%AE%BF%E8%B0%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
         },
         {
           "title": "现货黄金向上触及5090美元/盎司，日内涨2.90%。",
@@ -883,6 +933,19 @@
       "match_count": 59,
       "titles": [
         {
+          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
+          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时41分 ~ 19时40分]"
+        },
+        {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
           "url": "https://news.ifeng.com/c/8qRbfAGXhdh",
           "source": "凤凰网",
@@ -918,18 +981,6 @@
           "time_info": "[01时06分 ~ 06时39分]"
         },
         {
-          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
-          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时41分 ~ 18时51分]"
-        },
-        {
           "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
           "url": "https://news.ifeng.com/c/8qT0zrMPdcp",
           "source": "凤凰网",
@@ -951,8 +1002,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时56分 ~ 18时51分]"
+          "appearance_count": 9,
+          "time_info": "[13时56分 ~ 19时40分]"
         },
         {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
@@ -1186,6 +1237,18 @@
           "time_info": "[17时55分 ~ 17时56分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-04）",
+          "url": "https://flash.jin10.com/detail/20260204181439687800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 19时40分]"
+        },
+        {
           "title": "英美领导人通话讨论迪戈加西亚岛争议 此前特朗普立场反复",
           "url": "https://flash.jin10.com/detail/20260204071642360800",
           "source": "金十数据",
@@ -1261,17 +1324,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-04）",
-          "url": "https://flash.jin10.com/detail/20260204181439687800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
         },
         {
           "title": "美国众议院批准政府融资法案，将结束局部停摆。 后续，法案将移交给总统特朗普签字为法律。 标普500指数跌幅收窄至不足1.5%。",
@@ -1423,7 +1475,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -1552,7 +1604,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "美军击落伊朗无人机",
@@ -1570,6 +1622,20 @@
           "time_info": "[07时40分 ~ 18时51分]"
         },
         {
+          "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
+          "url": "https://www.zhihu.com/question/2002278954355139608",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时47分 ~ 19时40分]"
+        },
+        {
           "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
           "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
           "source": "澎湃新闻",
@@ -1583,18 +1649,15 @@
           "time_info": "[01时06分 ~ 07时40分]"
         },
         {
-          "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
-          "url": "https://www.zhihu.com/question/2002278954355139608",
-          "source": "知乎",
+          "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
+          "url": "https://news.ifeng.com/c/8qTVQYD7em2",
+          "source": "凤凰网",
           "ranks": [
-            14,
-            13,
-            10,
-            11
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时47分 ~ 18时51分]"
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 19时40分]"
         },
         {
           "title": "伊朗方面表示，感谢所有为创造形成外交进程条件而作出努力的友好国家。",
@@ -1652,6 +1715,17 @@
           "time_info": "04时48分"
         },
         {
+          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
+          "url": "https://wallstreetcn.com/articles/3764876",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时55分 ~ 19时40分]"
+        },
+        {
           "title": "美军击落伊朗无人机",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%87%BB%E8%90%BD%E4%BC%8A%E6%9C%97%E6%97%A0%E4%BA%BA%E6%9C%BA",
           "source": "bilibili 热搜",
@@ -1663,17 +1737,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时41分 ~ 13时56分]"
-        },
-        {
-          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
-          "url": "https://wallstreetcn.com/articles/3764876",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时55分 ~ 18时51分]"
         },
         {
           "title": "伊朗高级将领：若遭美国攻击 以色列将成为首要报复目标",
@@ -1741,6 +1804,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "伊朗古列斯坦王宫宣布暂停对外开放",
+          "url": "https://wallstreetcn.com/livenews/3049837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "英国海事风险管理集团Vanguard：该船只未进入伊朗内陆领海，由美国军舰护航。",
@@ -1922,8 +1996,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时41分 ~ 18时51分]"
+          "appearance_count": 11,
+          "time_info": "[10时41分 ~ 19时40分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -1934,8 +2008,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时47分 ~ 18时51分]"
+          "appearance_count": 10,
+          "time_info": "[12时47分 ~ 19时40分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -1947,6 +2021,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时06分 ~ 06时39分]"
+        },
+        {
+          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
+          "url": "https://wallstreetcn.com/articles/3764895",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时47分 ~ 19时40分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -1972,19 +2059,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时06分 ~ 10时41分]"
-        },
-        {
-          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
-          "url": "https://wallstreetcn.com/articles/3764895",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时47分 ~ 18时51分]"
         },
         {
           "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
@@ -2212,11 +2286,12 @@
             7,
             14,
             13,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 18时51分]"
+          "appearance_count": 7,
+          "time_info": "[16时54分 ~ 19时40分]"
         },
         {
           "title": "金价波动",
