@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T05:45:34.199796+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-02-05T06:38:16.916433+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时00分 ~ 05时45分]"
+          "appearance_count": 11,
+          "time_info": "[01时00分 ~ 06时38分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时00分 ~ 05时45分]"
+          "appearance_count": 11,
+          "time_info": "[01时00分 ~ 06时38分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 05时45分]"
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 06时38分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 05时45分]"
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 06时38分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -62,8 +62,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时00分 ~ 05时45分]"
+          "appearance_count": 11,
+          "time_info": "[01时00分 ~ 06时38分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -71,11 +71,23 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            15
+            15,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时56分 ~ 05时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时56分 ~ 06时38分]"
+        },
+        {
+          "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
+          "url": "https://news.ifeng.com/c/8qTDVc9qcbD",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 06时38分]"
         },
         {
           "title": "美国财长贝森特：已有超过100万美国家庭为2025年至2028年出生的儿童注册了“特朗普账户”。",
@@ -99,6 +111,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时44分 ~ 05时45分]"
+        },
+        {
+          "title": "特朗普政府为何急于将爱泼斯坦案翻篇",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%B8%BA%E4%BD%95%E6%80%A5%E4%BA%8E%E5%B0%86%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%BF%BB%E7%AF%87%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时45分 ~ 06时38分]"
         },
         {
           "title": "美国总统特朗普考虑签署关于“加州欺诈工作组”的命令。 副总统万斯将牵头这个工作组的工作。（CBS）",
@@ -258,17 +282,6 @@
           "time_info": "04时44分"
         },
         {
-          "title": "特朗普政府为何急于将爱泼斯坦案翻篇",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%B8%BA%E4%BD%95%E6%80%A5%E4%BA%8E%E5%B0%86%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%BF%BB%E7%AF%87%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
           "title": "美国总统特朗普：利率将会下调，这“几乎是毫无疑问的”。",
           "url": "https://flash.jin10.com/detail/20260205030511300800",
           "source": "金十数据",
@@ -286,7 +299,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -338,8 +351,31 @@
     },
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 06时38分]"
+        },
+        {
+          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 06时38分]"
+        },
         {
           "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
@@ -350,8 +386,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时00分 ~ 05时45分]"
+          "appearance_count": 11,
+          "time_info": "[01时00分 ~ 06时38分]"
         },
         {
           "title": "谈判前夕美伊军事摩擦不断，白宫表态",
@@ -365,27 +401,17 @@
           "time_info": "[01时00分 ~ 05时45分]"
         },
         {
-          "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
+          "title": "北约启动今年规模最大的军事演习，11 国参与、美国缺席，释放什么信号？此次演习的目标是什么？",
+          "url": "https://www.zhihu.com/question/2001956434041124754",
+          "source": "知乎",
           "ranks": [
-            1
+            11,
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 05时45分]"
-        },
-        {
-          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 05时45分]"
+          "appearance_count": 7,
+          "time_info": "[01时00分 ~ 06时38分]"
         },
         {
           "title": "报道称，中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
@@ -399,18 +425,6 @@
           "time_info": "[01时56分 ~ 04时44分]"
         },
         {
-          "title": "北约启动今年规模最大的军事演习，11 国参与、美国缺席，释放什么信号？此次演习的目标是什么？",
-          "url": "https://www.zhihu.com/question/2001956434041124754",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 03时02分]"
-        },
-        {
           "title": "现货白银较日高回落近7美元 此前一度站上92美元",
           "url": "https://flash.jin10.com/detail/20260205005416869800",
           "source": "金十数据",
@@ -421,6 +435,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 01时57分]"
+        },
+        {
+          "title": "报道：中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
+          "url": "https://wallstreetcn.com/articles/3764985",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时45分 ~ 06时38分]"
         },
         {
           "title": "CNDOTA白银一代访谈",
@@ -458,17 +483,6 @@
           "time_info": "[01时00分 ~ 01时01分]"
         },
         {
-          "title": "报道：中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
-          "url": "https://wallstreetcn.com/articles/3764985",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
           "title": "现货黄金向下触及4880美元/盎司，日内跌1.36%。",
           "url": "https://flash.jin10.com/detail/20260205004725886800",
           "source": "金十数据",
@@ -480,6 +494,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "周三（2月4日）纽约尾盘，现货白银涨3.62%，报88.2660美元/盎司，北京时间22:05刷新日高至92.2043美元，随后回吐涨幅，逼近07:08刷新的日低83.2961美元。 COMEX白银期货涨5.11%，报87.555美元/盎司，22:06刷新日高至92.015美元。 COMEX铜期货跌2.77%，报5.9420美元/磅，22:00-02:00持续扩大跌幅。 现货铂金涨0.60%，现货钯金涨1.05%。",
+          "url": "https://wallstreetcn.com/livenews/3050121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 2月4日（周三）晚盘收盘下跌1.54%报1112.0元/克；<br/>上海黄金交易所白银T+D 2月4日（周三）晚盘收盘下跌0.13%报22414.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260205023147989800",
           "source": "金十数据",
@@ -489,6 +514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "黄金连续两天回测5000美元整数位心理关口",
+          "url": "https://wallstreetcn.com/livenews/3050118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
         },
         {
           "title": "现货黄金失守4900美元/盎司，日内跌1.08％。",
@@ -527,7 +563,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -540,8 +576,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时00分 ~ 05时45分]"
+          "appearance_count": 11,
+          "time_info": "[01时00分 ~ 06时38分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -555,17 +591,6 @@
           "time_info": "[01时00分 ~ 04时44分]"
         },
         {
-          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2280791",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时00分 ~ 05时45分]"
-        },
-        {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
           "url": "https://wallstreetcn.com/articles/3764895",
           "source": "华尔街见闻",
@@ -574,30 +599,89 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 05时45分]"
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 06时38分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2280791",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时00分 ~ 06时38分]"
+        },
+        {
+          "title": "Ciena美股盘后涨超8%。",
+          "url": "https://flash.jin10.com/detail/20260205062053364800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
         },
         {
           "title": "Arm(ARM.O)美股盘后跌超10%。",
           "url": "https://flash.jin10.com/detail/20260205051229076800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时38分]"
         },
         {
           "title": "谷歌A美股盘后转涨，此前一度重挫超7%。",
           "url": "https://wallstreetcn.com/livenews/3050110",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时38分]"
+        },
+        {
+          "title": "相干公司Coherent Corp.（COHR）美股盘后跌19%。",
+          "url": "https://wallstreetcn.com/livenews/3050105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时38分]"
+        },
+        {
+          "title": "周三（2月4日）美股尾盘，彭博电动汽车价格回报指数涨0.65%，报3533.63点。 该指数全天处于上涨状态，整体呈现出“几”形走势，北京时间14:00-00:00高位震荡，最高在美股盘初达到3561.87点。 成分股宝马收涨3.88%，Ola Electric Mobility Ltd.涨3.6%，意法半导体收涨3.6%，保时捷P911涨3.5%，理想汽车H股收涨3.43%，浙江零跑科技H股收涨2.88%表现第六，智利化工矿业公司（SQM）则跌5.3%，MP材料跌6.2%，文远知行跌7.2%，Solid Power跌9.5%。",
+          "url": "https://wallstreetcn.com/livenews/3050096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时38分]"
+        },
+        {
+          "title": "（美股）费城金银指数收跌0.23%，报397.53点。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.55%，报2830.82点。 （美股）原材料指数收涨0.57%，（美股）金属与矿业指数收跌1.61%。",
+          "url": "https://wallstreetcn.com/livenews/3050123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "06时38分"
         },
         {
           "title": "金十图示：2026年02月04日（周三）美股热门股票行情一览（美股收盘）",
@@ -606,18 +690,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "相干公司Coherent Corp.（COHR）美股盘后跌19%。",
-          "url": "https://wallstreetcn.com/livenews/3050105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -628,7 +701,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -639,7 +712,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -650,18 +723,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "周三（2月4日）美股尾盘，彭博电动汽车价格回报指数涨0.65%，报3533.63点。 该指数全天处于上涨状态，整体呈现出“几”形走势，北京时间14:00-00:00高位震荡，最高在美股盘初达到3561.87点。 成分股宝马收涨3.88%，Ola Electric Mobility Ltd.涨3.6%，意法半导体收涨3.6%，保时捷P911涨3.5%，理想汽车H股收涨3.43%，浙江零跑科技H股收涨2.88%表现第六，智利化工矿业公司（SQM）则跌5.3%，MP材料跌6.2%，文远知行跌7.2%，Solid Power跌9.5%。",
-          "url": "https://wallstreetcn.com/livenews/3050096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -672,7 +734,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -686,12 +748,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.95%，报7461.61点，美股早盘显著下跌，北京时间23:00以来低位震荡。 热门中概股里，亿珑能源初步反弹64%，晶科能源涨8%，百胜中国涨4.6%，再鼎医药涨3.7%，阿特斯太阳能涨3.3%，理想涨2.2%，网易跌5.3%，世纪互联跌5.6%，文远知行跌6.3%。 ETF中，中国科技指数ETF（CQQQ）收跌3.17%，中概互联网指数ETF（KWEB）收跌2.91%。 XtrackersHarvest中证50（ASHS）收涨0.09%，德银嘉实沪深300指数ETF（ASHR）收涨0.72%。",
+          "url": "https://wallstreetcn.com/livenews/3050099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
@@ -701,8 +774,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时00分 ~ 05时45分]"
+          "appearance_count": 11,
+          "time_info": "[01时00分 ~ 06时38分]"
         },
         {
           "title": "伊朗外长：伊美谈判将于6日在阿曼举行",
@@ -762,6 +835,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时00分 ~ 01时01分]"
+        },
+        {
+          "title": "伊朗外长：伊美谈判将于6日在阿曼首都马斯喀特举行",
+          "url": "https://news.ifeng.com/c/8qTBVSJTlkn",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 06时38分]"
         },
         {
           "title": "伊朗消息人士：原定6日举行的伊美谈判已取消",
@@ -826,7 +910,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -865,7 +949,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         }
@@ -913,8 +997,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时00分 ~ 05时45分]"
+          "appearance_count": 11,
+          "time_info": "[01时00分 ~ 06时38分]"
         }
       ]
     }
