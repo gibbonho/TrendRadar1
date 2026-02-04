@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T19:40:17.625265+08:00",
-  "total_titles_processed": 1620,
+  "generated_at": "2026-02-04T21:17:59.611617+08:00",
+  "total_titles_processed": 1748,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 80,
+      "match_count": 82,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时40分 ~ 19时40分]"
+          "appearance_count": 13,
+          "time_info": "[07时40分 ~ 21时17分]"
         },
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -68,8 +68,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时40分 ~ 19时40分]"
+          "appearance_count": 13,
+          "time_info": "[07时40分 ~ 21时17分]"
+        },
+        {
+          "title": "谈判前夕美伊军事摩擦不断，白宫表态",
+          "url": "https://news.ifeng.com/c/8qTHeilJDde",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时54分 ~ 21时17分]"
         },
         {
           "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
@@ -98,6 +110,21 @@
           "time_info": "[07时40分 ~ 15时04分]"
         },
         {
+          "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时54分 ~ 21时17分]"
+        },
+        {
           "title": "国投白银LOF手动抹去跌停板引质疑",
           "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%8A%95%E7%99%BD%E9%93%B6LOF%E6%89%8B%E5%8A%A8%E6%8A%B9%E5%8E%BB%E8%B7%8C%E5%81%9C%E6%9D%BF%E5%BC%95%E8%B4%A8%E7%96%91%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -111,18 +138,6 @@
           "time_info": "[01时06分 ~ 07时40分]"
         },
         {
-          "title": "谈判前夕美伊军事摩擦不断，白宫表态",
-          "url": "https://news.ifeng.com/c/8qTHeilJDde",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时54分 ~ 19时40分]"
-        },
-        {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
           "url": "https://wallstreetcn.com/articles/3764901",
           "source": "华尔街见闻",
@@ -133,20 +148,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时04分 ~ 18时51分]"
-        },
-        {
-          "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时54分 ~ 19时40分]"
         },
         {
           "title": "买了52公斤白银在暴跌前卖出45公斤",
@@ -169,11 +170,12 @@
           "url": "https://wallstreetcn.com/articles/3764901",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 19时40分]"
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 21时17分]"
         },
         {
           "title": "乌克兰外交部发言人表示，俄罗斯对能源设施的大规模袭击阻碍了和平谈判。本轮在阿布扎比举行的会谈重点将主要集中在军事和军事政治问题上。乌克兰希望了解莫斯科和华盛顿在和平谈判中的“真实意图”。",
@@ -182,7 +184,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -231,13 +233,24 @@
           "time_info": "15时04分"
         },
         {
+          "title": "路透社调查：预计2026年黄金均价为每盎司4,746.50美元，2027年为4,745.42美元。 预计2026年白银均价为每盎司79.50美元，2027年为71.80美元。",
+          "url": "https://wallstreetcn.com/livenews/3049890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "无惧大跌！投行称黄金没有泡沫丨Hi，今天怎么看？",
           "url": "https://flash.jin10.com/detail/20260204190021421800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -370,6 +383,17 @@
           "time_info": "[04时48分 ~ 05时43分]"
         },
         {
+          "title": "北约启动今年规模最大的军事演习，11 国参与、美国缺席，释放什么信号？此次演习的目标是什么？",
+          "url": "https://www.zhihu.com/question/2001956434041124754",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 21时17分]"
+        },
+        {
           "title": "女子用20克黄金做美甲",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A820%E5%85%8B%E9%BB%84%E9%87%91%E5%81%9A%E7%BE%8E%E7%94%B2",
           "source": "百度热搜",
@@ -452,17 +476,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时48分 ~ 05时43分]"
-        },
-        {
-          "title": "北约启动今年规模最大的军事演习，11 国参与、美国缺席，释放什么信号？此次演习的目标是什么？",
-          "url": "https://www.zhihu.com/question/2001956434041124754",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 19时40分]"
         },
         {
           "title": "的哥早年听广播买30多克黄金已全卖",
@@ -573,6 +586,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
+        },
+        {
+          "title": "现货黄金创2009年以来最大单日涨幅",
+          "url": "https://www.toutiao.com/trending/7602933065064648211/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "报道称OpenAI对英伟达AI芯片不满意，寻求推理芯片替代",
@@ -1632,8 +1656,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时47分 ~ 19时40分]"
+          "appearance_count": 11,
+          "time_info": "[12时47分 ~ 21时17分]"
         },
         {
           "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
@@ -1656,8 +1680,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 19时40分]"
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 21时17分]"
+        },
+        {
+          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
+          "url": "https://wallstreetcn.com/articles/3764876",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时55分 ~ 21时17分]"
         },
         {
           "title": "伊朗方面表示，感谢所有为创造形成外交进程条件而作出努力的友好国家。",
@@ -1713,17 +1749,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
-        },
-        {
-          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
-          "url": "https://wallstreetcn.com/articles/3764876",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时55分 ~ 19时40分]"
         },
         {
           "title": "美军击落伊朗无人机",
@@ -1812,7 +1837,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -1985,7 +2010,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -1996,8 +2021,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时41分 ~ 19时40分]"
+          "appearance_count": 12,
+          "time_info": "[10时41分 ~ 21时17分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -2005,11 +2030,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            5
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时47分 ~ 19时40分]"
+          "appearance_count": 11,
+          "time_info": "[12时47分 ~ 21时17分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -2032,8 +2058,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时47分 ~ 19时40分]"
+          "appearance_count": 11,
+          "time_info": "[12时47分 ~ 21时17分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -2251,6 +2277,17 @@
           "time_info": "06时39分"
         },
         {
+          "title": "优步第一季度预计调整后EBITDA为23.7亿至24.7亿美元，市场预期为24.5亿美元。 第一季度预计总预订额为520亿至535亿美元，市场预期为513.7亿美元。 第四季度营收为143.7亿美元，同比增长20%，市场预期为142.9亿美元。 第四季度调整后EBITDA为24.9亿美元，同比增长35%，市场预期为24.8亿美元。 第四季度每股收益为0.14美元，去年同期为3.21美元。 第四季度净利润为2.96亿美元，同比下降96%。 优步美股盘前跌近9%。",
+          "url": "https://wallstreetcn.com/livenews/3049864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周二（2月3日），美国科技股七巨头（Magnificent 7）指数跌1.68%，报203.68点，日内主要低位震荡。 “超大”市值科技股指数跌1.90%，报387.08点，日内大部分时间也低位震荡。",
           "url": "https://wallstreetcn.com/livenews/3049340",
           "source": "华尔街见闻-快讯",
@@ -2271,12 +2308,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "礼来第四季度调整后每股收益7.54美元，去年同期为5.32美元。 第四季度营收为192.9亿美元，同比增长43%，市场预期为180.1亿美元。 预计全年营收为800亿至830亿美元，市场预期为777.1亿美元。 预计全球产品价格降幅在10%至15%之间。 礼来美股盘前涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3049858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价创2009年以来最大单日涨幅",
@@ -2292,6 +2340,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[16时54分 ~ 19时40分]"
+        },
+        {
+          "title": "调查：地缘风险与央行买盘支撑 2026年金价或再创新高",
+          "url": "https://flash.jin10.com/detail/20260204205419654800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "路透调查：2026年金价预计平均为每盎司4746.50美元，2027年为4745.42美元。2026年银价预计平均为每盎司79.50美元，2027年为71.80美元。",
+          "url": "https://flash.jin10.com/detail/20260204205023665800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "金价波动",
@@ -2344,7 +2414,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "周二（2月3日）纽约尾盘，美国10年期国债收益率跌0.79个基点，报4.2695%。 两年期美债收益率跌0.41个基点，报3.5675%；30年期美债收益率跌0.83个基点，报4.9035%。",
@@ -2357,6 +2427,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时48分 ~ 05时43分]"
+        },
+        {
+          "title": "2/10年期美债收益率差逼近四年来最阔水平",
+          "url": "https://flash.jin10.com/detail/20260204204145278800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "日本国债收益率走高挤压美债空间 吸筹竞争或推升美国偿债成本",
