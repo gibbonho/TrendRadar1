@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T00:40:59.828103+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-09T01:34:58.881231+08:00",
+  "total_titles_processed": 331,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260209000357405800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "央行连续第15个月增持黄金",
-          "url": "https://www.cls.cn/detail/2283640",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时34分]"
         },
         {
           "title": "中国黄金调整回购规则",
@@ -37,8 +27,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时34分]"
+        },
+        {
+          "title": "央行连续第15个月增持黄金",
+          "url": "https://www.cls.cn/detail/2283640",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时34分]"
         },
         {
           "title": "【早报】央行连续第15个月增持黄金；我国成功发射可重复使用试验航天器",
@@ -48,8 +50,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时34分]"
         },
         {
           "title": "2026 年 3 月白银会爆发史诗级「交割战争」吗？",
@@ -59,30 +61,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时34分]"
         },
         {
           "title": "黄金ETF迎来布局时点了吗",
           "url": "https://www.toutiao.com/trending/7604495097995988518/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "600万买了5.9公斤黄金 女子崩溃",
-          "url": "https://www.baidu.com/s?wd=600%E4%B8%87%E4%B9%B0%E4%BA%865.9%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91+%E5%A5%B3%E5%AD%90%E5%B4%A9%E6%BA%83",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时34分]"
         },
         {
           "title": "国投白银LOF：提示交易价格溢价风险并公布停复牌安排",
@@ -90,6 +82,17 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时34分]"
+        },
+        {
+          "title": "600万买了5.9公斤黄金 女子崩溃",
+          "url": "https://www.baidu.com/s?wd=600%E4%B8%87%E4%B9%B0%E4%BA%865.9%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91+%E5%A5%B3%E5%AD%90%E5%B4%A9%E6%BA%83",
+          "source": "百度热搜",
+          "ranks": [
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -106,22 +109,36 @@
           "url": "https://flash.jin10.com/detail/20260208234419221800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时34分]"
         },
         {
           "title": "美国总统特朗普对美国滑雪运动员亨特·赫斯发出批评，并称他为“彻头彻尾的失败者”。",
           "url": "https://flash.jin10.com/detail/20260208234215396800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时34分]"
+        },
+        {
+          "title": "美国财长贝森特：日本新首相是“伟大的盟友”，与美国总统特朗普关系良好。",
+          "url": "https://flash.jin10.com/detail/20260208232345943800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时34分]"
         },
         {
           "title": "特朗普被白头海雕打脸视频再度火了",
@@ -131,30 +148,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "美国财长贝森特：日本新首相是“伟大的盟友”，与美国总统特朗普关系良好。",
-          "url": "https://flash.jin10.com/detail/20260208232345943800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时34分]"
         },
         {
           "title": "日本首相高市早苗：将于三月会见特朗普期间，深化与美国的经济安全关系，包括稀土供应问题。",
           "url": "https://flash.jin10.com/detail/20260208215651951800",
           "source": "金十数据",
           "ranks": [
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时34分]"
         }
       ]
     },
@@ -170,8 +177,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时34分]"
         },
         {
           "title": "伊朗外长：伊美核谈判开局良好",
@@ -181,8 +188,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时34分]"
         },
         {
           "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
@@ -192,8 +199,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时34分]"
         }
       ]
     },
@@ -209,8 +216,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时34分]"
         },
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -220,8 +227,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时34分]"
         }
       ]
     },
@@ -237,8 +244,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时34分]"
         }
       ]
     }
