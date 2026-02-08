@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T17:39:40.535656+08:00",
-  "total_titles_processed": 959,
+  "generated_at": "2026-02-08T18:37:14.616137+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
@@ -65,11 +65,12 @@
             8,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 17时39分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 18时37分]"
         },
         {
           "title": "美国联邦通信委员会（FCC）官员Carr谈及总统特朗普力挺Nexstar收购Tegna的交易，宣称：像康卡斯特和迪士尼这样的国家级网络已经聚集了太大的权力。 让我们完成这笔交易，给他们带去真正的竞争。",
@@ -221,6 +222,17 @@
           "time_info": "03时32分"
         },
         {
+          "title": "内塔尼亚胡将于下周三与特朗普会面，讨论伊朗问题",
+          "url": "https://flash.jin10.com/detail/20260208174127645800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "美国总统特朗普：期待洪都拉斯总统阿斯富拉再次访问美国。",
           "url": "https://flash.jin10.com/detail/20260208105726564800",
           "source": "金十数据",
@@ -298,7 +310,7 @@
     },
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "中国央行黄金储备\"十五连增\"，1月环比增持4万盎司，增持节奏略有加快",
@@ -321,8 +333,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 17时39分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 18时37分]"
         },
         {
           "title": "系好安全带！避险黄金进入大波动时代",
@@ -378,6 +390,30 @@
           "time_info": "[00时40分 ~ 05时35分]"
         },
         {
+          "title": "2026 年 3 月白银会爆发史诗级「交割战争」吗？",
+          "url": "https://www.zhihu.com/question/2003403337194817403",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时22分 ~ 18时37分]"
+        },
+        {
+          "title": "中国黄金2月7日起调整回购规则",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32559373",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时22分 ~ 18时37分]"
+        },
+        {
           "title": "分析师：季节性利好近尾声，黄金面临波动考验与方向选择",
           "url": "https://flash.jin10.com/detail/20260208115725563800",
           "source": "金十数据",
@@ -391,6 +427,17 @@
           "time_info": "[13时27分 ~ 16时42分]"
         },
         {
+          "title": "【早报】央行连续第15个月增持黄金；我国成功发射可重复使用试验航天器",
+          "url": "https://www.cls.cn/detail/2283820",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时27分 ~ 18时37分]"
+        },
+        {
           "title": "黄金工厂下班检查 小伙鞋被测出问题",
           "url": "https://www.toutiao.com/trending/7604293952783007785/",
           "source": "今日头条",
@@ -402,28 +449,17 @@
           "time_info": "13时27分"
         },
         {
-          "title": "2026 年 3 月白银会爆发史诗级「交割战争」吗？",
-          "url": "https://www.zhihu.com/question/2003403337194817403",
-          "source": "知乎",
+          "title": "中国黄金调整回购规则",
+          "url": "https://www.douyin.com/hot/2393493",
+          "source": "抖音",
           "ranks": [
-            11,
-            12
+            8,
+            15,
+            17
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时22分 ~ 17时39分]"
-        },
-        {
-          "title": "中国黄金2月7日起调整回购规则",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32559373",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时22分 ~ 17时39分]"
+          "time_info": "[15时01分 ~ 18时37分]"
         },
         {
           "title": "东吴证券：在宏观不确定性与风险溢价上升的背景下，资金对黄金的定价方式逐步转向“情绪与预期驱动”",
@@ -439,28 +475,30 @@
           "time_info": "[11时22分 ~ 15时01分]"
         },
         {
-          "title": "【早报】央行连续第15个月增持黄金；我国成功发射可重复使用试验航天器",
-          "url": "https://www.cls.cn/detail/2283820",
-          "source": "财联社热门",
+          "title": "600万买了5.9公斤黄金 女子崩溃",
+          "url": "https://www.baidu.com/s?wd=600%E4%B8%87%E4%B9%B0%E4%BA%865.9%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91+%E5%A5%B3%E5%AD%90%E5%B4%A9%E6%BA%83",
+          "source": "百度热搜",
           "ranks": [
-            10
+            18,
+            10,
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时27分 ~ 17时39分]"
+          "time_info": "[16时42分 ~ 18时37分]"
         },
         {
-          "title": "中国黄金调整回购规则",
-          "url": "https://www.douyin.com/hot/2393493",
-          "source": "抖音",
+          "title": "女子被骗600万 警察追回5900克黄金",
+          "url": "https://www.toutiao.com/trending/7603971369084780580/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            15,
-            17
+            14,
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时01分 ~ 17时39分]"
+          "appearance_count": 4,
+          "time_info": "[16时42分 ~ 18时37分]"
         },
         {
           "title": "伊朗外长：美国军事施压吓不倒伊朗",
@@ -468,11 +506,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            15
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 18时37分]"
+        },
+        {
+          "title": "OpenAI第一款硬件要来了，但可能“没那么AI”?",
+          "url": "https://wallstreetcn.com/articles/3765244",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 18时37分]"
+        },
+        {
+          "title": "国投白银LOF：提示交易价格溢价风险并公布停复牌安排",
+          "url": "https://wallstreetcn.com/livenews/3051811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时42分 ~ 17时39分]"
+          "time_info": "[17时39分 ~ 18时37分]"
         },
         {
           "title": "黄金——资产再配置，金价走向何方？",
@@ -487,39 +550,15 @@
           "time_info": "[06时35分 ~ 07时38分]"
         },
         {
-          "title": "600万买了5.9公斤黄金 女子崩溃",
-          "url": "https://www.baidu.com/s?wd=600%E4%B8%87%E4%B9%B0%E4%BA%865.9%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91+%E5%A5%B3%E5%AD%90%E5%B4%A9%E6%BA%83",
-          "source": "百度热搜",
+          "title": "UP解读黄金涨跌背后的定价权",
+          "url": "https://search.bilibili.com/all?keyword=UP%E8%A7%A3%E8%AF%BB%E9%BB%84%E9%87%91%E6%B6%A8%E8%B7%8C%E8%83%8C%E5%90%8E%E7%9A%84%E5%AE%9A%E4%BB%B7%E6%9D%83",
+          "source": "bilibili 热搜",
           "ranks": [
-            18,
-            10
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时42分 ~ 17时39分]"
-        },
-        {
-          "title": "女子被骗600万 警察追回5900克黄金",
-          "url": "https://www.toutiao.com/trending/7603971369084780580/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 17时39分]"
-        },
-        {
-          "title": "国投白银LOF：提示交易价格溢价风险并公布停复牌安排",
-          "url": "https://wallstreetcn.com/livenews/3051811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
+          "time_info": "[18时36分 ~ 18时37分]"
         },
         {
           "title": "黄金手镯断裂内藏2颗钢珠",
@@ -528,18 +567,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
-          "title": "OpenAI第一款硬件要来了，但可能“没那么AI”?",
-          "url": "https://wallstreetcn.com/articles/3765244",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
@@ -550,7 +578,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         }
@@ -558,7 +586,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊美谈判“暂时”结束，伊朗外长称开局良好",
@@ -666,27 +694,29 @@
           "time_info": "[00时40分 ~ 07时38分]"
         },
         {
+          "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
+          "url": "https://wallstreetcn.com/livenews/3051814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 18时37分]"
+        },
+        {
           "title": "伊朗外长：进行铀浓缩是伊朗的权利",
           "url": "https://flash.jin10.com/detail/20260208154251792800",
           "source": "金十数据",
           "ranks": [
             3,
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 17时39分]"
-        },
-        {
-          "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
-          "url": "https://wallstreetcn.com/livenews/3051814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 18时37分]"
         },
         {
           "title": "伊朗武装部队总参谋长：伊空军处于“最高战备状态”",
@@ -700,6 +730,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时22分 ~ 15时01分]"
+        },
+        {
+          "title": "伊朗总统：与美国会谈是向前迈出的一步",
+          "url": "https://flash.jin10.com/detail/20260208152249026800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 18时37分]"
+        },
+        {
+          "title": "伊朗总统：与美国会谈是向前迈出的一步",
+          "url": "https://wallstreetcn.com/livenews/3051783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 18时37分]"
         },
         {
           "title": "伊朗外长：第二轮伊美谈判有望在未来几天内举行",
@@ -739,28 +795,15 @@
           "time_info": "[11时22分 ~ 13时27分]"
         },
         {
-          "title": "伊朗总统：与美国会谈是向前迈出的一步",
-          "url": "https://flash.jin10.com/detail/20260208152249026800",
+          "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
+          "url": "https://flash.jin10.com/detail/20260208171910596800",
           "source": "金十数据",
           "ranks": [
-            8,
-            9
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 17时39分]"
-        },
-        {
-          "title": "伊朗总统：与美国会谈是向前迈出的一步",
-          "url": "https://wallstreetcn.com/livenews/3051783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 17时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "伊朗想击沉美国航母 首要问题是什么",
@@ -799,8 +842,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 17时39分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 18时37分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -819,11 +862,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 17时39分]"
+          "appearance_count": 4,
+          "time_info": "[16时42分 ~ 18时37分]"
         }
       ]
     },
@@ -841,8 +885,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时27分 ~ 17时39分]"
+          "appearance_count": 6,
+          "time_info": "[13时27分 ~ 18时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊拉克将3月份发往亚洲的巴士拉中质原油官方销售价设定为较阿曼/迪拜均价贴水1.70美元/桶。 伊拉克将3月份发往欧洲的巴士拉中质原油官方销售价设定为较即期布伦特价格贴水3.55美元/桶。 伊拉克将3月份发往北美及南美的巴士拉中质原油官方销售价设定为较阿格斯含硫原油指数（ASCI）贴水1.30美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3051817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         }
       ]
     }
