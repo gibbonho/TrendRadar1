@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T02:50:18.586194+08:00",
-  "total_titles_processed": 351,
+  "generated_at": "2026-02-09T03:33:28.747412+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美国财长贝森特谈黄金行情",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时33分]"
         },
         {
           "title": "中国黄金调整回购规则",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时33分]"
         },
         {
           "title": "央行连续第15个月增持黄金",
@@ -40,8 +40,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时33分]"
         },
         {
           "title": "【早报】央行连续第15个月增持黄金；我国成功发射可重复使用试验航天器",
@@ -51,19 +51,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时33分]"
         },
         {
           "title": "2026 年 3 月白银会爆发史诗级「交割战争」吗？",
           "url": "https://www.zhihu.com/question/2003403337194817403",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时33分]"
         },
         {
           "title": "国投白银LOF：提示交易价格溢价风险并公布停复牌安排",
@@ -73,8 +74,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时33分]"
         },
         {
           "title": "黄金ETF迎来布局时点了吗",
@@ -98,6 +99,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "金价巨震下买黄金的人怎么样了",
+          "url": "https://www.toutiao.com/trending/7604465515100114459/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时33分"
         }
       ]
     },
@@ -114,8 +126,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时33分]"
         },
         {
           "title": "美国总统特朗普对美国滑雪运动员亨特·赫斯发出批评，并称他为“彻头彻尾的失败者”。",
@@ -126,8 +138,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时33分]"
         },
         {
           "title": "美国财长贝森特：日本新首相是“伟大的盟友”，与美国总统特朗普关系良好。",
@@ -138,8 +150,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时33分]"
         },
         {
           "title": "特朗普被白头海雕打脸视频再度火了",
@@ -149,8 +161,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时33分]"
         },
         {
           "title": "日本首相高市早苗：将于三月会见特朗普期间，深化与美国的经济安全关系，包括稀土供应问题。",
@@ -161,8 +173,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时33分]"
         }
       ]
     },
@@ -178,19 +190,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时33分]"
         },
         {
           "title": "伊朗外长：伊美核谈判开局良好",
           "url": "https://m.thepaper.cn/newsDetail_forward_32563811",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时33分]"
         },
         {
           "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
@@ -200,8 +213,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时33分]"
         }
       ]
     },
@@ -217,8 +230,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时33分]"
         },
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -228,8 +241,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时33分]"
         }
       ]
     },
@@ -245,8 +258,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时33分]"
         }
       ]
     }
