@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T19:02:17.352073+08:00",
-  "total_titles_processed": 1448,
+  "generated_at": "2026-02-10T21:42:31.521898+08:00",
+  "total_titles_processed": 1609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 45,
+      "match_count": 49,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时16分 ~ 19时02分]"
+          "appearance_count": 7,
+          "time_info": "[11时16分 ~ 21时42分]"
         },
         {
           "title": "美股三大指数开盘小幅下跌，美债走跌，英镑延续涨势，黄金涨至5040美元",
@@ -81,7 +81,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -141,6 +141,17 @@
           "time_info": "13时41分"
         },
         {
+          "title": "国际问题专家：美日军事合作密切，但核心分歧仍在",
+          "url": "https://news.ifeng.com/c/8qdR8GadXpm",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "现货黄金回落至5030美元/盎司下方，日内跌0.75%。",
           "url": "https://flash.jin10.com/detail/20260210071029412800",
           "source": "金十数据",
@@ -163,6 +174,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "女子年会中4克黄金熔后变白银",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B9%B4%E4%BC%9A%E4%B8%AD4%E5%85%8B%E9%BB%84%E9%87%91%E7%86%94%E5%90%8E%E5%8F%98%E7%99%BD%E9%93%B6%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "截至2月9日，全球最大的黄金ETF SPDR Gold Trust持仓量为1079.66吨，较前一个交易日增加3.43吨。",
           "url": "https://flash.jin10.com/detail/20260210070957936800",
           "source": "金十数据",
@@ -172,6 +194,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "国防部：日本政府为“再军事化”披上虚伪的“法治”外衣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32574685",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 21时42分]"
         },
         {
           "title": "买139999元黄金手机壳送苹果手机",
@@ -250,6 +284,18 @@
           "time_info": "[04时52分 ~ 06时48分]"
         },
         {
+          "title": "年会中黄金熔炼后变白银 公司喊冤",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E4%BC%9A%E4%B8%AD%E9%BB%84%E9%87%91%E7%86%94%E7%82%BC%E5%90%8E%E5%8F%98%E7%99%BD%E9%93%B6+%E5%85%AC%E5%8F%B8%E5%96%8A%E5%86%A4",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 21时42分]"
+        },
+        {
           "title": "黄金ETF收涨超2.4%，领跑美股大类资产类ETF，做多美元指数跌0.8%",
           "url": "https://wallstreetcn.com/livenews/3052519",
           "source": "华尔街见闻-快讯",
@@ -260,17 +306,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时49分 ~ 06时48分]"
-        },
-        {
-          "title": "国防部：日本政府为“再军事化”披上虚伪的“法治”外衣",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32574685",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
         },
         {
           "title": "现货白银向上触及84美元/盎司，日内涨近8%。",
@@ -296,17 +331,6 @@
           "time_info": "[13时41分 ~ 15时17分]"
         },
         {
-          "title": "年会中黄金熔炼后变白银 公司喊冤",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E4%BC%9A%E4%B8%AD%E9%BB%84%E9%87%91%E7%86%94%E7%82%BC%E5%90%8E%E5%8F%98%E7%99%BD%E9%93%B6+%E5%85%AC%E5%8F%B8%E5%96%8A%E5%86%A4",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
-        },
-        {
           "title": "国防部：日本政府为“再军事化”披上虚伪的“法治”外衣",
           "url": "https://wallstreetcn.com/livenews/3052814",
           "source": "华尔街见闻-快讯",
@@ -316,6 +340,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
+        },
+        {
+          "title": "达利欧最新深度访谈：美国处于秩序崩溃与内战边缘，黄金是唯一避险方舟",
+          "url": "https://wallstreetcn.com/articles/3765365",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
+          "title": "美国零售销售数据公布后，现货黄金短线小幅走高10美元，现报5044.73美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260210213118757800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         },
         {
           "title": "A股黄金概念股震荡调整，菜百股份午后跌停，白银有色、晓程科技、湖南黄金、四川黄金、招金黄金等跟跌。",
@@ -401,7 +447,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -412,7 +458,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -550,6 +596,19 @@
           "time_info": "[11时16分 ~ 17时05分]"
         },
         {
+          "title": "谷爱凌回应特朗普大骂冬奥运动员",
+          "url": "https://www.toutiao.com/trending/7605068464549744178/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时41分 ~ 21时42分]"
+        },
+        {
           "title": "特朗普：我犯了大错",
           "url": "https://news.ifeng.com/c/8qctqBdiVbv",
           "source": "凤凰网",
@@ -568,7 +627,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -582,18 +641,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
-        },
-        {
-          "title": "谷爱凌回应特朗普大骂冬奥运动员",
-          "url": "https://www.toutiao.com/trending/7605068464549744178/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时41分 ~ 19时02分]"
         },
         {
           "title": "美国总统特朗普：如果沃什能胜任他的工作，美国经济可以增长15%。",
@@ -617,6 +664,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时16分 ~ 15时17分]"
+        },
+        {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 21时42分]"
         },
         {
           "title": "谷爱凌回应特朗普大骂冬奥运动员",
@@ -644,17 +703,6 @@
           "time_info": "[01时56分 ~ 03时27分]"
         },
         {
-          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
-          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
-        },
-        {
           "title": "再翻一倍？特朗普豪言：我任期结束前 道指将站上10万点！",
           "url": "https://www.cls.cn/detail/2284508",
           "source": "财联社热门",
@@ -672,7 +720,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -856,7 +904,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
@@ -991,6 +1039,17 @@
           "time_info": "[05时49分 ~ 06时48分]"
         },
         {
+          "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2286272",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "亚洲股市周二有望再度走高 追随美股科技股反弹势头",
           "url": "https://flash.jin10.com/detail/20260210065424099800",
           "source": "金十数据",
@@ -1008,9 +1067,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
+        },
+        {
+          "title": "标普全球美股盘前一度下跌18%。",
+          "url": "https://wallstreetcn.com/livenews/3053058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         },
         {
           "title": "高盛称对冲基金创纪录增持美股空头头寸，信息技术板块成抛售重灾区",
@@ -1046,6 +1116,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "美股AI应用软件股盘前涨幅扩大，Spotify、Datadog绩后大涨超10%，Shopify涨近5%，Unity涨超4%，Applovin、Snowflake涨近4%，Palantir涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3053047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "汇丰策略师未见美股抛压持续，看好周期性板块",
           "url": "https://wallstreetcn.com/livenews/3052431",
           "source": "华尔街见闻-快讯",
@@ -1060,7 +1141,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "阿曼苏丹同伊朗最高领袖顾问讨论伊美谈判进展",
@@ -1069,7 +1150,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -1103,7 +1184,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -1141,6 +1222,17 @@
           "time_info": "11时16分"
         },
         {
+          "title": "伊朗外交部：美方应在不受外部影响情况下独立谈判",
+          "url": "https://wallstreetcn.com/livenews/3053063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "拉夫罗夫：俄方对伊朗的未来感到担忧",
           "url": "https://wallstreetcn.com/livenews/3052783",
           "source": "华尔街见闻-快讯",
@@ -1161,53 +1253,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金十图示：2026年02月10日（周二）上海金午盘价为1118.1元/克，较国际金价(1115.18元/克)，高2.92元/克",
-          "url": "https://flash.jin10.com/detail/20260210150158914800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
         },
         {
-          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
-          "source": "澎湃新闻",
+          "title": "内塔尼亚胡赴美 伊朗呼吁美国不应受其影响",
+          "url": "https://wallstreetcn.com/livenews/3053043",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            16
+            30
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时05分 ~ 19时02分]"
-        },
-        {
-          "title": "金十图示：2026年02月10日（周二）上海金早盘价为1121.71元/克，较国际金价(1118.54元/克)，高3.17元/克",
-          "url": "https://flash.jin10.com/detail/20260210110132564800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时16分"
+          "time_info": "21时42分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美国零售销售数据公布后，美元指数短线走低，日内一度转跌；美国国债延续涨势。",
+          "url": "https://wallstreetcn.com/livenews/3053079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
         {
           "title": "美元指数9日下跌",
           "url": "https://flash.jin10.com/detail/20260210044510192800",
@@ -1244,13 +1318,76 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时52分 ~ 05时49分]"
+        },
+        {
+          "title": "美元指数DXY短线走低十余点，现报96.78。",
+          "url": "https://flash.jin10.com/detail/20260210213145716800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2026年02月10日（周二）上海金午盘价为1118.1元/克，较国际金价(1115.18元/克)，高2.92元/克",
+          "url": "https://flash.jin10.com/detail/20260210150158914800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
+          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时05分 ~ 21时42分]"
+        },
+        {
+          "title": "金十图示：2026年02月10日（周二）上海金早盘价为1121.71元/克，较国际金价(1118.54元/克)，高3.17元/克",
+          "url": "https://flash.jin10.com/detail/20260210110132564800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美国12月零售销售数据公布后，美债延续涨势。",
+          "url": "https://flash.jin10.com/detail/20260210213343332800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
         {
           "title": "2/10年期美债收益率跌约1.2个基点",
           "url": "https://wallstreetcn.com/livenews/3052501",
