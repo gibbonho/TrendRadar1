@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T21:42:31.521898+08:00",
-  "total_titles_processed": 1609,
+  "generated_at": "2026-02-10T23:08:07.560356+08:00",
+  "total_titles_processed": 1740,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时16分 ~ 21时42分]"
+          "appearance_count": 9,
+          "time_info": "[11时16分 ~ 23时08分]"
         },
         {
           "title": "美股三大指数开盘小幅下跌，美债走跌，英镑延续涨势，黄金涨至5040美元",
@@ -29,6 +29,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时07分 ~ 04时52分]"
+        },
+        {
+          "title": "国防部：日本政府为“再军事化”披上虚伪的“法治”外衣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32574685",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时01分 ~ 23时08分]"
         },
         {
           "title": "科技股反弹提振市场，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，白银涨超7%",
@@ -147,7 +160,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -180,7 +193,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -194,18 +207,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
-        },
-        {
-          "title": "国防部：日本政府为“再军事化”披上虚伪的“法治”外衣",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32574685",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时01分 ~ 21时42分]"
         },
         {
           "title": "买139999元黄金手机壳送苹果手机",
@@ -269,6 +270,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时26分 ~ 05时49分]"
+        },
+        {
+          "title": "达利欧最新深度访谈：美国处于秩序崩溃与内战边缘，黄金是唯一避险方舟",
+          "url": "https://wallstreetcn.com/articles/3765365",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 23时08分]"
         },
         {
           "title": "现货白银日内大涨6美元，现报83.81美元/盎司，涨幅7.73%。",
@@ -342,24 +355,13 @@
           "time_info": "15时17分"
         },
         {
-          "title": "达利欧最新深度访谈：美国处于秩序崩溃与内战边缘，黄金是唯一避险方舟",
-          "url": "https://wallstreetcn.com/articles/3765365",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
           "title": "美国零售销售数据公布后，现货黄金短线小幅走高10美元，现报5044.73美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260210213118757800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -565,7 +567,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 36,
       "titles": [
         {
           "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
@@ -596,6 +598,17 @@
           "time_info": "[11时16分 ~ 17时05分]"
         },
         {
+          "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
+          "url": "https://news.ifeng.com/c/8qdRnTGCb87",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
+        },
+        {
           "title": "谷爱凌回应特朗普大骂冬奥运动员",
           "url": "https://www.toutiao.com/trending/7605068464549744178/",
           "source": "今日头条",
@@ -619,6 +632,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时16分 ~ 15时17分]"
+        },
+        {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时01分 ~ 23时08分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：将与美国总统特朗普讨论伊朗、加沙和地区问题。",
@@ -666,18 +692,6 @@
           "time_info": "[11时16分 ~ 15时17分]"
         },
         {
-          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
-          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时01分 ~ 21时42分]"
-        },
-        {
           "title": "谷爱凌回应特朗普大骂冬奥运动员",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E9%AA%82%E5%86%AC%E5%A5%A5%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -712,6 +726,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时52分 ~ 05时49分]"
+        },
+        {
+          "title": "特朗普表面祝贺高市私下大发雷霆",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E9%9D%A2%E7%A5%9D%E8%B4%BA%E9%AB%98%E5%B8%82%E7%A7%81%E4%B8%8B%E5%A4%A7%E5%8F%91%E9%9B%B7%E9%9C%86%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-10）",
@@ -813,6 +838,17 @@
           "time_info": "07时47分"
         },
         {
+          "title": "加拿大总理卡尼：特朗普已要求特使胡克斯特拉参与大桥问题谈判。",
+          "url": "https://flash.jin10.com/detail/20260210225343175800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "报道：特朗普计划废除奥巴马政府时期一项气候危害认定",
           "url": "https://wallstreetcn.com/livenews/3052654",
           "source": "华尔街见闻-快讯",
@@ -822,6 +858,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "比亚迪起诉特朗普政府：退钱！",
+          "url": "https://wallstreetcn.com/livenews/3053101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "美国众议院共和党人试图继续推迟对特朗普关税的投票",
@@ -846,6 +893,28 @@
           "time_info": "03时27分"
         },
         {
+          "title": "加拿大总理卡尼：与特朗普进行了积极的对话。",
+          "url": "https://flash.jin10.com/detail/20260210224857675800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "加拿大总理卡尼：曾与特朗普讨论过戈迪·豪国际大桥的相关事宜。",
+          "url": "https://flash.jin10.com/detail/20260210224841677800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "特朗普：若沃什履职得当，美国经济可增长15%",
           "url": "https://wallstreetcn.com/livenews/3052529",
           "source": "华尔街见闻-快讯",
@@ -866,6 +935,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "加拿大总理卡尼：特朗普曾威胁的跨国大桥相关问题将得到解决。",
+          "url": "https://flash.jin10.com/detail/20260210224722770800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "据华尔街日报：消息人士称，美国总统特朗普的官员正施压共和党人，在住房法案中加入禁止华尔街购买独栋住宅的条款。",
@@ -904,7 +984,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
@@ -931,6 +1011,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时46分 ~ 15时17分]"
+        },
+        {
+          "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
+          "url": "https://wallstreetcn.com/articles/3765361",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
         },
         {
           "title": "金十图示：2026年02月09日（周一）美股热门股票行情一览（美股盘中）",
@@ -992,6 +1083,18 @@
           "time_info": "[05时49分 ~ 06时48分]"
         },
         {
+          "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2286272",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 23时08分]"
+        },
+        {
           "title": "美股收盘：三大股指收涨 甲骨文涨超9%",
           "url": "https://flash.jin10.com/detail/20260210050104456800",
           "source": "金十数据",
@@ -1039,17 +1142,6 @@
           "time_info": "[05时49分 ~ 06时48分]"
         },
         {
-          "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2286272",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
           "title": "亚洲股市周二有望再度走高 追随美股科技股反弹势头",
           "url": "https://flash.jin10.com/detail/20260210065424099800",
           "source": "金十数据",
@@ -1059,6 +1151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "网络股指数ETF涨0.92%，可选消费ETF涨0.67%，全球科技股指数ETF涨0.45%，科技行业ETF涨0.31%，在美股盘初领跑行业ETF，生物科技指数ETF则跌0.2%，全球航空业ETF跌0.61%。",
+          "url": "https://wallstreetcn.com/livenews/3053108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "美股光通信股盘前延续涨势，Credo Technology大涨超17%，Astera Labs盘前续涨超5%，康宁涨超1%。",
@@ -1078,7 +1181,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1092,6 +1195,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "派拉蒙维持美股30美元收购华纳兄弟探索的报价不变，增加往外补偿费",
+          "url": "https://wallstreetcn.com/livenews/3053092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "美股延续涨势，纳指上涨1%。",
@@ -1122,7 +1236,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1141,8 +1255,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "美国财长贝森特：将密切关注伊朗局势发展；对俄乌局势持乐观态度。",
+          "url": "https://flash.jin10.com/detail/20260210230204359800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
         {
           "title": "阿曼苏丹同伊朗最高领袖顾问讨论伊美谈判进展",
           "url": "https://wallstreetcn.com/livenews/3052958",
@@ -1165,6 +1290,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时56分 ~ 03时27分]"
+        },
+        {
+          "title": "伊朗“双向”应对美伊谈判",
+          "url": "https://www.toutiao.com/trending/7605209714565058094/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
         },
         {
           "title": "伊朗向中俄通报美伊谈判细节",
@@ -1228,7 +1364,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1261,7 +1397,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         }
@@ -1269,7 +1405,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国零售销售数据公布后，美元指数短线走低，日内一度转跌；美国国债延续涨势。",
@@ -1278,7 +1414,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1326,9 +1462,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
+        },
+        {
+          "title": "新兴市场货币指数刷新日高，美元走软。",
+          "url": "https://wallstreetcn.com/livenews/3053114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         }
       ]
     },
@@ -1336,6 +1483,20 @@
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
+        {
+          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时05分 ~ 23时08分]"
+        },
         {
           "title": "金十图示：2026年02月10日（周二）上海金午盘价为1118.1元/克，较国际金价(1115.18元/克)，高2.92元/克",
           "url": "https://flash.jin10.com/detail/20260210150158914800",
@@ -1346,19 +1507,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
-        },
-        {
-          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时05分 ~ 21时42分]"
         },
         {
           "title": "金十图示：2026年02月10日（周二）上海金早盘价为1121.71元/克，较国际金价(1118.54元/克)，高3.17元/克",
@@ -1384,7 +1532,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
