@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T13:10:56.523584+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2026-02-11T15:14:00.434717+08:00",
+  "total_titles_processed": 1066,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -19,6 +19,17 @@
           "time_info": "[01时12分 ~ 07时46分]"
         },
         {
+          "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
+          "url": "https://news.ifeng.com/c/8qeNbE9tmAI",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时57分 ~ 15时14分]"
+        },
+        {
           "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
           "url": "https://news.ifeng.com/c/8qdLiMlCmog",
           "source": "凤凰网",
@@ -30,24 +41,13 @@
           "time_info": "[01时12分 ~ 07时46分]"
         },
         {
-          "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
-          "url": "https://news.ifeng.com/c/8qeNbE9tmAI",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 13时10分]"
-        },
-        {
           "title": "据美国媒体报道，以色列总理内塔尼亚胡10日晚在白宫与美国总统特朗普的特使威特科夫和女婿库什纳举行会晤，双方讨论了伊朗局势。",
           "url": "https://flash.jin10.com/detail/20260211122756306800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -88,6 +88,18 @@
           "time_info": "[05时53分 ~ 07时46分]"
         },
         {
+          "title": "特朗普又翻脸了，中国再躺枪",
+          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时57分 ~ 15时14分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普认为，美方应该对Gordie Howe Bridge大桥拥有一半的所有权。 特朗普今天打电话给加拿大总理卡尼，讨论安大略（跨境）大桥。",
           "url": "https://wallstreetcn.com/livenews/3053221",
           "source": "华尔街见闻-快讯",
@@ -110,6 +122,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时51分 ~ 07时46分]"
+        },
+        {
+          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
+          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时57分 ~ 15时14分]"
         },
         {
           "title": "美国白宫：特朗普支持美国商务部长卢特尼克。",
@@ -172,15 +195,27 @@
           "time_info": "[05时53分 ~ 06时51分]"
         },
         {
-          "title": "特朗普又翻脸了，中国再躺枪",
-          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
+          "title": "特朗普对伊朗释放强硬信号 欧洲议会通过2040年减排90%目标 | 环球市场",
+          "url": "https://www.cls.cn/detail/2286531",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时57分 ~ 15时14分]"
+        },
+        {
+          "title": "特朗普为何突然盯上加拿大这座大桥？加官员这么说",
+          "url": "https://news.ifeng.com/c/8qeou7377qN",
           "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时57分 ~ 13时10分]"
+          "time_info": "[15时13分 ~ 15时14分]"
         },
         {
           "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
@@ -189,17 +224,6 @@
           "ranks": [
             7,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 13时10分]"
-        },
-        {
-          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
-          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
-          "source": "凤凰网",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -288,18 +312,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时55分]"
-        },
-        {
-          "title": "特朗普对伊朗释放强硬信号 欧洲议会通过2040年减排90%目标 | 环球市场",
-          "url": "https://www.cls.cn/detail/2286531",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 13时10分]"
         },
         {
           "title": "美国总统特朗普：政府裁员之后，就业数据依旧良好。",
@@ -446,7 +458,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -512,7 +524,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -553,7 +565,7 @@
     },
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -567,24 +579,24 @@
           "time_info": "[01时12分 ~ 06时51分]"
         },
         {
-          "title": "达利欧最新深度访谈：美国处于秩序崩溃与内战边缘，黄金是唯一避险方舟",
-          "url": "https://wallstreetcn.com/articles/3765365",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 13时10分]"
-        },
-        {
           "title": "国防部：日本政府为“再军事化”披上虚伪的“法治”外衣",
           "url": "https://m.thepaper.cn/newsDetail_forward_32574685",
           "source": "澎湃新闻",
           "ranks": [
             7,
             6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时12分 ~ 15时14分]"
+        },
+        {
+          "title": "达利欧最新深度访谈：美国处于秩序崩溃与内战边缘，黄金是唯一避险方舟",
+          "url": "https://wallstreetcn.com/articles/3765365",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -646,6 +658,17 @@
           "time_info": "07时46分"
         },
         {
+          "title": "现货白银向上触及83美元/盎司，日内涨2.85%。",
+          "url": "https://flash.jin10.com/detail/20260211145508847800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
           "title": "富国银行：获利了结无碍长牛 上调黄金目标价至6300美元",
           "url": "https://flash.jin10.com/detail/20260211053637469800",
           "source": "金十数据",
@@ -695,13 +718,24 @@
           "time_info": "[03时17分 ~ 04时55分]"
         },
         {
+          "title": "世界白银协会：将连续第六年出现供应缺口，长期看涨前景稳固！",
+          "url": "https://www.cls.cn/detail/2286585",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
+        },
+        {
           "title": "金十图示：2026年02月11日（周三）白银ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260211115350366800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -712,7 +746,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -739,13 +773,24 @@
           "time_info": "07时46分"
         },
         {
+          "title": "现货白银向上触及83美元/盎司，日内涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3053504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
           "title": "现货黄金突破5060美元/盎司，日内涨0.74%。",
           "url": "https://flash.jin10.com/detail/20260211113253352800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -849,11 +894,12 @@
           "url": "https://wallstreetcn.com/articles/3765438",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 13时10分]"
+          "appearance_count": 4,
+          "time_info": "[10时57分 ~ 15时14分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
@@ -865,8 +911,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时46分 ~ 13时10分]"
+          "appearance_count": 5,
+          "time_info": "[07时46分 ~ 15时14分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -889,6 +935,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
+        },
+        {
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时10分 ~ 15时14分]"
+        },
+        {
+          "title": "罗杰斯为何清空美股死守金银铜",
+          "url": "https://www.toutiao.com/trending/7605434410879421993/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时10分 ~ 15时14分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -951,17 +1021,6 @@
           "time_info": "[05时53分 ~ 06时51分]"
         },
         {
-          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765455",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
           "title": "美股1月日均成交额突破1万亿美元",
           "url": "https://flash.jin10.com/detail/20260211005235441800",
           "source": "金十数据",
@@ -982,17 +1041,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
-        },
-        {
-          "title": "罗杰斯为何清空美股死守金银铜",
-          "url": "https://www.toutiao.com/trending/7605434410879421993/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时10分"
         },
         {
           "title": "美泰（Mattel）美股盘后跌幅扩大至21%。 最新业绩报告显示，该公司四季度净销售17.7亿美元，分析师预期18.4亿美元。 授权15亿美元新版股票回购计划。 预计2026年净销售按恒定汇率将增长3%-6%。",
@@ -1020,7 +1068,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "美媒：美国考虑扣押伊朗油轮 忧虑报复及油价而按兵不动",
@@ -1044,6 +1092,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
+        },
+        {
+          "title": "沙特驻伊朗大使：支持地区局势降温",
+          "url": "https://flash.jin10.com/detail/20260211143246873800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "以总理访美，就伊朗弹道导弹问题与美沟通",
@@ -1079,13 +1138,46 @@
           "time_info": "04时55分"
         },
         {
+          "title": "沙特驻伊朗大使：支持地区局势降温",
+          "url": "https://wallstreetcn.com/livenews/3053490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "伊朗外长：相信可以达成优于伊核协议的新协议",
+          "url": "https://flash.jin10.com/detail/20260211140731588800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "伊朗外长：相信可以达成优于伊核协议的新协议",
+          "url": "https://wallstreetcn.com/livenews/3053481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
           "title": "美媒：美国考虑扣押涉伊朗油轮以施压",
           "url": "https://wallstreetcn.com/livenews/3053412",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         }
@@ -1125,9 +1217,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时10分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时10分 ~ 15时14分]"
         },
         {
           "title": "从避险到标配 摩根大通勾勒金价8000美元蓝图",
@@ -1147,7 +1239,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         }
@@ -1209,7 +1301,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数10日下跌",
@@ -1234,6 +1326,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时55分 ~ 05时53分]"
+        },
+        {
+          "title": "非农料出现有史以来最大的年度下修 美元指数预计在数据公布前维持震荡",
+          "url": "https://flash.jin10.com/detail/20260211144052804800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.51%，暂报2652.98点。 MarketVectorTM数字资产100中盘指数跌1.02%，报2734.15点。 MarketVector数字资产100指数跌1.60%，报13869.65点。 Solana目前跌3.66%，狗狗币跌3.11%，XRP跌2.52%。 比特币跌1.89%，暂报69373美元；以太坊跌4.56%，暂报2028.89美元。",
