@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T10:53:32.687571+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2026-02-12T13:05:37.488548+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -26,11 +26,12 @@
             10,
             9,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时13分 ~ 10时53分]"
+          "appearance_count": 9,
+          "time_info": "[03时13分 ~ 13时05分]"
         },
         {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
@@ -172,6 +173,18 @@
           "time_info": "[06时38分 ~ 07时41分]"
         },
         {
+          "title": "特朗普称赞1月非农强劲表现 再度呼吁大幅降息",
+          "url": "https://www.cls.cn/detail/2287759",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 13时05分]"
+        },
+        {
           "title": "美国总统特朗普：美国正在向世界各地出口煤炭。",
           "url": "https://flash.jin10.com/detail/20260212055115912800",
           "source": "金十数据",
@@ -264,6 +277,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
           "title": "美国总统特朗普：已结束与以色列总理内塔尼亚胡的会晤，这是一次非常成功的会晤。与内塔尼亚胡讨论了加沙以及整个地区正在取得的巨大进展。",
           "url": "https://flash.jin10.com/detail/20260212025541001800",
           "source": "金十数据",
@@ -273,6 +297,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
+          "url": "https://www.cls.cn/detail/2288046",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "据AXIOS网站：特朗普与内塔尼亚胡的会议在近三个小时后结束。",
@@ -361,17 +396,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
-        },
-        {
-          "title": "特朗普称赞1月非农强劲表现 再度呼吁大幅降息",
-          "url": "https://www.cls.cn/detail/2287759",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
         },
         {
           "title": "美国总统特朗普：向世界各地出口煤炭。",
@@ -523,7 +547,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         },
@@ -553,7 +577,7 @@
     },
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "财晓得｜当黄金开始暴涨暴跌，你得知道为何它这么“激动”",
@@ -615,6 +639,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "金十图示：2026年02月12日（周四）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260212120340330800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2吨，当前持仓量为1081.32吨。",
           "url": "https://flash.jin10.com/detail/20260212071526208800",
           "source": "金十数据",
@@ -624,6 +659,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        },
+        {
+          "title": "金十图示：2026年02月12日（周四）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260212120338120800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "美联储哈玛克：黄金和金属价格上涨可能与通胀有关。",
@@ -648,6 +694,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时49分 ~ 05时40分]"
+        },
+        {
+          "title": "黄金白银直线下跌",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E7%9B%B4%E7%BA%BF%E4%B8%8B%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 13时05分]"
         },
         {
           "title": "房子缩水87万送的黄金涨到112万",
@@ -711,7 +769,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         },
@@ -736,17 +794,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
-        },
-        {
-          "title": "黄金白银直线下跌",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E7%9B%B4%E7%BA%BF%E4%B8%8B%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
         },
         {
           "title": "伊朗议会安全委员会主席：相信美国已经避免了对伊朗采取军事行动。",
@@ -811,8 +858,20 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 13时05分]"
+        },
+        {
+          "title": "开盘即巅峰！华尔街热议：强劲非农下美股缘何虎头蛇尾？",
+          "url": "https://www.cls.cn/detail/2287918",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时41分 ~ 10时53分]"
+          "time_info": "[10时53分 ~ 13时05分]"
         },
         {
           "title": "Peabody Energy美股盘后涨7%，此前特朗普兜售美国煤炭。",
@@ -825,17 +884,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时41分]"
-        },
-        {
-          "title": "开盘即巅峰！华尔街热议：强劲非农下美股缘何虎头蛇尾？",
-          "url": "https://www.cls.cn/detail/2287918",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
         },
         {
           "title": "思科美股盘后维持超过6.8%的跌幅，该公司所给利润指引“疲软”。",
@@ -948,6 +996,17 @@
           "time_info": "[03时13分 ~ 06时38分]"
         },
         {
+          "title": "伊朗总统：愿接受任何形式的核查",
+          "url": "https://www.douyin.com/hot/2397305",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 13时05分]"
+        },
+        {
           "title": "美国财长贝森特：正在追踪伊朗领导层及其在全球转移的资金。",
           "url": "https://flash.jin10.com/detail/20260212032434907800",
           "source": "金十数据",
@@ -957,17 +1016,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
-        },
-        {
-          "title": "伊朗总统：愿接受任何形式的核查",
-          "url": "https://www.douyin.com/hot/2397305",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
         },
         {
           "title": "伊朗最高领袖顾问：正与美国磋商下一轮谈判时间",
@@ -1038,8 +1086,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 10时53分]"
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 13时05分]"
         },
         {
           "title": "美国财长贝森特：2025年GDP增速可能达到3%。 预计制造业就业人口将在未来几个月回升。 总统特朗普专注于住房市场。 抵押贷款利率和10年期美债收益率都在下跌。",
