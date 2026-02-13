@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T17:56:25.435387+08:00",
-  "total_titles_processed": 1466,
+  "generated_at": "2026-02-13T18:51:52.884551+08:00",
+  "total_titles_processed": 1554,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,32 @@
           "time_info": "[00时01分 ~ 15时55分]"
         },
         {
+          "title": "特朗普答凤凰：中美关系良好，两国元首今年实现互访",
+          "url": "https://news.ifeng.com/c/8qhfIw9PImo",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时53分 ~ 18时51分]"
+        },
+        {
+          "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
+          "url": "https://news.ifeng.com/c/8qhMxrkOBrZ",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时53分 ~ 18时51分]"
+        },
+        {
           "title": "特朗普将于4月初访华？外交部回应",
           "url": "https://news.ifeng.com/c/8qgYPXi4vBX",
           "source": "凤凰网",
@@ -30,18 +56,6 @@
           "time_info": "[00时01分 ~ 07时38分]"
         },
         {
-          "title": "特朗普答凤凰：中美关系良好，两国元首今年实现互访",
-          "url": "https://news.ifeng.com/c/8qhfIw9PImo",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时53分 ~ 17时56分]"
-        },
-        {
           "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
           "url": "https://news.ifeng.com/c/8qgZNx2x3dB",
           "source": "凤凰网",
@@ -51,18 +65,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时01分 ~ 07时38分]"
-        },
-        {
-          "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
-          "url": "https://news.ifeng.com/c/8qhMxrkOBrZ",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时53分 ~ 17时56分]"
         },
         {
           "title": "路透社：特朗普访华前暂停对华科技禁令",
@@ -89,8 +91,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时01分 ~ 17时56分]"
+          "appearance_count": 17,
+          "time_info": "[00时01分 ~ 18时51分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -120,17 +122,6 @@
           "time_info": "[13时00分 ~ 17时56分]"
         },
         {
-          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
-          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 17时56分]"
-        },
-        {
           "title": "中方回应“特朗普将于4月初访华”",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
           "source": "百度热搜",
@@ -144,6 +135,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时01分 ~ 05时42分]"
+        },
+        {
+          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
+          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时54分 ~ 18时51分]"
         },
         {
           "title": "UP主在白宫向特朗普提问",
@@ -226,6 +229,19 @@
           "time_info": "02时01分"
         },
         {
+          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
+          "url": "https://www.cls.cn/detail/2289315",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时55分 ~ 18时51分]"
+        },
+        {
           "title": "美国总统特朗普：（1月非农）就业报告在特定方面是惊人的。",
           "url": "https://wallstreetcn.com/livenews/3054698",
           "source": "华尔街见闻-快讯",
@@ -260,19 +276,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时44分]"
-        },
-        {
-          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
-          "url": "https://www.cls.cn/detail/2289315",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时55分 ~ 17时56分]"
         },
         {
           "title": "特朗普：美国“必须”与伊朗达成协议，否则局势将“非常严重”",
@@ -321,6 +324,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时44分]"
+        },
+        {
+          "title": "特朗普称印度同意不再购买俄油？俄方回应：没听说过",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32593433",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 18时51分]"
         },
         {
           "title": "美国参议员们质询特朗普的美联储主席提名人凯文·沃什：特朗普是否要求他发誓要效忠。",
@@ -456,17 +471,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
-        },
-        {
-          "title": "特朗普称印度同意不再购买俄油？俄方回应：没听说过",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32593433",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
         },
         {
           "title": "美国总统特朗普：尚未与卢特尼克讨论此事。",
@@ -659,7 +663,7 @@
     },
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -669,8 +673,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时53分 ~ 17时56分]"
+          "appearance_count": 10,
+          "time_info": "[10时53分 ~ 18时51分]"
         },
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
@@ -681,8 +685,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时53分 ~ 17时56分]"
+          "appearance_count": 10,
+          "time_info": "[10时53分 ~ 18时51分]"
         },
         {
           "title": "【早报】深夜跳水！美股、黄金、白银、原油集体大跌；央行今日出手，万亿逆回购来了",
@@ -732,6 +736,20 @@
           "time_info": "[02时01分 ~ 03时17分]"
         },
         {
+          "title": "前女友送的40克银镯子内含30克黄金",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%A5%B3%E5%8F%8B%E9%80%81%E7%9A%8440%E5%85%8B%E9%93%B6%E9%95%AF%E5%AD%90%E5%86%85%E5%90%AB30%E5%85%8B%E9%BB%84%E9%87%91%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            13,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时09分 ~ 18时51分]"
+        },
+        {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，贵金属遭流动性挤压，黄金失守5000美元，白银跳水11%",
           "url": "https://wallstreetcn.com/articles/3765553",
           "source": "华尔街见闻",
@@ -765,18 +783,15 @@
           "time_info": "07时38分"
         },
         {
-          "title": "前女友送的40克银镯子内含30克黄金",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%A5%B3%E5%8F%8B%E9%80%81%E7%9A%8440%E5%85%8B%E9%93%B6%E9%95%AF%E5%AD%90%E5%86%85%E5%90%AB30%E5%85%8B%E9%BB%84%E9%87%91%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "宁德时代、洛阳钼业、老铺黄金等公司将加入香港恒生指数。",
+          "url": "https://wallstreetcn.com/livenews/3055121",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            13,
-            16,
-            12
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时09分 ~ 17时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "现货白银日内大涨5.00%，现报79.04美元/盎司。",
@@ -1102,6 +1117,17 @@
           "time_info": "02时01分"
         },
         {
+          "title": "黄金还能买吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E8%BF%98%E8%83%BD%E4%B9%B0%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "OpenAI发布首个搭载英伟达对手Cerebras芯片的AI模型",
           "url": "https://wallstreetcn.com/livenews/3054665",
           "source": "华尔街见闻-快讯",
@@ -1175,6 +1201,31 @@
           "time_info": "[06时39分 ~ 15时55分]"
         },
         {
+          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
+          "url": "https://wallstreetcn.com/articles/3765624",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时53分 ~ 18时51分]"
+        },
+        {
+          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
+          "url": "https://wallstreetcn.com/articles/3765638",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时00分 ~ 18时51分]"
+        },
+        {
           "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2288812",
           "source": "财联社热门",
@@ -1188,31 +1239,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时01分 ~ 10时53分]"
-        },
-        {
-          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
-          "url": "https://wallstreetcn.com/articles/3765624",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时53分 ~ 17时56分]"
-        },
-        {
-          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
-          "url": "https://wallstreetcn.com/articles/3765638",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时00分 ~ 17时56分]"
         },
         {
           "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
@@ -1238,6 +1264,28 @@
           "time_info": "07时38分"
         },
         {
+          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
+          "url": "https://wallstreetcn.com/articles/3765636",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时55分 ~ 18时51分]"
+        },
+        {
+          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
+          "url": "https://www.zhihu.com/question/2005568531748648323",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时55分 ~ 18时51分]"
+        },
+        {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260213051126204800",
           "source": "金十数据",
@@ -1248,17 +1296,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时39分]"
-        },
-        {
-          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
-          "url": "https://wallstreetcn.com/articles/3765636",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时55分 ~ 17时56分]"
         },
         {
           "title": "金十图示：2026年02月12日（周四）热门中概股行情一览（美股收盘）",
@@ -1307,17 +1344,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时38分]"
-        },
-        {
-          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
-          "url": "https://www.zhihu.com/question/2005568531748648323",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时55分 ~ 17时56分]"
         },
         {
           "title": "AI引发的资本市场大溃逃 美股商业地产遭遇“黑色星期四”",
@@ -1407,7 +1433,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -1547,7 +1573,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特写｜断网与战争阴霾之下：在伊朗，普通人的生活如何继续",
@@ -1562,6 +1588,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[04时43分 ~ 14时10分]"
+        },
+        {
+          "title": "伊朗最高领袖顾问：如美方不提过分要求，则谈判可向积极方向发展",
+          "url": "https://wallstreetcn.com/livenews/3055118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "美国能源部长赖特：俄罗斯和伊朗在委内瑞拉的影响力将会减弱。",
