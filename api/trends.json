@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T16:43:12.059438+08:00",
-  "total_titles_processed": 1139,
+  "generated_at": "2026-02-14T17:40:16.755715+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
@@ -59,8 +59,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时41分 ~ 16时43分]"
+          "appearance_count": 9,
+          "time_info": "[10时41分 ~ 17时40分]"
         },
         {
           "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
@@ -69,11 +69,12 @@
           "ranks": [
             11,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时41分 ~ 16时43分]"
+          "appearance_count": 9,
+          "time_info": "[10时41分 ~ 17时40分]"
         },
         {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
@@ -84,8 +85,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时48分 ~ 16时43分]"
+          "appearance_count": 8,
+          "time_info": "[12时48分 ~ 17时40分]"
         },
         {
           "title": "因刺杀特朗普未遂被判终身监禁的枪手提起上诉",
@@ -137,6 +138,17 @@
           "time_info": "[00时58分 ~ 01时49分]"
         },
         {
+          "title": "美国国务卿鲁比奥：美国特使维特科夫和特朗普女婿库什纳很快就会安排一些会晤。",
+          "url": "https://flash.jin10.com/detail/20260214165909253800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
           "url": "https://www.cls.cn/detail/2290112",
           "source": "财联社热门",
@@ -149,16 +161,28 @@
           "time_info": "[10时41分 ~ 15时41分]"
         },
         {
+          "title": "美国国务卿鲁比奥：美国总统特朗普表示他更倾向于与伊朗达成协议，但要做到这一点非常困难。",
+          "url": "https://flash.jin10.com/detail/20260214165831489800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "加州州长慕安会痛批特朗普：让美国倒退回19世纪！",
           "url": "https://wallstreetcn.com/livenews/3055491",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 16时43分]"
+          "appearance_count": 3,
+          "time_info": "[15时41分 ~ 17时40分]"
         },
         {
           "title": "美国总统特朗普重申：与北约关系良好。",
@@ -198,6 +222,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时58分 ~ 03时01分]"
+        },
+        {
+          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
+          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时41分 ~ 17时40分]"
         },
         {
           "title": "美国总统特朗普宣扬股市表现和通胀数据。",
@@ -340,17 +375,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时48分 ~ 14时58分]"
-        },
-        {
-          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
-          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时41分 ~ 16时43分]"
         },
         {
           "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
@@ -602,7 +626,7 @@
     },
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
@@ -613,8 +637,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时38分 ~ 16时43分]"
+          "appearance_count": 11,
+          "time_info": "[07时38分 ~ 17时40分]"
         },
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -660,11 +684,12 @@
           "ranks": [
             12,
             9,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时48分 ~ 16时43分]"
+          "appearance_count": 8,
+          "time_info": "[12时48分 ~ 17时40分]"
         },
         {
           "title": "“时机尴尬”！外媒爆“美对委军事行动使用AI模型Claude”，涉事美企回应",
@@ -743,6 +768,18 @@
           "time_info": "[04时50分 ~ 07时39分]"
         },
         {
+          "title": "保姆辞职前偷卖雇主24万黄金",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%9D%E5%A7%86%E8%BE%9E%E8%81%8C%E5%89%8D%E5%81%B7%E5%8D%96%E9%9B%87%E4%B8%BB24%E4%B8%87%E9%BB%84%E9%87%91%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 17时40分]"
+        },
+        {
           "title": "金十图示：2026年02月14日（周六）白银ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260214123315733800",
           "source": "金十数据",
@@ -756,15 +793,16 @@
           "time_info": "[13时53分 ~ 15时41分]"
         },
         {
-          "title": "保姆辞职前偷卖雇主24万黄金",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%9D%E5%A7%86%E8%BE%9E%E8%81%8C%E5%89%8D%E5%81%B7%E5%8D%96%E9%9B%87%E4%B8%BB24%E4%B8%87%E9%BB%84%E9%87%91%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "黄金、白银强劲反弹",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E3%80%81%E7%99%BD%E9%93%B6%E5%BC%BA%E5%8A%B2%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
           "ranks": [
-            7
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 16时43分]"
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 17时40分]"
         },
         {
           "title": "13F报告显示：Harvard Management四季度建仓做多Union Pacifit/isha以太坊信托ETF、以及Figma。 增持谷歌A、博通、台积电、Booking、以及Meta。 清仓Lighter & Wonder、PureCycle、以及Maze Therapeutics。 减持iShares比特币信托ETF、微软、亚马逊、英伟达、以及SPDR黄金Shares。 重仓资产包括iShares比特币信托ETF、谷歌A、SPDR黄金Shares、微软、以及Booking。",
@@ -839,6 +877,18 @@
           "time_info": "[13时53分 ~ 14时58分]"
         },
         {
+          "title": "OpenAI：已停止使用五款旧版ChatGPT模型",
+          "url": "https://flash.jin10.com/detail/20260214160547731800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 17时40分]"
+        },
+        {
           "title": "桥水Q4增持英伟达、亚马逊等AI热门股 同时加重黄金股持仓",
           "url": "https://flash.jin10.com/detail/20260214113020245800",
           "source": "金十数据",
@@ -849,17 +899,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时48分 ~ 13时53分]"
-        },
-        {
-          "title": "黄金、白银强劲反弹",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E3%80%81%E7%99%BD%E9%93%B6%E5%BC%BA%E5%8A%B2%E5%8F%8D%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 16时43分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：2月10日当周，投机者所持COMEX黄金净多头头寸减少400手合约，至93,038手合约，创16周新低。 所持COMEX铜净多头头寸降至54,270手合约，创19周新高。 所持NYMEX钯金净多头头寸增至724手合约，创逾三年新高。",
@@ -874,15 +913,15 @@
           "time_info": "[05时44分 ~ 06时42分]"
         },
         {
-          "title": "OpenAI：已停止使用五款旧版ChatGPT模型",
-          "url": "https://flash.jin10.com/detail/20260214160547731800",
-          "source": "金十数据",
+          "title": "美国国务卿卢比奥：俄乌战争不会通过军事手段解决。",
+          "url": "https://wallstreetcn.com/livenews/3055502",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时43分"
+          "time_info": "17时40分"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少132.45吨，当前持仓量为16041.73吨。欢迎点击查看数据中心...",
@@ -949,6 +988,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
+        },
+        {
+          "title": "公司给员工发500克黄金奖章",
+          "url": "https://www.toutiao.com/trending/7606593429145157674/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         }
       ]
     },
@@ -966,8 +1016,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时38分 ~ 16时43分]"
+          "appearance_count": 11,
+          "time_info": "[07时38分 ~ 17时40分]"
         },
         {
           "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
@@ -1070,6 +1120,18 @@
           "time_info": "[06时42分 ~ 07时39分]"
         },
         {
+          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
+          "url": "https://www.cls.cn/detail/2290296",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 17时40分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周五（2月13日），美国科技股七巨头（Magnificent 7）指数跌1.34%，报192.61点，本周累计下跌3.61%，整体持续走低。 亚马逊连续九个交易日下跌，创2006年以来最长连跌天数。 “超大”市值科技股指数跌0.75%，报364.30点，本周累跌2.65%。",
           "url": "https://wallstreetcn.com/livenews/3055367",
           "source": "华尔街见闻-快讯",
@@ -1092,17 +1154,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时42分]"
-        },
-        {
-          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
-          "url": "https://www.cls.cn/detail/2290296",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 16时43分]"
         },
         {
           "title": "公用事业ETF收跌超2.7%，领跌美股行业ETF",
@@ -1163,8 +1214,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时41分 ~ 16时43分]"
+          "appearance_count": 9,
+          "time_info": "[10时41分 ~ 17时40分]"
         },
         {
           "title": "伊朗流亡王储：我没有个人野心，愿领导国家走向公投",
@@ -1175,8 +1226,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时57分 ~ 16时43分]"
+          "appearance_count": 6,
+          "time_info": "[14时57分 ~ 17时40分]"
         },
         {
           "title": "乌克兰总统泽连斯基：会见了伊朗反对派人物巴列维。",
@@ -1227,7 +1278,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中国持续减持美债意味着什么",
@@ -1278,6 +1329,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 06时42分]"
+        },
+        {
+          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
+          "url": "https://wallstreetcn.com/articles/3765719",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         }
       ]
     },
