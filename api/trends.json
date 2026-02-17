@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T15:56:06.829553+08:00",
-  "total_titles_processed": 1046,
+  "generated_at": "2026-02-17T16:58:13.067288+08:00",
+  "total_titles_processed": 1129,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "白银基金出台补偿方案！2月26日可办理，1000元以下损失全额补偿",
@@ -36,11 +36,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时46分 ~ 15时56分]"
+          "appearance_count": 9,
+          "time_info": "[10时46分 ~ 16时58分]"
         },
         {
           "title": "行业首例！国投白银LOF估值调整补偿方案出炉：1000元以下损失全额补偿",
@@ -67,8 +68,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时56分 ~ 15时56分]"
+          "appearance_count": 19,
+          "time_info": "[00时56分 ~ 16时58分]"
         },
         {
           "title": "惠顿贵金属：预计到2030年黄金产量将增长约50%，达到120万黄金当量盎司。",
@@ -284,6 +285,17 @@
           "time_info": "[06时38分 ~ 07时38分]"
         },
         {
+          "title": "OpenAI成功“抢人”！从OpenClaw挖来创始人掌舵AI代理",
+          "url": "https://www.cls.cn/detail/2290903",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
+        },
+        {
           "title": "CFTC主席Selig：很荣幸能在特朗普总统的领导下庆祝“总统日”，他为美国金融市场开启了黄金时代，并将美国打造成为世界加密货币之都。",
           "url": "https://flash.jin10.com/detail/20260216235622274800",
           "source": "金十数据",
@@ -349,7 +361,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
         },
@@ -434,7 +446,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普：将间接参与美伊谈判",
@@ -444,8 +456,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时46分 ~ 15时56分]"
+          "appearance_count": 9,
+          "time_info": "[10时46分 ~ 16时58分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -487,6 +499,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时56分 ~ 05时37分]"
+        },
+        {
+          "title": "特朗普与马里兰州州长就管道破裂和污水泄漏的应对措施发生冲突",
+          "url": "https://flash.jin10.com/detail/20260217164530562800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
@@ -653,6 +676,17 @@
           "time_info": "[14时05分 ~ 14时06分]"
         },
         {
+          "title": "特朗普反应低调 日本怕中美搞大动作",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E5%BA%94%E4%BD%8E%E8%B0%83+%E6%97%A5%E6%9C%AC%E6%80%95%E4%B8%AD%E7%BE%8E%E6%90%9E%E5%A4%A7%E5%8A%A8%E4%BD%9C",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
+        },
+        {
           "title": "市场消息：印尼方面表示，最多将有8,000名军人在6月前准备好，可能参与加沙的人道主义维和任务，支持特朗普的加沙战后重建计划。",
           "url": "https://flash.jin10.com/detail/20260216234427683800",
           "source": "金十数据",
@@ -711,8 +745,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时46分 ~ 15时56分]"
+          "appearance_count": 9,
+          "time_info": "[10时46分 ~ 16时58分]"
+        },
+        {
+          "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
+          "url": "https://wallstreetcn.com/articles/3765802",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时00分 ~ 16时58分]"
         },
         {
           "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
@@ -726,19 +774,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时56分 ~ 05时37分]"
-        },
-        {
-          "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
-          "url": "https://wallstreetcn.com/articles/3765802",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时00分 ~ 15时56分]"
         },
         {
           "title": "阿曼外交大臣与伊朗外长讨论伊美第二轮核谈判筹备事宜",
