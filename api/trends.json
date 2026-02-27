@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-28T04:37:12.876939+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-02-28T05:37:31.878888+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
-        {
-          "title": "美国总统特朗普的政府在2月26日向（国会山）民主党发送关于国土安全部（DHS）拨款问题的最新建议。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3060437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
         {
           "title": "美军中东最高指挥官向特朗普汇报",
           "url": "https://www.toutiao.com/trending/7611361368545280036/",
@@ -28,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时37分]"
         },
         {
           "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
@@ -39,8 +28,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时37分]"
         },
         {
           "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
@@ -51,8 +40,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时37分]"
+        },
+        {
+          "title": "美国总统特朗普的政府在2月26日向（国会山）民主党发送关于国土安全部（DHS）拨款问题的最新建议。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3060437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时42分"
         },
         {
           "title": "特朗普发布白宫宴会厅完工效果图，称其为“同类建筑中最宏伟的一座”。",
@@ -70,11 +70,12 @@
           "url": "https://flash.jin10.com/detail/20260228041113668800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 05时37分]"
         },
         {
           "title": "美国总统特朗普宣称：关税已经影响到诺华制药。 该公司打算在美国建厂。",
@@ -237,13 +238,35 @@
           "time_info": "[02时56分 ~ 03时39分]"
         },
         {
+          "title": "特朗普下令：所有联邦政府机构将立即停用Anthropic",
+          "url": "https://flash.jin10.com/detail/20260228045153490800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "特朗普：Anthropic做错了，要求所有部门停止采用Anthropic的技术",
+          "url": "https://wallstreetcn.com/livenews/3060501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
           "title": "美国联邦住房金融局局长普尔特：抵押贷款利率降至5%区间！感谢特朗普总统！",
           "url": "https://flash.jin10.com/detail/20260228031931827800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
         },
@@ -372,7 +395,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -382,8 +405,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时37分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -393,19 +416,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时37分]"
-        },
-        {
-          "title": "提醒在伊朗的中国公民尽快撤离",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%8F%90%E9%86%92%E5%9C%A8%E4%BC%8A%E6%9C%97%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时37分]"
         },
         {
           "title": "伊朗危!提醒中国公民撤离",
@@ -415,8 +427,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时37分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -427,8 +439,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时37分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -440,8 +452,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时37分]"
+        },
+        {
+          "title": "提醒在伊朗的中国公民尽快撤离",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8F%90%E9%86%92%E5%9C%A8%E4%BC%8A%E6%9C%97%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时37分]"
         },
         {
           "title": "美军最大航母抵达中东，美官方：美国公民尽快离开以色列！我外交部：中国公民尽快撤离伊朗",
@@ -452,8 +476,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时37分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗，在当地中国公民尽快撤离",
@@ -464,8 +488,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时37分]"
         },
         {
           "title": "美国 伊朗",
@@ -475,8 +499,31 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时37分]"
+        },
+        {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时37分]"
+        },
+        {
+          "title": "美国国务院：任何美国公民均不应以任何理由前往伊朗。",
+          "url": "https://flash.jin10.com/detail/20260228051256394800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "IAEA：无法确认伊朗核活动",
@@ -490,16 +537,15 @@
           "time_info": "[00时51分 ~ 04时37分]"
         },
         {
-          "title": "伊朗",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=21&Refer=top",
-          "source": "微博",
+          "title": "美国国务院：伊朗政权必须停止扣押人质，并立即释放所有在伊朗被不公正拘留的美国公民。伊朗采取措施将有助于解除美国当前对它的制裁指定及相关行动。",
+          "url": "https://flash.jin10.com/detail/20260228051242645800",
+          "source": "金十数据",
           "ranks": [
-            21,
-            22
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "中国驻伊朗大使馆：郑重提醒在伊中国公民密切关注安全形势变化",
@@ -511,6 +557,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "美国国务卿卢比奥宣称：美国人无论处于任何原因都不应该前往伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3060514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "美国国务院：伊朗被认定为支持非法拘禁的国家。",
+          "url": "https://flash.jin10.com/detail/20260228051156294800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "伊朗外交部：伊朗外交部对巴基斯坦与阿富汗两国人民以及两国穆斯林之间局势趋紧深表遗憾，对由此对地区安全与人道局势造成的影响表示关切，并呼吁立即采取措施加以应对，以制止紧张局势升级并推动局势恢复正常",
@@ -571,6 +639,18 @@
           "time_info": "[00时51分 ~ 04时37分]"
         },
         {
+          "title": "波兰呼吁本国公民立即离开伊朗、以色列和黎巴嫩",
+          "url": "https://wallstreetcn.com/livenews/3060484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 05时37分]"
+        },
+        {
           "title": "我驻伊朗大使馆：郑重提醒在伊中国公民密切关注安全形势变化",
           "url": "https://wallstreetcn.com/livenews/3060474",
           "source": "华尔街见闻-快讯",
@@ -613,18 +693,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "波兰呼吁本国公民立即离开伊朗、以色列和黎巴嫩",
-          "url": "https://wallstreetcn.com/livenews/3060484",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
         },
@@ -635,7 +704,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
         },
@@ -698,7 +767,7 @@
     },
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "军事冲突风险不断上升！美国大使建议部分使领馆人员“今天离开”以色列",
@@ -708,8 +777,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时37分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -721,8 +790,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时37分]"
         },
         {
           "title": "黄金",
@@ -732,8 +801,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时37分]"
         },
         {
           "title": "炮龙一响 黄金万两",
@@ -745,19 +814,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时37分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
           "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时37分]"
         },
         {
           "title": "OpenAI将追加融资100亿美元。（The Information）",
@@ -820,15 +890,59 @@
           "time_info": "[00时51分 ~ 01时42分]"
         },
         {
+          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
+          "url": "https://wallstreetcn.com/articles/3766389",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：2月24日当周，投机者所持COMEX黄金净多头头寸增加3,878手合约，至99,937手合约，创四周新高。 所持COMEX白银净多头头寸创五周新高。 所持COMEX铜净多头头寸创21周新低。 所持NYMEX铂金净多头头寸创五周新高，所持NYMEX钯金净多头头寸创四年新高。",
+          "url": "https://wallstreetcn.com/livenews/3060499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
           "title": "据华尔街日报：美国共和党人敦促特朗普叫停英国在迪戈加西亚岛建设军事基地的计划。",
           "url": "https://flash.jin10.com/detail/20260228032207190800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至2月24日当周，COMEX白银期货投机者净多头头寸增加1822手，至7981手。",
+          "url": "https://flash.jin10.com/detail/20260228043200214800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至2月24日当周，COMEX黄金投机者净多头头寸增加3878手，至99937手。",
+          "url": "https://flash.jin10.com/detail/20260228043052099800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "OpenAI高管Nick Turley：ChatGPT日活用户已突破9亿，付费订阅用户达5000万。",
@@ -867,8 +981,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时37分]"
         },
         {
           "title": "美国10年期国债收益率跌穿3.96%，创10月23日以来新低，日内当前跌超4.2个基点。 两年期美债收益率跌超4.5个基点，失守3.38%，创10月17日以来新低；30年期美债收益率跌约2.7个基点，刷新日低至4.6287%。",
@@ -876,11 +990,29 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
+            9,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时39分 ~ 04时37分]"
+          "appearance_count": 3,
+          "time_info": "[03时39分 ~ 05时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数跌0.2%，2月份累涨0.6%",
+          "url": "https://wallstreetcn.com/livenews/3060498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         }
       ]
     }
