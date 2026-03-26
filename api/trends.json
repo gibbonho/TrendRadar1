@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T10:56:44.256753+08:00",
-  "total_titles_processed": 815,
+  "generated_at": "2026-03-26T13:14:04.699381+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 88,
+      "match_count": 93,
       "titles": [
         {
           "title": "伊朗称向美林肯号航母发射导弹",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时13分 ~ 10时56分]"
+        },
+        {
+          "title": "伊拉克不忍了？“允许亲伊朗武装报复美以”",
+          "url": "https://news.ifeng.com/c/8rmd4uQJqtB",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时13分 ~ 13时14分]"
         },
         {
           "title": "伊朗大使：未与美国直接或间接谈判",
@@ -42,16 +54,18 @@
           "time_info": "[01时13分 ~ 07时42分]"
         },
         {
-          "title": "伊拉克不忍了？“允许亲伊朗武装报复美以”",
-          "url": "https://news.ifeng.com/c/8rmd4uQJqtB",
-          "source": "凤凰网",
+          "title": "美国一边提停火方案一边加紧增兵，伊朗告诉调解方：怀疑和平谈判只是一个幌子",
+          "url": "https://wallstreetcn.com/articles/3768338",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            8
+            10,
+            9,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时13分 ~ 10时56分]"
+          "appearance_count": 10,
+          "time_info": "[01时13分 ~ 13时14分]"
         },
         {
           "title": "美方向伊朗提出含“15项条件”的和谈方案",
@@ -77,18 +91,16 @@
           "time_info": "[01时13分 ~ 07时42分]"
         },
         {
-          "title": "美国一边提停火方案一边加紧增兵，伊朗告诉调解方：怀疑和平谈判只是一个幌子",
-          "url": "https://wallstreetcn.com/articles/3768338",
-          "source": "华尔街见闻",
+          "title": "【早报】深夜，中国资产全线上涨；伊朗：拒绝美国停战提议",
+          "url": "https://www.cls.cn/detail/2325013",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9,
-            7,
-            6
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时13分 ~ 10时56分]"
+          "appearance_count": 4,
+          "time_info": "[07时42分 ~ 13时14分]"
         },
         {
           "title": "伊朗被曝拒绝与威特科夫和库什纳谈判，更倾向于万斯作为代表",
@@ -103,6 +115,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时13分 ~ 10时56分]"
+        },
+        {
+          "title": "伤亡不断攀升，以民众：我们必须狠狠打击伊朗",
+          "url": "https://news.ifeng.com/c/8rnlTMAiwg7",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 13时14分]"
         },
         {
           "title": "伊朗提出关于停战5项条件",
@@ -165,6 +189,18 @@
           "time_info": "[01时13分 ~ 07时42分]"
         },
         {
+          "title": "伊朗拒绝美国停战提议！关于是否开展谈判，双方最新表态",
+          "url": "https://www.cls.cn/detail/2325068",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 13时14分]"
+        },
+        {
           "title": "伊朗：满足条件的非敌对船只可通行霍尔木兹海峡",
           "url": "https://news.ifeng.com/c/8rmdnDuubhl",
           "source": "凤凰网",
@@ -224,18 +260,6 @@
           "time_info": "[01时13分 ~ 07时42分]"
         },
         {
-          "title": "【早报】深夜，中国资产全线上涨；伊朗：拒绝美国停战提议",
-          "url": "https://www.cls.cn/detail/2325013",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时42分 ~ 10时56分]"
-        },
-        {
           "title": "阿联酋国防部：正在应对来自伊朗的无人机和导弹袭击。",
           "url": "https://flash.jin10.com/detail/20260326071803211800",
           "source": "金十数据",
@@ -275,18 +299,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "伤亡不断攀升，以民众：我们必须狠狠打击伊朗",
-          "url": "https://news.ifeng.com/c/8rnlTMAiwg7",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -300,6 +313,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "伊朗披露了一个秘密",
+          "url": "https://news.ifeng.com/c/8rngTAbdqal",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 13时14分]"
         },
         {
           "title": "乌克兰总统泽连斯基：俄罗斯提出的“若美国切断对乌克兰的情报支持，则停止与伊朗分享情报”的提议是一种勒索行为。",
@@ -317,22 +342,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%80%E5%87%BA%E5%81%9C%E6%88%985%E4%B8%AA%E6%9D%A1%E4%BB%B6%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "伊朗拒绝美国停战提议！关于是否开展谈判，双方最新表态",
-          "url": "https://www.cls.cn/detail/2325068",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 13时14分]"
         },
         {
           "title": "伊朗议长警告“某地区国家”",
@@ -407,6 +422,123 @@
           "time_info": "[05时50分 ~ 06时46分]"
         },
         {
+          "title": "伊朗军方喊话美国：“别把你们的失败称为协议”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32827616",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时46分 ~ 13时14分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 27 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2020273808871748583",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 13时14分]"
+        },
+        {
+          "title": "伊朗军方称正搜捕逃亡美军",
+          "url": "https://www.toutiao.com/trending/7621082552094703622/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 13时14分]"
+        },
+        {
+          "title": "伊朗军方：正搜捕逃亡美军",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%EF%BC%9A%E6%AD%A3%E6%90%9C%E6%8D%95%E9%80%83%E4%BA%A1%E7%BE%8E%E5%86%9B",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 13时14分]"
+        },
+        {
+          "title": "伊朗公布击落美军F18画面",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E5%87%BB%E8%90%BD%E7%BE%8E%E5%86%9BF18%E7%94%BB%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 13时14分]"
+        },
+        {
+          "title": "伊朗寻求对通过霍尔木兹海峡的船只征收通行费",
+          "url": "https://news.ifeng.com/c/8rnoswCguxJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 13时14分]"
+        },
+        {
+          "title": "伊朗：若支持伊敌对势力某国将遭攻击",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E8%8B%A5%E6%94%AF%E6%8C%81%E4%BC%8A%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B%E6%9F%90%E5%9B%BD%E5%B0%86%E9%81%AD%E6%94%BB%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 13时14分]"
+        },
+        {
+          "title": "伊朗倡议中东建立无美以联盟，出于哪些考量？当前中东局势下能建立起来吗？",
+          "url": "https://www.zhihu.com/question/2020252058335274061",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 13时14分]"
+        },
+        {
+          "title": "伊朗军方公布击落美战斗机画面",
+          "url": "https://www.toutiao.com/trending/7620400951362539014/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 13时14分]"
+        },
+        {
+          "title": "伊朗称击落一架美军 F-18 战机，美军中央司令部迅速否认，谁在说谎？如果属实，航母舰载机折戟意味着什么？",
+          "url": "https://www.zhihu.com/question/2020410213727957546",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 13时14分]"
+        },
+        {
           "title": "伊朗责令擅自通过霍尔木兹海峡船返航",
           "url": "https://www.toutiao.com/trending/7620083118104133638/",
           "source": "今日头条",
@@ -419,6 +551,29 @@
           "time_info": "[05时49分 ~ 06时46分]"
         },
         {
+          "title": "伊朗：美15点停战提议是在罗列幻想",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E15%E7%82%B9%E5%81%9C%E6%88%98%E6%8F%90%E8%AE%AE%E6%98%AF%E5%9C%A8%E7%BD%97%E5%88%97%E5%B9%BB%E6%83%B3",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 13时14分]"
+        },
+        {
+          "title": "伊朗寻求对通过霍尔木兹海峡的船只征收通行费",
+          "url": "https://www.cls.cn/detail/2325114",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
+        },
+        {
           "title": "国际货币基金组织对可能出现的因伊朗战争而需要援助的情况进行了模拟分析，评估重点在于那些实施积极融资计划的国家。",
           "url": "https://flash.jin10.com/detail/20260326044518789800",
           "source": "金十数据",
@@ -429,6 +584,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时50分 ~ 06时46分]"
+        },
+        {
+          "title": "伊朗外长称“没有谈判”、总统“高层高度团结”，美方称“谈判仍在继续”、拟本周末在巴基斯坦开会讨论停战方案",
+          "url": "https://wallstreetcn.com/articles/3768413",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
         },
         {
           "title": "伊朗外长：伊朗经调解方与美“交流信息” 没有谈判",
@@ -455,18 +621,6 @@
           "time_info": "[05时50分 ~ 06时46分]"
         },
         {
-          "title": "伊朗军方喊话美国：“别把你们的失败称为协议”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32827616",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 10时56分]"
-        },
-        {
           "title": "伊朗外长：伊朗经调解方与美“交流信息”，没有谈判",
           "url": "https://wallstreetcn.com/livenews/3076893",
           "source": "华尔街见闻-快讯",
@@ -491,17 +645,6 @@
           "time_info": "[01时13分 ~ 03时06分]"
         },
         {
-          "title": "伊朗披露了一个秘密",
-          "url": "https://news.ifeng.com/c/8rngTAbdqal",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
           "title": "巴林内政部：伊朗袭击未造成伤亡。",
           "url": "https://flash.jin10.com/detail/20260326070603947800",
           "source": "金十数据",
@@ -511,39 +654,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 27 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2020273808871748583",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "伊朗军方称正搜捕逃亡美军",
-          "url": "https://www.toutiao.com/trending/7621082552094703622/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "伊朗军方：正搜捕逃亡美军",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%EF%BC%9A%E6%AD%A3%E6%90%9C%E6%8D%95%E9%80%83%E4%BA%A1%E7%BE%8E%E5%86%9B",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
         },
         {
           "title": "伊朗拒绝美国停战方案，提五条件，威胁开启曼德海峡新战线，白宫称美伊在对话且有成效",
@@ -568,24 +678,13 @@
           "time_info": "04时50分"
         },
         {
-          "title": "伊朗寻求对通过霍尔木兹海峡的船只征收通行费",
-          "url": "https://news.ifeng.com/c/8rnoswCguxJ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
           "title": "以色列国防军：不久前已完成一轮大规模打击行动，目标为伊朗的基础设施，涉及伊朗境内多个地区。",
           "url": "https://flash.jin10.com/detail/20260326102906752800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -599,17 +698,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
-        },
-        {
-          "title": "伊朗公布击落美军F18画面",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E5%87%BB%E8%90%BD%E7%BE%8E%E5%86%9BF18%E7%94%BB%E9%9D%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
         },
         {
           "title": "据CNN：美国副总统万斯可能于本周末前往巴基斯坦参加与伊朗的会谈。",
@@ -640,18 +728,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "伊朗：若支持伊敌对势力某国将遭攻击",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E8%8B%A5%E6%94%AF%E6%8C%81%E4%BC%8A%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B%E6%9F%90%E5%9B%BD%E5%B0%86%E9%81%AD%E6%94%BB%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -667,24 +744,13 @@
           "time_info": "03时06分"
         },
         {
-          "title": "伊朗倡议中东建立无美以联盟，出于哪些考量？当前中东局势下能建立起来吗？",
-          "url": "https://www.zhihu.com/question/2020252058335274061",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
           "title": "伊朗要在霍尔木兹海峡“设卡收费”，美军增兵能破局吗？乌克兰给出答案",
           "url": "https://flash.jin10.com/detail/20260326102439991800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -706,18 +772,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "伊朗军方公布击落美战斗机画面",
-          "url": "https://www.toutiao.com/trending/7620400951362539014/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -772,18 +827,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "伊朗称击落一架美军 F-18 战机，美军中央司令部迅速否认，谁在说谎？如果属实，航母舰载机折戟意味着什么？",
-          "url": "https://www.zhihu.com/question/2020410213727957546",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -819,6 +863,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "以色列国防军：发现从伊朗发射的导弹朝以色列领土飞来。防御系统正在运作以拦截威胁。",
+          "url": "https://flash.jin10.com/detail/20260326125046070800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
           "title": "布伦特原油期货维持2.44%的跌幅，暂报97.78美元。 据华尔街日报，美国和以色列暂时将两名伊朗官员从目标名单中移除。",
@@ -876,15 +931,26 @@
           "time_info": "01时13分"
         },
         {
-          "title": "伊朗：美15点停战提议是在罗列幻想",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E15%E7%82%B9%E5%81%9C%E6%88%98%E6%8F%90%E8%AE%AE%E6%98%AF%E5%9C%A8%E7%BD%97%E5%88%97%E5%B9%BB%E6%83%B3",
-          "source": "百度热搜",
+          "title": "地雷、导弹、伏击：伊朗被曝在哈尔克岛布下天罗地网，静待美军登陆",
+          "url": "https://flash.jin10.com/detail/20260326123519031800",
+          "source": "金十数据",
           "ranks": [
-            22
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "13时14分"
+        },
+        {
+          "title": "美媒称伊朗议长和外长暂被移出美以清除名单",
+          "url": "https://wallstreetcn.com/livenews/3077095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
           "title": "美媒：以官员称以色列担心战争即将结束 正抓紧时机全力打击伊朗",
@@ -926,7 +992,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -992,7 +1058,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -1011,7 +1077,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "凤凰女记者：伊朗民众认为特朗普说谎，在为美方袭击做准备",
@@ -1036,17 +1102,6 @@
           "time_info": "[01时13分 ~ 07时42分]"
         },
         {
-          "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
-          "url": "https://wallstreetcn.com/articles/3768302",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 05时50分]"
-        },
-        {
           "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
           "url": "https://wallstreetcn.com/articles/3768393",
           "source": "华尔街见闻",
@@ -1056,8 +1111,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时49分 ~ 13时14分]"
+        },
+        {
+          "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
+          "url": "https://wallstreetcn.com/articles/3768302",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[05时49分 ~ 10时56分]"
+          "time_info": "[01时13分 ~ 05时50分]"
         },
         {
           "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
@@ -1084,6 +1150,29 @@
           "time_info": "[01时13分 ~ 07时42分]"
         },
         {
+          "title": "特朗普：伊朗迫切希望达成协议，但又不敢明说",
+          "url": "https://news.ifeng.com/c/8rnmpUhhTBm",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 13时14分]"
+        },
+        {
+          "title": "白宫：特朗普将于5月中旬访华",
+          "url": "https://news.ifeng.com/c/8rnwMTANtGP",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
+        },
+        {
           "title": "伊朗称向美林肯号航母发射导弹，特朗普再谈正与伊朗谈判，声称收到伊方「大礼」，具体情况如何？",
           "url": "https://www.zhihu.com/question/2020199361380905442",
           "source": "知乎",
@@ -1103,9 +1192,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "释新闻｜美伊谈判迷雾：特朗普的算盘和巴基斯坦的中间人角色",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32828540",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时42分 ~ 13时14分]"
         },
         {
           "title": "据Axios网站记者Barak Ravid：特朗普政府尚未收到伊朗方面拒绝该提议的任何官方消息。",
@@ -1119,39 +1221,17 @@
           "time_info": "01时13分"
         },
         {
-          "title": "特朗普：伊朗迫切希望达成协议，但又不敢明说",
-          "url": "https://news.ifeng.com/c/8rnmpUhhTBm",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
           "title": "野村辜朝明：“伊朗战争”发生在特朗普输掉“高院关税战”后几天，这不是巧合",
           "url": "https://wallstreetcn.com/articles/3768337",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时46分 ~ 10时56分]"
-        },
-        {
-          "title": "释新闻｜美伊谈判迷雾：特朗普的算盘和巴基斯坦的中间人角色",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32828540",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时42分 ~ 10时56分]"
+          "appearance_count": 5,
+          "time_info": "[06时46分 ~ 13时14分]"
         },
         {
           "title": "美国佛罗里达州共和党人提出法案，拟将棕榈滩机场更名为特朗普机场。",
@@ -1177,13 +1257,35 @@
           "time_info": "01时13分"
         },
         {
+          "title": "特朗普10年来将首次缺席美国保守派政治行动会议",
+          "url": "https://wallstreetcn.com/livenews/3077116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "特朗普被曝希望“快速”结束对伊朗战争",
+          "url": "https://wallstreetcn.com/livenews/3077113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
           "title": "CNBC名嘴：华尔街弥漫“否认特朗普”情绪，该停止了",
           "url": "https://flash.jin10.com/detail/20260326102448580800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -1210,13 +1312,24 @@
           "time_info": "07时42分"
         },
         {
+          "title": "特朗普10年来将首次缺席美国保守派政治行动会议",
+          "url": "https://flash.jin10.com/detail/20260326125200511800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
           "title": "特朗普：对伊战争“已胜利”，伊朗已准备“达成协议”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32827071",
           "source": "澎湃新闻",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -1271,7 +1384,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         }
@@ -1279,7 +1392,7 @@
     },
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "国投瑞银白银基金估值调整和解方案后续：和解率超95%，线上渠道将适时关闭",
@@ -1293,6 +1406,22 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时13分 ~ 07时42分]"
+        },
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            16,
+            12,
+            11,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时13分 ~ 13时14分]"
         },
         {
           "title": "专家说黄金正重演08年剧本",
@@ -1319,21 +1448,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时49分 ~ 06时46分]"
-        },
-        {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            16,
-            12,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时13分 ~ 10时56分]"
         },
         {
           "title": "美伊谈判存疑，美股三大股指涨超1%，存储板块走低，现货黄金涨2%，原油跌幅重回5%",
@@ -1446,6 +1560,17 @@
           "time_info": "[05时50分 ~ 06时46分]"
         },
         {
+          "title": "“战时买黄金”不管用？专家揭露“底层逻辑”：避险地位并未动摇！",
+          "url": "https://www.cls.cn/detail/2325279",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
+        },
+        {
           "title": "黄金暴跌超10%又暴力反弹",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E6%9A%B4%E8%B7%8C%E8%B6%8510%25%E5%8F%88%E6%9A%B4%E5%8A%9B%E5%8F%8D%E5%BC%B9%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -1518,7 +1643,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -1529,9 +1654,31 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "金十图示：2026年03月26日（周四）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260326122614227800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "金十图示：2026年03月26日（周四）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260326122609663800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
           "title": "扎哈罗娃：太空演变为军事对抗舞台的风险持续上升",
@@ -1548,8 +1695,32 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
+          "url": "https://wallstreetcn.com/articles/3768319",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时42分 ~ 13时14分]"
+        },
+        {
+          "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
+          "url": "https://www.cls.cn/detail/2324998",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时46分 ~ 13时14分]"
+        },
         {
           "title": "美伊谈判消息提振市场 美股期指大涨 油价重挫 | 今夜看点",
           "url": "https://www.cls.cn/detail/2324750",
@@ -1563,17 +1734,6 @@
           "time_info": "[01时13分 ~ 07时42分]"
         },
         {
-          "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
-          "url": "https://wallstreetcn.com/articles/3768319",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时42分 ~ 10时56分]"
-        },
-        {
           "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
           "url": "https://wallstreetcn.com/articles/3768212",
           "source": "华尔街见闻",
@@ -1585,19 +1745,6 @@
           "time_info": "[01时13分 ~ 06时46分]"
         },
         {
-          "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
-          "url": "https://www.cls.cn/detail/2324998",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时46分 ~ 10时56分]"
-        },
-        {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
           "url": "https://wallstreetcn.com/articles/3768391",
           "source": "华尔街见闻",
@@ -1606,8 +1753,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时42分 ~ 10时56分]"
+          "appearance_count": 4,
+          "time_info": "[07时42分 ~ 13时14分]"
         },
         {
           "title": "生物科技ETF收涨超2.5%，领跑美股行业ETF",
@@ -1666,6 +1813,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "美股期货收复失地，纳斯达克100指数期货转为涨0.1%，标普500指数期货转为涨跌持平。 日经225指数小幅反弹，转为涨跌持平。",
+          "url": "https://wallstreetcn.com/livenews/3077097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
           "title": "金十图示：2026年03月25日（周三）美股热门股票行情一览（美股收盘）",
@@ -1743,7 +1901,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         }
