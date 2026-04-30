@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-05-01T05:09:19.961787+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-05-01T07:00:24.764427+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 58,
       "titles": [
-        {
-          "title": "普京与特朗普通话一个半小时，涉及众多议题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
-          "source": "澎湃新闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 05时09分]"
-        },
         {
           "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
           "url": "https://news.ifeng.com/c/8skYq26ZNlk",
@@ -26,6 +14,18 @@
           "ranks": [
             5,
             3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时28分 ~ 07时00分]"
+        },
+        {
+          "title": "普京与特朗普通话一个半小时，涉及众多议题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
+          "source": "澎湃新闻",
+          "ranks": [
+            1,
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 05时09分]"
+          "appearance_count": 6,
+          "time_info": "[01时28分 ~ 07时00分]"
         },
         {
           "title": "美国总统特朗普：试图以某种方式拯救伊朗。",
@@ -72,9 +72,33 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时28分 ~ 07时00分]"
+        },
+        {
+          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
+          "url": "https://www.zhihu.com/question/2032044326121730326",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时28分 ~ 07时00分]"
         },
         {
           "title": "美国总统特朗普：我们要看看伊朗能撑多久。",
@@ -176,29 +200,6 @@
           "time_info": "03时44分"
         },
         {
-          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 05时09分]"
-        },
-        {
-          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
-          "url": "https://www.zhihu.com/question/2032044326121730326",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 05时09分]"
-        },
-        {
           "title": "还是不解气，特朗普又炮轰默茨",
           "url": "https://news.ifeng.com/c/8skrGhZKZnd",
           "source": "凤凰网",
@@ -206,8 +207,31 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时43分 ~ 07时00分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普：可能需要打破伊朗停火协议",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时43分 ~ 05时09分]"
+          "time_info": "[05时09分 ~ 07时00分]"
+        },
+        {
+          "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3771420",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时09分 ~ 07时00分]"
         },
         {
           "title": "美国总统特朗普：我们在发动伊朗战争方面并不曾需要（来自北约的）任何帮助。",
@@ -220,17 +244,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时44分 ~ 05时09分]"
-        },
-        {
-          "title": "伊朗战争丨特朗普：可能需要打破伊朗停火协议",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
         },
         {
           "title": "美国总统特朗普：我们不需要任何关于伊朗的帮助。",
@@ -250,7 +263,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -288,17 +301,6 @@
           "time_info": "03时44分"
         },
         {
-          "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3771420",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
           "title": "美国总统特朗普：一旦伊朗战争结束，汽油价格将会下降。",
           "url": "https://flash.jin10.com/detail/20260501031709849800",
           "source": "金十数据",
@@ -308,6 +310,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        },
+        {
+          "title": "特朗普称只有少数人知晓美伊谈判实际进展",
+          "url": "https://flash.jin10.com/detail/20260501054138317800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时00分"
         },
         {
           "title": "美国联邦通信管理局（FCC）：我们针对迪士尼采取的（提前数年审查新闻）许可行动并没有得到总统特朗普的授意。",
@@ -393,9 +406,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "特朗普：只有少数人知晓美伊谈判实际进展",
+          "url": "https://wallstreetcn.com/livenews/3097733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时00分"
         },
         {
           "title": "美国总统特朗普：我不知道我们是否需要打破与伊朗的停火协议，我们或许会这么做。",
@@ -415,7 +439,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -429,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        },
+        {
+          "title": "美国总统特朗普签署许可，授权通过输油管线Bridger Pipeline将加拿大石油供应到怀俄明州。 这将在美国联邦政府层面为跨境的Bridger项目建设、衔接、运营扫清障碍。",
+          "url": "https://wallstreetcn.com/livenews/3097732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时00分"
         },
         {
           "title": "美国总统特朗普：没人知道伊朗的领导人是谁。",
@@ -486,6 +521,17 @@
           "time_info": "03时44分"
         },
         {
+          "title": "特朗普：可能减少驻西班牙和意大利的美军规模",
+          "url": "https://flash.jin10.com/detail/20260501052721339800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时00分"
+        },
+        {
           "title": "特朗普变卦：转而提名妮科尔·萨菲尔担任卫生局局长",
           "url": "https://wallstreetcn.com/livenews/3097666",
           "source": "华尔街见闻-快讯",
@@ -541,6 +587,17 @@
           "time_info": "03时44分"
         },
         {
+          "title": "特朗普：不在乎鲍威尔是否留任理事",
+          "url": "https://flash.jin10.com/detail/20260501051602569800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时00分"
+        },
+        {
           "title": "美国总统特朗普：伊朗的无人机和导弹工厂数量大幅下降。",
           "url": "https://flash.jin10.com/detail/20260501030847994800",
           "source": "金十数据",
@@ -591,7 +648,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         }
@@ -599,7 +656,7 @@
     },
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美联储34年最大分歧叠加油价飙升，美债重挫，美股横盘，美元走强，黄金三连跌",
@@ -610,19 +667,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 05时09分]"
+          "appearance_count": 6,
+          "time_info": "[01时28分 ~ 07时00分]"
         },
         {
           "title": "2859.2克黄金被扣30年迎转机",
           "url": "https://www.baidu.com/s?wd=2859.2%E5%85%8B%E9%BB%84%E9%87%91%E8%A2%AB%E6%89%A330%E5%B9%B4%E8%BF%8E%E8%BD%AC%E6%9C%BA",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 05时09分]"
+          "appearance_count": 6,
+          "time_info": "[01时28分 ~ 07时00分]"
         },
         {
           "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
@@ -632,8 +690,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 05时09分]"
+          "appearance_count": 6,
+          "time_info": "[01时28分 ~ 07时00分]"
         },
         {
           "title": "这4个小时是黄金睡眠时间",
@@ -643,8 +701,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时43分 ~ 05时09分]"
+          "appearance_count": 5,
+          "time_info": "[03时43分 ~ 07时00分]"
         },
         {
           "title": "伊朗战争丨美众议院议长：国会无需就对伊朗的军事行动表决",
@@ -658,13 +716,24 @@
           "time_info": "01时28分"
         },
         {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少28.15吨，当前持仓量为15064.6吨。欢迎点击查看数据中心…",
+          "url": "https://flash.jin10.com/detail/20260501054633686800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时00分"
+        },
+        {
           "title": "美国防长：对伊朗军事行动“60天期限”已因停火“中止”",
           "url": "https://wallstreetcn.com/livenews/3097704",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -744,12 +813,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "现货黄金周五涨1.5%，4月份累跌1%，白银整体冲高回落",
+          "url": "https://wallstreetcn.com/livenews/3097715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时00分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
@@ -770,9 +850,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "提醒：苹果公司电话会结束。 苹果公司美股盘后维持3.9%的涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3097744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时00分"
+        },
+        {
+          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
+          "url": "https://www.cls.cn/detail/2361634",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 07时00分]"
         },
         {
           "title": "Roblox美股盘后跌28%，该公司下调全年预定预期。",
@@ -781,7 +883,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -792,7 +894,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -819,13 +921,24 @@
           "time_info": "01时28分"
         },
         {
+          "title": "分析师分析师电话会：苹果公司预计第三财季营收将同比增长14%-17%，分析师预期增长9.1%。 预计第三财季服务营收增幅将与第二财季（至3月的三个月）类似。 预计第三财季毛利润率为47.5%-48.5%。 本公司不再追求净现金中性立场。 苹果公司美股盘后上涨3.45%。",
+          "url": "https://wallstreetcn.com/livenews/3097728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时00分"
+        },
+        {
           "title": "金十图示：2026年04月30日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260501040538457800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -844,8 +957,30 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "阿联酋禁止本国公民前往伊朗、黎巴嫩和伊拉克",
+          "url": "https://flash.jin10.com/detail/20260501062449868800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时00分"
+        },
+        {
+          "title": "新西兰4月澳新银行新西兰消费者信心指数下降至80.3，创2023年5月份以来新低，前值91.3。 由于爆发伊朗战争，燃料价格上涨，冲击到家庭收入、加重对经济下滑的担忧情绪。",
+          "url": "https://wallstreetcn.com/livenews/3097747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时00分"
+        },
         {
           "title": "【德黑兰传出防空系统拦截声，或为拦截小型无人机】据伊朗媒体4月30日晚报道，伊朗首都德黑兰南部和中部城区传出防空系统拦截声。塔斯尼姆通讯社说，防空系统可能是在拦截德黑兰上空出现的小型无人机。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3097707",
@@ -853,7 +988,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -867,6 +1002,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时43分 ~ 03时44分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 62 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032954547836907965",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 07时00分]"
         },
         {
           "title": "伊朗外长阿拉格齐：今天是伊朗的‘波斯湾国家日’，这一天旨在纪念约400年前我们的先辈将葡萄牙人驱逐出霍尔木兹海峡的历史时刻。美国总统使用的是‘波斯湾’这一正确名称，而非五角大楼所炮制的虚假术语！然而，若以其他任何名称来替代‘霍尔木兹’，无疑将是一个‘极其严重的错误’。",
@@ -891,15 +1037,48 @@
           "time_info": "01时28分"
         },
         {
+          "title": "据伊朗学生通讯社：伊朗外交部发言人表示，期望与美国的谈判迅速取得成果是不切实际的。",
+          "url": "https://flash.jin10.com/detail/20260501052857915800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时00分"
+        },
+        {
+          "title": "据华尔街日报：Meta Platforms CEO扎克伯格表示，公司将缩减公司各部门团队，伊朗战争导致公司销售出现“轨迹变化”。",
+          "url": "https://flash.jin10.com/detail/20260501052348245800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时00分"
+        },
+        {
           "title": "美国官员称伊朗战争耗资接近500亿美元，较一天前说法“翻倍”",
           "url": "https://wallstreetcn.com/livenews/3097688",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "阿联酋：禁止本国公民前往伊朗、黎巴嫩和伊拉克",
+          "url": "https://wallstreetcn.com/livenews/3097721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时00分"
         }
       ]
     },
@@ -914,11 +1093,12 @@
           "ranks": [
             16,
             10,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 05时09分]"
+          "appearance_count": 6,
+          "time_info": "[01时28分 ~ 07时00分]"
         },
         {
           "title": "金价突涨",
@@ -927,11 +1107,12 @@
           "ranks": [
             23,
             21,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 05时09分]"
+          "appearance_count": 6,
+          "time_info": "[01时28分 ~ 07时00分]"
         }
       ]
     },
@@ -957,9 +1138,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周四（4月30日）纽约尾盘，美国10年期基准国债收益率下跌6.11个基点，刷新日低至4.3686%，4月份累计上涨5.41个基点，整体交投于4.2243%-4.4339%区间，4月17日跳水至期内底部，随后持续回升。 两年期美债收益率下跌8.20个基点，刷新日低至3.8648%，4月份累涨7.59个基点，整体交投于3.6768%-3.9510%区间。",
+          "url": "https://wallstreetcn.com/livenews/3097736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时00分"
         }
       ]
     }
