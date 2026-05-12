@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T07:02:35.200906+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-05-12T11:53:29.826823+08:00",
+  "total_titles_processed": 776,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 41,
       "titles": [
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -71,11 +71,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 07时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 11时53分]"
         },
         {
           "title": "外交部介绍特朗普访华具体安排和中方期待",
@@ -83,11 +84,23 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 07时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 11时53分]"
+        },
+        {
+          "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
+          "url": "https://www.cls.cn/detail/2368498",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         },
         {
           "title": "特朗普拟暂停美国汽油税 政策仍需国会立法批准",
@@ -99,6 +112,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
+          "url": "https://www.zhihu.com/question/2037161087863353508",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         },
         {
           "title": "美国总统特朗普：伊朗的提议是个愚蠢的提议。",
@@ -118,7 +142,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -166,6 +190,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 03时03分]"
+        },
+        {
+          "title": "特朗普：中国是一个令人惊叹的国家",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
+          "url": "https://wallstreetcn.com/articles/3772005",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         },
         {
           "title": "白宫新闻副秘书Kelly：美国总统特朗普对伊朗局势拥有各种选项。",
@@ -229,7 +275,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -278,6 +324,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "特朗普发文称非常期待中国之行",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E7%A7%B0%E9%9D%9E%E5%B8%B8%E6%9C%9F%E5%BE%85%E4%B8%AD%E5%9B%BD%E4%B9%8B%E8%A1%8C%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
           "title": "据路透社/益普索调查：特朗普支持率在触及任内最低水平后，从34%升至36%。",
           "url": "https://flash.jin10.com/detail/20260512021918353800",
           "source": "金十数据",
@@ -295,7 +352,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -309,6 +366,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "美国议员撺掇特朗普对华强硬",
+          "url": "https://www.toutiao.com/trending/7637780467634192420/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "美国总统特朗普：非常期待中国之行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         },
         {
           "title": "美国总统特朗普：我们需要更多关税。",
@@ -328,7 +407,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -390,8 +469,270 @@
       ]
     },
     {
+      "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
+          "url": "https://wallstreetcn.com/articles/3771940",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 07时02分]"
+        },
+        {
+          "title": "美伊局势僵持，美股盘初涨跌互现，英特尔、美光、高通、AMD股价齐创历史新高，现货白银涨7%站上85美元，布油再回100美元上方",
+          "url": "https://wallstreetcn.com/articles/3771942",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 05时24分]"
+        },
+        {
+          "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
+          "url": "https://wallstreetcn.com/articles/3771942",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 11时53分]"
+        },
+        {
+          "title": "印尼获赠意大利退役航母，对东南亚军事格局及自身海军建设有何影响？",
+          "url": "https://www.zhihu.com/question/2033365566782690183",
+          "source": "知乎",
+          "ranks": [
+            9,
+            12,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 07时02分]"
+        },
+        {
+          "title": "泽连斯基与德国防长会晤 推进多项军事及能源合作",
+          "url": "https://flash.jin10.com/detail/20260511234131022800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：今天，我将召集一个特别审查小组，对影响美国军人的军事司法体系各个方面展开全面、长期、覆盖整个国防部门的审查。该小组将提升信任、增强部队实力、推动真正改革，并帮助确保我们的作战人员获得他们应得的世界一流军事司法体系。",
+          "url": "https://flash.jin10.com/detail/20260512064012577800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "OpenAI冲刺IPO之际 其CEO奥尔特曼恐面临严厉审查",
+          "url": "https://flash.jin10.com/detail/20260512113842509800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗的提议是一个愚蠢的方案。 我有一个对伊朗的计划。 重申伊朗不能拥有核武器。 伊朗封锁是“军事天才”的一部分。 （发动伊朗战争）是在为全球服务。 （我）根本没有压力，将全胜。 （伊朗的）领袖们被（美国和以色列）杀害了。",
+          "url": "https://wallstreetcn.com/livenews/3101760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
+        },
+        {
+          "title": "英国审慎监管局（PRA）的伍兹表示，有理由预期 ChatGPT 和 Mythos 将给英国金融服务行业带来“相当严重的 disruption（冲击/扰乱）”。 英国金融行为监管局（FCA）的拉蒂表示，对私募市场中的诚信问题及金融犯罪风险感到“担忧”。",
+          "url": "https://wallstreetcn.com/livenews/3101759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
+        },
+        {
+          "title": "白银价格大涨逾7% 特朗普称停火协议已岌岌可危 | 环球市场",
+          "url": "https://www.cls.cn/detail/2368480",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "美国总统特朗普：封锁伊朗是军事天才之举。",
+          "url": "https://flash.jin10.com/detail/20260511233846599800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 5月11日（周一）晚盘收盘上涨0.82%报1034.6元/克；<br/>上海黄金交易所白银T+D 5月11日（周一）晚盘收盘上涨6.13%报21095.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260512023036729800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "英国审慎监管局局长伍兹：合理预期ChatGPT和Mythos将对英国金融服务造成相当显著的干扰。",
+          "url": "https://flash.jin10.com/detail/20260511233650428800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加36.59吨，当前持仓量为15084.89吨。欢迎点击查看数据中心",
+          "url": "https://flash.jin10.com/detail/20260512061744279800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.285吨，当前持仓量为1036.28吨。",
+          "url": "https://flash.jin10.com/detail/20260512061630524800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "OpenAI：推出面向网络防御人员的前沿人工智能Daybreak。Daybreak整合了OpenAI最强大的模型、Codex以及我们的安全合作伙伴，以加速网络防御并持续保障软件安全。",
+          "url": "https://flash.jin10.com/detail/20260512044813399800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "据华尔街日报：美国众议院监督委员会已启动一项调查，以探究有关OpenAI CEO奥尔特曼潜在的利益冲突，同时多位共和党州检察长呼吁美国证交会（SEC）进行审查。",
+          "url": "https://flash.jin10.com/detail/20260512112222106800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "据华尔街日报：随着OpenAI准备进行IPO，其CEO奥尔特曼的个人投资正受到共和党人日益严格的审查。",
+          "url": "https://flash.jin10.com/detail/20260512112128825800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "Bain & Co.投资OpenAI Deployment Company。",
+          "url": "https://wallstreetcn.com/livenews/3101802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "期权疯狂看涨+技术面破位！被AI行情遗忘的白银杀回来了？",
+          "url": "https://flash.jin10.com/detail/20260512111430507800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "美国原油涨向99美元，报道称阿联酋军事袭击伊朗炼油厂等目标",
+          "url": "https://wallstreetcn.com/livenews/3101850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，阿联酋此前已对伊朗实施军事打击。阿联酋的袭击包括对伊朗拉万岛上一座炼油厂的攻击。",
+          "url": "https://flash.jin10.com/detail/20260512041239632800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "巴里克矿业ADR美股盘初一度收涨9.18%，报47.09美元，创3月份以来盘中新高。 该公司第一季度黄金产量71.9万盎司，超过了64万-68万盎司的指导区间，这主要得益于内华达金矿（NGM）和Veladero矿山的强劲表现，以及Loulo-Gounkoto矿山的产能提升；铜产量为4.9万吨，符合计划。",
+          "url": "https://wallstreetcn.com/livenews/3101731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
@@ -401,8 +742,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 07时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 11时53分]"
         },
         {
           "title": "美方称“完全不可接受”，伊朗提了哪些要求？",
@@ -426,6 +767,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时07分 ~ 07时02分]"
+        },
+        {
+          "title": "伊朗官员：伊美就浓缩铀处置方式存在严重分歧",
+          "url": "https://news.ifeng.com/c/8t3NrhrUsGT",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         },
         {
           "title": "据沙特阿拉比亚电视台：消息人士称，伊朗外长阿拉格齐将于本周前往印度新德里，参加5月14日至15日举行的金砖国家外长会议。",
@@ -618,215 +970,8 @@
       ]
     },
     {
-      "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
-          "url": "https://wallstreetcn.com/articles/3771940",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 07时02分]"
-        },
-        {
-          "title": "美伊局势僵持，美股盘初涨跌互现，英特尔、美光、高通、AMD股价齐创历史新高，现货白银涨7%站上85美元，布油再回100美元上方",
-          "url": "https://wallstreetcn.com/articles/3771942",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 05时24分]"
-        },
-        {
-          "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
-          "url": "https://wallstreetcn.com/articles/3771942",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "印尼获赠意大利退役航母，对东南亚军事格局及自身海军建设有何影响？",
-          "url": "https://www.zhihu.com/question/2033365566782690183",
-          "source": "知乎",
-          "ranks": [
-            9,
-            12,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 07时02分]"
-        },
-        {
-          "title": "泽连斯基与德国防长会晤 推进多项军事及能源合作",
-          "url": "https://flash.jin10.com/detail/20260511234131022800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "美国国防部长赫格塞思：今天，我将召集一个特别审查小组，对影响美国军人的军事司法体系各个方面展开全面、长期、覆盖整个国防部门的审查。该小组将提升信任、增强部队实力、推动真正改革，并帮助确保我们的作战人员获得他们应得的世界一流军事司法体系。",
-          "url": "https://flash.jin10.com/detail/20260512064012577800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗的提议是一个愚蠢的方案。 我有一个对伊朗的计划。 重申伊朗不能拥有核武器。 伊朗封锁是“军事天才”的一部分。 （发动伊朗战争）是在为全球服务。 （我）根本没有压力，将全胜。 （伊朗的）领袖们被（美国和以色列）杀害了。",
-          "url": "https://wallstreetcn.com/livenews/3101760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "英国审慎监管局（PRA）的伍兹表示，有理由预期 ChatGPT 和 Mythos 将给英国金融服务行业带来“相当严重的 disruption（冲击/扰乱）”。 英国金融行为监管局（FCA）的拉蒂表示，对私募市场中的诚信问题及金融犯罪风险感到“担忧”。",
-          "url": "https://wallstreetcn.com/livenews/3101759",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "美国总统特朗普：封锁伊朗是军事天才之举。",
-          "url": "https://flash.jin10.com/detail/20260511233846599800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 5月11日（周一）晚盘收盘上涨0.82%报1034.6元/克；<br/>上海黄金交易所白银T+D 5月11日（周一）晚盘收盘上涨6.13%报21095.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260512023036729800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "英国审慎监管局局长伍兹：合理预期ChatGPT和Mythos将对英国金融服务造成相当显著的干扰。",
-          "url": "https://flash.jin10.com/detail/20260511233650428800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加36.59吨，当前持仓量为15084.89吨。欢迎点击查看数据中心",
-          "url": "https://flash.jin10.com/detail/20260512061744279800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.285吨，当前持仓量为1036.28吨。",
-          "url": "https://flash.jin10.com/detail/20260512061630524800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "OpenAI：推出面向网络防御人员的前沿人工智能Daybreak。Daybreak整合了OpenAI最强大的模型、Codex以及我们的安全合作伙伴，以加速网络防御并持续保障软件安全。",
-          "url": "https://flash.jin10.com/detail/20260512044813399800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "Bain & Co.投资OpenAI Deployment Company。",
-          "url": "https://wallstreetcn.com/livenews/3101802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "美国原油涨向99美元，报道称阿联酋军事袭击伊朗炼油厂等目标",
-          "url": "https://wallstreetcn.com/livenews/3101850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "据华尔街日报：消息人士称，阿联酋此前已对伊朗实施军事打击。阿联酋的袭击包括对伊朗拉万岛上一座炼油厂的攻击。",
-          "url": "https://flash.jin10.com/detail/20260512041239632800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "巴里克矿业ADR美股盘初一度收涨9.18%，报47.09美元，创3月份以来盘中新高。 该公司第一季度黄金产量71.9万盎司，超过了64万-68万盎司的指导区间，这主要得益于内华达金矿（NGM）和Veladero矿山的强劲表现，以及Loulo-Gounkoto矿山的产能提升；铜产量为4.9万吨，符合计划。",
-          "url": "https://wallstreetcn.com/livenews/3101731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
@@ -845,11 +990,24 @@
           "url": "https://www.cls.cn/detail/2368457",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 11时53分]"
+        },
+        {
+          "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
+          "url": "https://www.cls.cn/detail/2368431",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 11时53分]"
         },
         {
           "title": "周一（5月11日），美股人工智能（AI）赢家指数涨1.97%，报400.80点，成分股Lumentum涨16.52%，高意公司Coherent涨13.25%，康宁公司涨10.94%涨幅第三大，戴尔、超微电脑领跌。 AI软件先驱指数跌0.75%，报105.26点，成分股C3.ai收跌3.95%，Datadog则涨1.08%。",
@@ -864,6 +1022,17 @@
           "time_info": "[05时24分 ~ 07时02分]"
         },
         {
+          "title": "美股正重演2000年泡沫破灭剧本？“大空头”再发警告：纳指100将迎重大逆转！",
+          "url": "https://www.cls.cn/detail/2368550",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
           "title": "美股光通信概念股集体大涨，Applied Optoelectronics大涨逾24%，poet technologies大涨逾23%，Lumentum大涨逾17%，credo technology涨逾9%，Ciena涨逾5%。",
           "url": "https://wallstreetcn.com/livenews/3101752",
           "source": "华尔街见闻-快讯",
@@ -873,17 +1042,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
-        },
-        {
-          "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
-          "url": "https://www.cls.cn/detail/2368431",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
         },
         {
           "title": "周一（5月11日），美股存储芯片与硬件供应链指数涨3.36%，报194.70点，再次创收盘历史新高。 成分股西部数据涨7.46%，希捷科技涨6.56%，美光科技涨6.50%，闪迪跌0.95%。",
