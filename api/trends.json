@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T19:58:08.610584+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2026-05-16T21:52:18.985452+08:00",
+  "total_titles_processed": 1285,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 64,
       "titles": [
         {
           "title": "详讯丨习近平同美国总统特朗普在中南海小范围会晤",
@@ -26,11 +26,12 @@
             11,
             15,
             13,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时48分 ~ 19时58分]"
+          "appearance_count": 12,
+          "time_info": "[01时48分 ~ 21时52分]"
         },
         {
           "title": "习近平同美国总统特朗普在中南海小范围会晤",
@@ -152,6 +153,18 @@
           "time_info": "[11时47分 ~ 16时53分]"
         },
         {
+          "title": "听到特朗普这句话，台湾当局该醒了",
+          "url": "https://news.ifeng.com/c/8tB1vsSsITh",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 21时52分]"
+        },
+        {
           "title": "澎湃读报丨特朗普到访后中美元首密集互动，各大报头版聚焦",
           "url": "https://m.thepaper.cn/newsDetail_forward_33181024",
           "source": "澎湃新闻",
@@ -185,6 +198,20 @@
           "time_info": "[01时48分 ~ 07时03分]"
         },
         {
+          "title": "特朗普称美伊停火系“应其他国家要求”",
+          "url": "https://wallstreetcn.com/articles/3772383",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时47分 ~ 21时52分]"
+        },
+        {
           "title": "直播丨美国总统特朗普结束访华，乘专机离开北京",
           "url": "https://m.thepaper.cn/newsDetail_forward_33181476",
           "source": "澎湃新闻",
@@ -196,6 +223,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时48分 ~ 11时47分]"
+        },
+        {
+          "title": "为什么特朗普访华晚宴上有字节梁汝波，但没有腾讯阿里高管？",
+          "url": "https://www.zhihu.com/question/2038603109828486376",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时47分 ~ 21时52分]"
+        },
+        {
+          "title": "特朗普抵达美国现场画面",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时47分 ~ 21时52分]"
         },
         {
           "title": "特朗普称中方同意购买200架波音飞机，外交部：中美经贸关系本质是互利共赢",
@@ -221,17 +274,6 @@
           "time_info": "[11时47分 ~ 18时22分]"
         },
         {
-          "title": "听到特朗普这句话，台湾当局该醒了",
-          "url": "https://news.ifeng.com/c/8tB1vsSsITh",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 19时58分]"
-        },
-        {
           "title": "特朗普离开这一幕中国军人尽显英姿",
           "url": "https://www.toutiao.com/trending/7639049468456992787/",
           "source": "今日头条",
@@ -243,20 +285,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时48分 ~ 16时53分]"
-        },
-        {
-          "title": "特朗普称美伊停火系“应其他国家要求”",
-          "url": "https://wallstreetcn.com/articles/3772383",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时47分 ~ 19时58分]"
         },
         {
           "title": "美国总统特朗普结束访华",
@@ -271,18 +299,6 @@
           "time_info": "[01时48分 ~ 14时29分]"
         },
         {
-          "title": "为什么特朗普访华晚宴上有字节梁汝波，但没有腾讯阿里高管？",
-          "url": "https://www.zhihu.com/question/2038603109828486376",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时47分 ~ 19时58分]"
-        },
-        {
           "title": "特朗普政府拟设17亿美元“赔偿基金” 补偿遭拜登调查盟友",
           "url": "https://flash.jin10.com/detail/20260516043257179800",
           "source": "金十数据",
@@ -292,18 +308,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 07时03分]"
-        },
-        {
-          "title": "特朗普抵达美国现场画面",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时47分 ~ 19时58分]"
         },
         {
           "title": "特朗普结束访华 乘专机离开北京",
@@ -318,6 +322,28 @@
           "time_info": "[01时48分 ~ 07时03分]"
         },
         {
+          "title": "特朗普：不希望看到台湾有人闹“独立”",
+          "url": "https://news.ifeng.com/c/8tBHQ0gcJR0",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "美国总统特朗普：《拯救美国法案》现在就必须通过，要利用住房法案和《外国情报监控法》来推动它。",
+          "url": "https://flash.jin10.com/detail/20260516214353885800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "特朗普说能待得惯可能都不想走了",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E8%83%BD%E5%BE%85%E5%BE%97%E6%83%AF%E5%8F%AF%E8%83%BD%E9%83%BD%E4%B8%8D%E6%83%B3%E8%B5%B0%E4%BA%86%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -329,17 +355,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时48分 ~ 07时03分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-16）",
-          "url": "https://flash.jin10.com/detail/20260516185024363800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时58分"
         },
         {
           "title": "美国总统特朗普：伊朗惧怕（与美方）达成一份协议。 伊朗不知道该如何达成一份协议。 伊朗战争很快就会结束。",
@@ -366,6 +381,18 @@
           "time_info": "[01时48分 ~ 11时47分]"
         },
         {
+          "title": "特朗普谈中国行：巨大成功 非常精彩",
+          "url": "https://www.toutiao.com/trending/7639309598792663066/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 21时52分]"
+        },
+        {
           "title": "外交部介绍美国总统特朗普访华情况，称「两国元首达成一系列新共识」，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2038577207740715513",
           "source": "知乎",
@@ -390,6 +417,30 @@
           "time_info": "[01时48分 ~ 07时03分]"
         },
         {
+          "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
+          "url": "https://news.ifeng.com/c/8tAvchdzOd1",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 21时52分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-16）",
+          "url": "https://flash.jin10.com/detail/20260516185024363800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 21时52分]"
+        },
+        {
           "title": "特朗普谈中国行：巨大成功 非常精彩",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E4%B8%AD%E5%9B%BD%E8%A1%8C%EF%BC%9A%E5%B7%A8%E5%A4%A7%E6%88%90%E5%8A%9F+%E9%9D%9E%E5%B8%B8%E7%B2%BE%E5%BD%A9",
           "source": "百度热搜",
@@ -403,15 +454,17 @@
           "time_info": "[14时28分 ~ 18时22分]"
         },
         {
-          "title": "特朗普谈中国行：巨大成功 非常精彩",
-          "url": "https://www.toutiao.com/trending/7639309598792663066/",
-          "source": "今日头条",
+          "title": "特朗普回国后谈中国行",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%9B%BD%E5%90%8E%E8%B0%88%E4%B8%AD%E5%9B%BD%E8%A1%8C%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            12
+            20,
+            19,
+            17
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时53分 ~ 19时58分]"
+          "time_info": "[16时53分 ~ 21时52分]"
         },
         {
           "title": "特朗普：“伊斯兰国”二号头目被消灭",
@@ -424,18 +477,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时28分 ~ 16时53分]"
-        },
-        {
-          "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
-          "url": "https://news.ifeng.com/c/8tAvchdzOd1",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 19时58分]"
         },
         {
           "title": "特朗普抵达美国",
@@ -472,18 +513,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时28分 ~ 16时53分]"
-        },
-        {
-          "title": "特朗普回国后谈中国行",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%9B%BD%E5%90%8E%E8%B0%88%E4%B8%AD%E5%9B%BD%E8%A1%8C%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时53分 ~ 19时58分]"
         },
         {
           "title": "特朗普儿媳妇发布打卡长城照",
@@ -542,6 +571,17 @@
           "time_info": "07时03分"
         },
         {
+          "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
+          "url": "https://www.zhihu.com/question/2039019083463488463",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "美国总统特朗普：伊朗没有底牌。",
           "url": "https://wallstreetcn.com/livenews/3104657",
           "source": "华尔街见闻-快讯",
@@ -584,6 +624,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
+        },
+        {
+          "title": "特朗普警告台湾不要试图走向“独立”",
+          "url": "https://www.toutiao.com/trending/7640462139869630015/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "美国总统特朗普：AI是一个了不起的东西。",
@@ -710,7 +761,7 @@
     },
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
@@ -718,11 +769,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 19时58分]"
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 21时52分]"
         },
         {
           "title": "标普纳指又新高，思科飙涨13%创新高，英国政局致英镑暴跌，白银重挫",
@@ -758,16 +810,30 @@
           "time_info": "03时48分"
         },
         {
+          "title": "美妆白月光姜乘澜回归粉丝破千万",
+          "url": "https://www.douyin.com/hot/2500647",
+          "source": "抖音",
+          "ranks": [
+            29,
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时28分 ~ 21时52分]"
+        },
+        {
           "title": "哈马斯官员证实其军事领导人哈达德已身亡",
           "url": "https://flash.jin10.com/detail/20260516173223235800",
           "source": "金十数据",
           "ranks": [
             3,
-            13
+            13,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时58分]"
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 21时52分]"
         },
         {
           "title": "以军发布声明 证实其打死哈马斯在加沙地带军事指挥官",
@@ -775,11 +841,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时58分]"
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 21时52分]"
         },
         {
           "title": "俄称若外交无果将以军事手段结束冲突",
@@ -795,16 +862,17 @@
           "time_info": "[01时48分 ~ 07时03分]"
         },
         {
-          "title": "美妆白月光姜乘澜回归粉丝破千万",
-          "url": "https://www.douyin.com/hot/2500647",
-          "source": "抖音",
+          "title": "哈马斯官员证实其军事领导人哈达德已身亡",
+          "url": "https://wallstreetcn.com/livenews/3104778",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29,
-            30
+            7,
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时28分 ~ 18时22分]"
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 21时52分]"
         },
         {
           "title": "据路透社：哈马斯高级官员确认，军事部门首领Al-Haddad已去世。",
@@ -819,16 +887,28 @@
           "time_info": "[18时22分 ~ 19时58分]"
         },
         {
-          "title": "哈马斯官员证实其军事领导人哈达德已身亡",
-          "url": "https://wallstreetcn.com/livenews/3104778",
-          "source": "华尔街见闻-快讯",
+          "title": "市场消息：OpenAI与马耳他达成合作，向所有公民提供ChatGPT Plus服务。",
+          "url": "https://flash.jin10.com/detail/20260516184026768800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            21
+            6,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时58分]"
+          "time_info": "[19时58分 ~ 21时52分]"
+        },
+        {
+          "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
+          "url": "https://wallstreetcn.com/livenews/3104794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 21时52分]"
         },
         {
           "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
@@ -912,15 +992,15 @@
           "time_info": "01时48分"
         },
         {
-          "title": "市场消息：OpenAI与马耳他达成合作，向所有公民提供ChatGPT Plus服务。",
-          "url": "https://flash.jin10.com/detail/20260516184026768800",
-          "source": "金十数据",
+          "title": "哈马斯官员证实其军事领导人已身亡",
+          "url": "https://www.toutiao.com/trending/7639920319281463346/",
+          "source": "今日头条",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时58分"
+          "time_info": "21时52分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至5月12日当周，白银投机者将净多头头寸增加5,254手，至16,195手。",
@@ -932,17 +1012,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
-        },
-        {
-          "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
-          "url": "https://wallstreetcn.com/livenews/3104794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时58分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至5月12日当周，黄金投机者将净多头头寸增加4,963手，至100,627手。",
@@ -976,6 +1045,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
+        },
+        {
+          "title": "美以伊战火重燃风险骤升！黄金濒临变盘拐点？",
+          "url": "https://flash.jin10.com/detail/20260516194043645800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "【以军：以色列正在为重启对伊朗军事行动做准备】当地时间15日晚，总台记者获悉，一位以色列高级官员称，以色列正在为即将重启针对伊朗的军事行动做准备，军事行动可能将“持续数天甚至数周”。这位官员表示：“美国人明白与伊朗的谈判毫无进展”。他补充道：“我们正在为持续数天甚至数周的战斗做准备，并等待特朗普总统的最终决定。未来24小时内我们将了解更多情况”。（央视）",
@@ -1113,7 +1193,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国已拒绝伊朗就结束战争提出的书面方案",
@@ -1129,6 +1209,19 @@
           "time_info": "[01时48分 ~ 07时03分]"
         },
         {
+          "title": "FBI通缉美国前女特工：13年前叛逃伊朗，传递五角大楼机密",
+          "url": "https://news.ifeng.com/c/8tAy0GyTSSB",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 21时52分]"
+        },
+        {
           "title": "伊朗外长称伊美同意推进浓缩铀问题谈判",
           "url": "https://news.ifeng.com/c/8tAN0RWSj16",
           "source": "凤凰网",
@@ -1138,6 +1231,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时28分 ~ 14时29分]"
+        },
+        {
+          "title": "伊朗一机油工厂发生火灾致至少10人受伤",
+          "url": "https://wallstreetcn.com/livenews/3104807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "伊朗一机油工厂发生火灾致至少10人受伤",
+          "url": "https://flash.jin10.com/detail/20260516214222580800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "伊朗外长：欢迎中国发挥作用",
@@ -1163,16 +1278,15 @@
           "time_info": "11时47分"
         },
         {
-          "title": "FBI通缉美国前女特工：13年前叛逃伊朗，传递五角大楼机密",
-          "url": "https://news.ifeng.com/c/8tAy0GyTSSB",
-          "source": "凤凰网",
+          "title": "伊朗一机油工厂发生火灾",
+          "url": "https://wallstreetcn.com/livenews/3104803",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            5
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 19时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "伊朗：一旦不安全状况结束，霍尔木兹海峡通航将恢复正常。（伊朗迈赫尔通讯社）",
@@ -1198,6 +1312,18 @@
           "time_info": "[01时48分 ~ 07时03分]"
         },
         {
+          "title": "谈判濒临破裂，美以被曝最早下周恢复对伊朗打击，选项包括地面夺取核材料",
+          "url": "https://wallstreetcn.com/articles/3772425",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时57分 ~ 21时52分]"
+        },
+        {
           "title": "美国已拒绝伊朗就结束战争提出的书面方案",
           "url": "https://wallstreetcn.com/articles/3772355",
           "source": "华尔街见闻",
@@ -1207,6 +1333,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时14分 ~ 11时47分]"
+        },
+        {
+          "title": "消息人士：国际足联将“保证”伊朗参赛世界杯",
+          "url": "https://wallstreetcn.com/livenews/3104774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 21时52分]"
         },
         {
           "title": "伊朗外长感谢中国提供帮助",
@@ -1221,38 +1360,62 @@
           "time_info": "[11时47分 ~ 14时29分]"
         },
         {
-          "title": "谈判濒临破裂，美以被曝最早下周恢复对伊朗打击，选项包括地面夺取核材料",
-          "url": "https://wallstreetcn.com/articles/3772425",
-          "source": "华尔街见闻",
+          "title": "伊朗：已准备好管理霍尔木兹海峡的机制 相关细节很快公布",
+          "url": "https://flash.jin10.com/detail/20260516182456183800",
+          "source": "金十数据",
           "ranks": [
-            9
+            7,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时57分 ~ 19时58分]"
+          "time_info": "[19时58分 ~ 21时52分]"
         },
         {
-          "title": "消息人士：国际足联将“保证”伊朗参赛世界杯",
-          "url": "https://wallstreetcn.com/livenews/3104774",
+          "title": "【伊朗官员：伊方制定的霍尔木兹海峡航线交通管理机制将于近期公布】当地时间5月16日，伊朗议会国家安全委员会主席阿齐兹在社交平台表示，在维护国家主权和保障国际贸易安全的框架下，伊朗已制定一套专业的霍尔木兹海峡航线交通管理机制，并将于近期正式公布。该机制仅对与伊朗合作的商船和相关方开放。伊朗将收取必要的费用，作为其通过该机制提供的专业服务的交换。该航线将继续对美国“自由计划”的参与者关闭。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3104789",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            25
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时58分]"
+          "time_info": "[19时58分 ~ 21时52分]"
         },
         {
-          "title": "伊朗：已准备好管理霍尔木兹海峡的机制 相关细节很快公布",
-          "url": "https://flash.jin10.com/detail/20260516182456183800",
+          "title": "伊朗议会国家安全委员会负责人：伊朗已制定一项机制，用于管理霍尔木兹海峡沿指定航线的通行，该机制将很快公布。 在此过程中，只有商业船只和与伊朗合作的各方才能从中受益。 将对该机制下提供的专门服务收取必要费用。 这条航线将对“自由计划”的运营方保持关闭。",
+          "url": "https://wallstreetcn.com/livenews/3104787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 21时52分]"
+        },
+        {
+          "title": "国际足联将保证伊朗参赛世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%B0%86%E4%BF%9D%E8%AF%81%E4%BC%8A%E6%9C%97%E5%8F%82%E8%B5%9B%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "据伊朗努尔新闻(Nour News)：伊朗内政部长与到访的巴基斯坦内政部长举行了“详细”会谈，讨论了伊朗-巴基斯坦双边关系以及重启（美伊）和平谈判的前景。",
+          "url": "https://flash.jin10.com/detail/20260516210853480800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时58分"
+          "time_info": "21时52分"
         },
         {
           "title": "伊朗最高领袖顾问：新的秩序正在迅速调整规则，而这些规则不再以美国为中心。",
@@ -1266,6 +1429,17 @@
           "time_info": "03时48分"
         },
         {
+          "title": "伊朗一机油工厂发生火灾",
+          "url": "https://flash.jin10.com/detail/20260516202902063800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "TankerTrackers：伊朗石油运输减少主因可能是泄漏事故，而非美国封锁",
           "url": "https://wallstreetcn.com/livenews/3104590",
           "source": "华尔街见闻-快讯",
@@ -1277,26 +1451,15 @@
           "time_info": "03时48分"
         },
         {
-          "title": "【伊朗官员：伊方制定的霍尔木兹海峡航线交通管理机制将于近期公布】当地时间5月16日，伊朗议会国家安全委员会主席阿齐兹在社交平台表示，在维护国家主权和保障国际贸易安全的框架下，伊朗已制定一套专业的霍尔木兹海峡航线交通管理机制，并将于近期正式公布。该机制仅对与伊朗合作的商船和相关方开放。伊朗将收取必要的费用，作为其通过该机制提供的专业服务的交换。该航线将继续对美国“自由计划”的参与者关闭。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3104789",
-          "source": "华尔街见闻-快讯",
+          "title": "消息人士：国际足联将“保证”伊朗参赛世界杯",
+          "url": "https://flash.jin10.com/detail/20260516192751228800",
+          "source": "金十数据",
           "ranks": [
-            11
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "伊朗议会国家安全委员会负责人：伊朗已制定一项机制，用于管理霍尔木兹海峡沿指定航线的通行，该机制将很快公布。 在此过程中，只有商业船只和与伊朗合作的各方才能从中受益。 将对该机制下提供的专门服务收取必要费用。 这条航线将对“自由计划”的运营方保持关闭。",
-          "url": "https://wallstreetcn.com/livenews/3104787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时58分"
+          "time_info": "21时52分"
         },
         {
           "title": "伊朗外长感谢中国提供帮助",
@@ -1345,8 +1508,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时03分 ~ 19时58分]"
+          "appearance_count": 9,
+          "time_info": "[07时03分 ~ 21时52分]"
         },
         {
           "title": "原油大涨掀债市抛售潮，美股回落，盘中纳指跌2%，加息预期升温，金银重挫",
@@ -1465,6 +1628,20 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时03分 ~ 21时52分]"
+        },
+        {
           "title": "黑色星期五！全球股债双杀：韩股暴跌6%，美债收益率飙升，这次市场在怕什么？",
           "url": "https://wallstreetcn.com/articles/3772362",
           "source": "华尔街见闻",
@@ -1480,19 +1657,6 @@
           "time_info": "[01时48分 ~ 18时22分]"
         },
         {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时03分 ~ 19时58分]"
-        },
-        {
           "title": "美债技术性破位，日债抛售恐慌，全球利率风暴正在形成",
           "url": "https://wallstreetcn.com/articles/3772386",
           "source": "华尔街见闻",
@@ -1502,8 +1666,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时47分 ~ 19时58分]"
+          "appearance_count": 8,
+          "time_info": "[11时47分 ~ 21时52分]"
         },
         {
           "title": "美债收益率飙升重创股市 芯片板块领跌",
