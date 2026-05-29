@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T16:48:00.447577+08:00",
-  "total_titles_processed": 918,
+  "generated_at": "2026-05-29T20:23:00.663572+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗称击落一架美军飞机，美方回应",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 16时48分]"
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 20时23分]"
         },
         {
           "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
@@ -56,6 +56,41 @@
           "time_info": "05时12分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：消息人士称，与美国的谅解备忘录文本在最近几天发生了变化。",
+          "url": "https://flash.jin10.com/detail/20260529195330709800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "最近几天伊朗与美国的谅解备忘录文本有所更改。西方媒体报道的谅解备忘录文本不准确。（伊朗塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3111424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "美称敲定“谅解备忘录”遭伊朗否认",
+          "url": "https://www.toutiao.com/trending/7645098099924323890/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 20时23分]"
+        },
+        {
           "title": "伊朗对美国空军基地实施打击",
           "url": "https://www.toutiao.com/trending/7644776648142753286/",
           "source": "今日头条",
@@ -67,18 +102,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时16分 ~ 07时23分]"
-        },
-        {
-          "title": "美称敲定“谅解备忘录”遭伊朗否认",
-          "url": "https://www.toutiao.com/trending/7645098099924323890/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 16时48分]"
         },
         {
           "title": "伊朗国家媒体：Bushehr听到爆炸声。",
@@ -134,6 +157,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "伊朗称过去24小时有24艘船通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3111401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：我们并不寻求核武器。",
@@ -279,6 +313,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "雪佛龙首席执行官：雪佛龙不会为通过霍尔木兹海峡向伊朗支付通行费。",
+          "url": "https://flash.jin10.com/detail/20260529193751505800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "美国官员表示，在伊朗布什尔附近并没有美国飞机被击落。",
           "url": "https://flash.jin10.com/detail/20260529060346329800",
           "source": "金十数据",
@@ -293,18 +338,19 @@
     },
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
           "url": "https://wallstreetcn.com/articles/3773313",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 16时48分]"
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 20时23分]"
         },
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
@@ -380,6 +426,18 @@
           "time_info": "[02时16分 ~ 07时23分]"
         },
         {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时47分 ~ 20时23分]"
+        },
+        {
           "title": "金十图示：2026年05月29日（周五）白银ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260529065721148800",
           "source": "金十数据",
@@ -392,17 +450,6 @@
           "time_info": "[07时23分 ~ 12时18分]"
         },
         {
-          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
-          "url": "https://wallstreetcn.com/articles/3773389",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 16时48分]"
-        },
-        {
           "title": "白银暴跌后多家投行唱空：工业需求遭高价反噬 银价或继续承压",
           "url": "https://www.cls.cn/detail/2384214",
           "source": "财联社热门",
@@ -412,6 +459,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 07时23分]"
+        },
+        {
+          "title": "廉价手机的黄金时代正在迎来终结",
+          "url": "https://www.baidu.com/s?wd=%E5%BB%89%E4%BB%B7%E6%89%8B%E6%9C%BA%E7%9A%84%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3%E6%AD%A3%E5%9C%A8%E8%BF%8E%E6%9D%A5%E7%BB%88%E7%BB%93",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 20时23分]"
         },
         {
           "title": "金十图示：2026年05月29日（周五）黄金ETF持仓报告",
@@ -464,7 +522,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -497,7 +555,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -508,7 +566,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -555,6 +613,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
+        },
+        {
+          "title": "国际现货黄金或迎第二波动力，美日触发高盈亏比做空窗口 | Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260529193320934800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "警方高速上拦下价值200余万被盗黄金",
+          "url": "https://www.toutiao.com/trending/7645135399023607814/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "这一轮黄金回调藏着哪些信号",
@@ -682,7 +762,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -726,7 +806,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         }
@@ -746,8 +826,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时16分 ~ 16时48分]"
+          "appearance_count": 8,
+          "time_info": "[02时16分 ~ 20时23分]"
         },
         {
           "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
@@ -772,6 +852,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "黄仁勋披露访华细节：特朗普让我在华盛顿登机，可我在西海岸",
+          "url": "https://news.ifeng.com/c/8tW3etoYczE",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时47分 ~ 20时23分]"
+        },
+        {
           "title": "特朗普的两张稀土王牌，先打上“内战”了",
           "url": "https://news.ifeng.com/c/8tUtQKMFq2T",
           "source": "凤凰网",
@@ -792,17 +883,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时16分 ~ 07时23分]"
-        },
-        {
-          "title": "黄仁勋披露访华细节：特朗普让我在华盛顿登机，可我在西海岸",
-          "url": "https://news.ifeng.com/c/8tW3etoYczE",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 16时48分]"
         },
         {
           "title": "黄仁勋披露随特朗普访华细节：他让我在华盛顿登机，可我当时在西海岸",
