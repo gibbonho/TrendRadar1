@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T19:05:10.557926+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2026-05-31T22:02:54.296331+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "美国没收伊朗 10 亿美元加密货币资产，切断伊朗航空公司获取降落点、加油和售票的渠道，对局势有何影响？",
@@ -80,7 +80,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
         },
@@ -91,7 +91,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
         },
@@ -223,6 +223,18 @@
           "time_info": "[02时06分 ~ 04时12分]"
         },
         {
+          "title": "伊朗展示一款新型攻击艇",
+          "url": "https://wallstreetcn.com/livenews/3111922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时05分 ~ 22时02分]"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队称击落一架美军MQ-1无人机",
           "url": "https://wallstreetcn.com/livenews/3111863",
           "source": "华尔街见闻-快讯",
@@ -233,17 +245,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时24分 ~ 16时56分]"
-        },
-        {
-          "title": "伊朗展示一款新型攻击艇",
-          "url": "https://wallstreetcn.com/livenews/3111922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时05分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队宣布，过去24小时内有28艘包括油轮、集装箱船及其他商船在获得许可后，经过伊朗海军的协调和安全保障，从霍尔木兹海峡通过。",
@@ -263,7 +264,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
         },
@@ -274,7 +275,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
         },
@@ -285,7 +286,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
         },
@@ -296,9 +297,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社：埃及方面要求以色列完全撤出黎巴嫩。",
+          "url": "https://flash.jin10.com/detail/20260531203535600800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "伊朗称过去24小时内有28艘船只经协调通过霍尔木兹海峡",
@@ -307,7 +319,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
         },
@@ -329,7 +341,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
         },
@@ -340,9 +352,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗与美国之间关于潜在谅解备忘录草案的交流仍在继续。双方轮流提出修改意见，目前尚未最终确认任何协议。",
+          "url": "https://flash.jin10.com/detail/20260531200724744800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "伊媒：伊朗议会将通过霍尔木兹海峡“主权管辖”计划",
@@ -370,8 +393,21 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
+          "url": "https://wallstreetcn.com/articles/3773514",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时23分 ~ 22时02分]"
+        },
         {
           "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
           "url": "https://www.cls.cn/detail/2385988",
@@ -395,18 +431,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时09分 ~ 02时06分]"
-        },
-        {
-          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
-          "url": "https://wallstreetcn.com/articles/3773514",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时23分 ~ 19时05分]"
         },
         {
           "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
@@ -469,6 +493,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "复刻特朗普访华同款官方机位",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E5%88%BB%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%90%8C%E6%AC%BE%E5%AE%98%E6%96%B9%E6%9C%BA%E4%BD%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "美国总统特朗普：与其他美国总统不同，他们从未接受过批准的高难度认知测试，我的得分是30分满分，被认为是“极高智力”。",
@@ -601,15 +636,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-31）",
+          "url": "https://flash.jin10.com/detail/20260531191112757800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         }
       ]
     },
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "标普九周连涨、创2023年底最长，原油创六年来最大月跌幅，黄金冲高回落",
@@ -647,28 +693,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
-        },
-        {
-          "title": "法国外长要求安理会就以色列在黎军事行动召开紧急会议",
-          "url": "https://wallstreetcn.com/livenews/3111926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时05分"
-        },
-        {
-          "title": "以总理称已指示以军在黎巴嫩扩大军事行动",
-          "url": "https://wallstreetcn.com/livenews/3111925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时05分"
         },
         {
           "title": "美国总统特朗普：我在沃尔特·里德军事医疗中心进行的体检结果刚刚发布，结果非常好。",
@@ -709,16 +733,41 @@
           "time_info": "[04时12分 ~ 08时07分]"
         },
         {
+          "title": "法国外长要求安理会就以色列在黎军事行动召开紧急会议",
+          "url": "https://wallstreetcn.com/livenews/3111926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时05分 ~ 22时02分]"
+        },
+        {
+          "title": "以总理称已指示以军在黎巴嫩扩大军事行动",
+          "url": "https://wallstreetcn.com/livenews/3111925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时05分 ~ 22时02分]"
+        },
+        {
           "title": "GitHub不装了，用户炸锅了！AI编程的低价时代结束，从此按token计费",
           "url": "https://wallstreetcn.com/articles/3773512",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时56分 ~ 19时05分]"
+          "appearance_count": 4,
+          "time_info": "[16时56分 ~ 22时02分]"
         },
         {
           "title": "美联储发出加息警告 股市黄金会怎样",
@@ -744,6 +793,18 @@
           "time_info": "[00时10分 ~ 04时12分]"
         },
         {
+          "title": "黄金投资者周报上新！",
+          "url": "https://flash.jin10.com/detail/20260531120430838800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 22时02分]"
+        },
+        {
           "title": "黄金股大回撤：一场杠杆化信仰的退潮",
           "url": "https://www.toutiao.com/trending/7645687954723048966/",
           "source": "今日头条",
@@ -766,15 +827,15 @@
           "time_info": "13时24分"
         },
         {
-          "title": "黄金投资者周报上新！",
-          "url": "https://flash.jin10.com/detail/20260531120430838800",
+          "title": "乌军方称袭击俄多处油气设施和军事目标",
+          "url": "https://flash.jin10.com/detail/20260531204323950800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时24分"
+          "time_info": "22时02分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗议会议长卡利巴夫表示，外交的工作是将军事领域获得的胜利转化为政治和法律成果。",
@@ -783,9 +844,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
+        },
+        {
+          "title": "乌军方称袭击俄多处油气设施和军事目标",
+          "url": "https://wallstreetcn.com/livenews/3111942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "以色列国防军：过去一周，以军在加沙地带多地打击并摧毁了三处哈马斯武器储存设施。这些设施内存放有爆炸装置、步枪、狙击步枪以及其他军事装备。其中一处设施内约有10辆被哈马斯用于军事用途的皮卡车。",
+          "url": "https://flash.jin10.com/detail/20260531202535929800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "中国黄金集团总经理殷长波会见京东集团CEO许冉一行",
@@ -802,7 +885,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
@@ -829,6 +912,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时09分 ~ 16时56分]"
+        },
+        {
+          "title": "美股的“午夜钟声”或将敲响",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%9A%84%E2%80%9C%E5%8D%88%E5%A4%9C%E9%92%9F%E5%A3%B0%E2%80%9D%E6%88%96%E5%B0%86%E6%95%B2%E5%93%8D",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         }
       ]
     }
