@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-01T14:10:17.383303+08:00",
-  "total_titles_processed": 801,
+  "generated_at": "2026-06-01T20:44:03.936496+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "伊朗总统：要么强硬前行，要么牺牲",
+          "url": "https://news.ifeng.com/c/8taeRM6ZuHm",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时11分 ~ 20时44分]"
+        },
         {
           "title": "伊朗总统已向最高领袖提出辞职？官方回应",
           "url": "https://news.ifeng.com/c/8taeRM6Zu8b",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时06分 ~ 08时12分]"
-        },
-        {
-          "title": "伊朗总统：要么强硬前行，要么牺牲",
-          "url": "https://news.ifeng.com/c/8taeRM6ZuHm",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时11分 ~ 14时10分]"
         },
         {
           "title": "战争阴霾笼罩世界杯，伊朗国家队运动员仍未获得赴美签证",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时17分 ~ 14时10分]"
+        },
+        {
+          "title": "美国中央司令部：美军昨晚拦截了两枚伊朗的弹道导弹。 导弹的目标是驻科威特美军。 导弹被击落，无美军人员伤亡。",
+          "url": "https://wallstreetcn.com/livenews/3112433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "美国财长贝森特：霍尔木兹海峡必须恢复至（美国和以色列挑起伊朗战争）之前的水平。 海峡关闭直接造成化肥价格上涨。",
@@ -232,6 +243,17 @@
           "time_info": "[04时17分 ~ 06时06分]"
         },
         {
+          "title": "伊朗外交部：美伊谅解备忘录缺不得黎巴嫩停火",
+          "url": "https://news.ifeng.com/c/8tbSvd3YFSk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 20时44分]"
+        },
+        {
           "title": "伊朗政府官员辟谣总统已请辞的消息",
           "url": "https://flash.jin10.com/detail/20260601025732201800",
           "source": "金十数据",
@@ -338,9 +360,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        },
+        {
+          "title": "伊朗总统与日本首相讨论霍尔木兹海峡问题。",
+          "url": "https://wallstreetcn.com/livenews/3112407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "伊朗总统：在面临重大挑战的情况下，任何社会都不能指望在不承受困难的情况下继续前进。",
@@ -372,6 +405,17 @@
           "time_info": "[00时17分 ~ 08时12分]"
         },
         {
+          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
+          "url": "https://news.ifeng.com/c/8taubWZltKg",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时09分 ~ 20时44分]"
+        },
+        {
           "title": "特朗普将伊拉克纳入特使汤姆·巴拉克治叙职能范围",
           "url": "https://wallstreetcn.com/livenews/3111962",
           "source": "华尔街见闻-快讯",
@@ -381,17 +425,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时09分 ~ 06时06分]"
-        },
-        {
-          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
-          "url": "https://news.ifeng.com/c/8taubWZltKg",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 14时10分]"
         },
         {
           "title": "特朗普肖像上250美元钞票有哪些难题",
@@ -460,7 +493,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -526,7 +559,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         }
@@ -534,7 +567,7 @@
     },
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "GitHub不装了，用户炸锅了！AI编程的低价时代结束，从此按token计费",
@@ -548,6 +581,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时17分 ~ 08时12分]"
+        },
+        {
+          "title": "油价跌了黄金也没涨，市场开始担心一个新问题",
+          "url": "https://wallstreetcn.com/articles/3773535",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 20时44分]"
         },
         {
           "title": "英国外交大臣库珀：以色列在黎巴嫩的军事升级已造成平民死伤与流离失所，摧毁了基础设施，并压缩了外交空间。真主党必须停止对以色列的袭击并解除武装，各方必须尊重停火，并真诚地参与谈判。",
@@ -618,6 +662,17 @@
           "time_info": "[14时09分 ~ 14时10分]"
         },
         {
+          "title": "DeepTalk：美联储遇百年未有之大变局，国际现货白银悄悄走向300美元？",
+          "url": "https://flash.jin10.com/detail/20260601202657751800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "埃及强烈谴责以色列在黎巴嫩升级军事行动",
           "url": "https://flash.jin10.com/detail/20260601041046651800",
           "source": "金十数据",
@@ -657,16 +712,38 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        },
+        {
+          "title": "黄金继续震荡，多空博弈鹿死谁手？关键位置在哪里？金十研究员Steven正在直播，立即观看>>",
+          "url": "https://flash.jin10.com/detail/20260601201925689800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "IBM美股盘前一度大涨15%，周末一段特朗普在去年12月某活动上称赞IBM首席执行官并讨论该公司股票的视频在社交媒体上再次流传。包括Polymarket Money在内的数十个账号在社交媒体平台X上发布了这段评论视频。",
+          "url": "https://wallstreetcn.com/livenews/3112430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
         {
           "title": "美股的“午夜钟声”或将敲响",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%9A%84%E2%80%9C%E5%8D%88%E5%A4%9C%E9%92%9F%E5%A3%B0%E2%80%9D%E6%88%96%E5%B0%86%E6%95%B2%E5%93%8D",
@@ -685,9 +762,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        },
+        {
+          "title": "美股软件股盘前持续走高，ServiceNow上涨11%，Adobe上涨5.7%。",
+          "url": "https://wallstreetcn.com/livenews/3112400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "高通美股盘前跌幅扩大至10%。",
+          "url": "https://wallstreetcn.com/livenews/3112391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         }
       ]
     }
