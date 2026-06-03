@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T18:02:42.846572+08:00",
-  "total_titles_processed": 938,
+  "generated_at": "2026-06-03T22:57:59.511139+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 45,
       "titles": [
         {
           "title": "伊朗公开已故最高领袖哈梅内伊安葬地点",
@@ -42,6 +42,18 @@
           "time_info": "[12时56分 ~ 18时02分]"
         },
         {
+          "title": "伊朗最高领袖批准成立霍尔木兹海峡问题工作组",
+          "url": "https://news.ifeng.com/c/8tekQlYHnoj",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 22时57分]"
+        },
+        {
           "title": "美军称对伊朗格什姆岛实施“自卫性”打击 伊朗向邻国发射导弹",
           "url": "https://flash.jin10.com/detail/20260603073917860800",
           "source": "金十数据",
@@ -70,7 +82,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -130,6 +142,17 @@
           "time_info": "02时50分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：我希望伊朗领导人能为国家带来真正的未来。",
+          "url": "https://flash.jin10.com/detail/20260603225328942800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "美军机发射“地狱火”导弹，击中一艘伊朗相关油轮",
           "url": "https://news.ifeng.com/c/8te0bJrzbXu",
           "source": "凤凰网",
@@ -141,15 +164,15 @@
           "time_info": "07时54分"
         },
         {
-          "title": "伊朗最高领袖批准成立霍尔木兹海峡问题工作组",
-          "url": "https://news.ifeng.com/c/8tekQlYHnoj",
-          "source": "凤凰网",
+          "title": "科威特外交部要求两名伊朗驻科外交人员离境",
+          "url": "https://wallstreetcn.com/livenews/3113883",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "22时57分"
         },
         {
           "title": "伊朗将在3座城市为哈梅内伊举办葬礼",
@@ -170,11 +193,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时56分 ~ 22时57分]"
         },
         {
           "title": "美国打击伊朗格什姆岛 伊朗报复科威特美军基地",
@@ -210,6 +234,17 @@
           "time_info": "07时54分"
         },
         {
+          "title": "美国国务卿鲁比奥：伊朗正在以针对地区目标的袭击来回应霍尔木兹海峡的通航行动。",
+          "url": "https://flash.jin10.com/detail/20260603225248511800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "欧洲央行管委、比利时央行行长Wunsch：伊朗和平协议不会动摇欧洲央行加息的理由。（英国《金融时报》）",
           "url": "https://wallstreetcn.com/livenews/3113494",
           "source": "华尔街见闻-快讯",
@@ -219,6 +254,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：准备好全面升级（中东紧张局势）。 我们“除掉”了大约20名伊朗核科学家。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3113881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗战斗机袭击了位于伊拉克库尔德斯坦地区的武装团体总部，这些武装团体得到了欧洲、以色列和美国情报机构的支持。",
@@ -254,6 +300,17 @@
           "time_info": "12时56分"
         },
         {
+          "title": "国际油价一度涨超2%，美军称伊朗在整个中东范围发动袭击",
+          "url": "https://wallstreetcn.com/articles/3773721",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "以色列i24News：伊朗伊斯兰革命卫队表示，美国袭击了格什姆岛，作为回应，伊朗对科威特发动了无人机和导弹袭击。",
           "url": "https://flash.jin10.com/detail/20260603071935217800",
           "source": "金十数据",
@@ -271,7 +328,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -304,7 +361,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -397,6 +454,17 @@
           "time_info": "12时56分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：我相信最终伊朗的裂痕会扩散，政权将会垮台。",
+          "url": "https://flash.jin10.com/detail/20260603224722351800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "伊朗伊斯兰共和国广播电视台（IRIB）：巴林传出警报声。",
           "url": "https://flash.jin10.com/detail/20260603065538627800",
           "source": "金十数据",
@@ -414,9 +482,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：伊朗目前存在巨大的裂痕。",
+          "url": "https://flash.jin10.com/detail/20260603224628418800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "伊朗导弹爆炸现场画面",
@@ -425,7 +504,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
@@ -433,7 +512,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普，开掉“不听话的情报头子”",
@@ -494,6 +573,17 @@
           "time_info": "02时50分"
         },
         {
+          "title": "特朗普为何骂内塔尼亚胡“疯了”？",
+          "url": "https://news.ifeng.com/c/8ter8XhY8eS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "特朗普要求伊朗就核问题作出更坚定的承诺",
           "url": "https://flash.jin10.com/detail/20260603052655387800",
           "source": "金十数据",
@@ -511,9 +601,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
+          "url": "https://wallstreetcn.com/articles/3773781",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "被特朗普斥\"疯了\"后，内塔尼亚胡最新强硬表态",
@@ -525,6 +626,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "特朗普任命房屋监管主管兼任情报总监",
+          "url": "https://news.ifeng.com/c/8tetwuxA0Fy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "美国财长贝森特：我们存在开支问题和增长问题。 总统特朗普任期届满时，赤字与GDP比率可能会低于4%。",
+          "url": "https://wallstreetcn.com/livenews/3113884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "被特朗普斥“疯了”后，内塔尼亚胡强硬表态",
@@ -548,6 +671,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时56分 ~ 18时02分]"
+        },
+        {
+          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
+          "url": "https://wallstreetcn.com/articles/3773725",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 22时57分]"
         },
         {
           "title": "特朗普最终还是签了，曾忧心这会“让中国领先”",
@@ -584,15 +719,15 @@
           "time_info": "05时55分"
         },
         {
-          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
-          "url": "https://wallstreetcn.com/articles/3773725",
-          "source": "华尔街见闻",
+          "title": "美国财长贝森特在听证会上宣称：并没有提前知道总统特朗普会起诉（财政部下辖）国税局（IRS）。",
+          "url": "https://wallstreetcn.com/livenews/3113880",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "22时57分"
         },
         {
           "title": "枪击案发生后白宫记协晚宴改期至7月，特朗普称计划出席",
@@ -661,6 +796,17 @@
           "time_info": "05时55分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：与美国总统特朗普的关系没有改变。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3113869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "特朗普被曝同以总理通话爆粗口",
           "url": "https://m.thepaper.cn/newsDetail_forward_33288561",
           "source": "澎湃新闻",
@@ -672,6 +818,28 @@
           "time_info": "07时54分"
         },
         {
+          "title": "美国国务卿卢比奥：总统特朗普知道挑起伊朗战争的经济后果。",
+          "url": "https://wallstreetcn.com/livenews/3113867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "美国财长贝森特在听证会上宣称：特朗普税法避免了超过5万亿美元的税收增长。",
+          "url": "https://wallstreetcn.com/livenews/3113866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "特朗普：已接受在白宫记者晚宴发言的邀请",
           "url": "https://flash.jin10.com/detail/20260603020332024800",
           "source": "金十数据",
@@ -681,6 +849,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：特朗普希望与伊朗当前政权达成协议，但这并不意味着他希望政权继续存在。",
+          "url": "https://flash.jin10.com/detail/20260603224645937800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "美国总统特朗普：今天继续与伊朗对话。 “美国与伊朗停止对话”这种说法是错误的。",
@@ -697,7 +876,7 @@
     },
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "上海黄金交易所黄金T+D 6月2日（周二）晚盘收盘下跌0.14%报977.8元/克；<br/>上海黄金交易所白银T+D 6月2日（周二）晚盘收盘下跌0.41%报18141.0元/千克。",
@@ -774,7 +953,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -807,7 +986,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -832,6 +1011,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
+        },
+        {
+          "title": "欧洲央行：黄金替代美元成全球官方储备第一大资产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33295479",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：（关于平民死亡）我们在采取军事行动时警告民众撤离。",
+          "url": "https://flash.jin10.com/detail/20260603224702792800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "黄金行情还能好吗",
@@ -859,7 +1060,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -870,8 +1071,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时54分 ~ 18时02分]"
+          "appearance_count": 4,
+          "time_info": "[07时54分 ~ 22时57分]"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
@@ -920,26 +1121,49 @@
           "time_info": "[02时50分 ~ 05时55分]"
         },
         {
+          "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
+          "url": "https://www.cls.cn/detail/2389478",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 22时57分]"
+        },
+        {
           "title": "英特尔美股盘前涨超4%，新处理器Xeon 6 Plus亮相，进军AI整机柜市场。",
           "url": "https://wallstreetcn.com/livenews/3113678",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
         {
-          "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
-          "url": "https://www.cls.cn/detail/2389478",
-          "source": "财联社热门",
+          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
+          "url": "https://wallstreetcn.com/articles/3773769",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "特朗普言论提振有限，美股指涨跌互现，Marvell开盘涨近10%，油价涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3773742",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "22时57分"
         },
         {
           "title": "网络安全公司NetSkope美股盘后涨3.8%，该公司宣布加入Anthropic的Project Glasswing。",
