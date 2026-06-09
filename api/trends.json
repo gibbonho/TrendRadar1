@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T16:36:35.886199+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2026-06-09T20:11:43.132267+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
@@ -68,15 +68,15 @@
           "time_info": "05时57分"
         },
         {
-          "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333027",
-          "source": "澎湃新闻",
+          "title": "国际黄金本周遭遇宏观三重奏！白银避险逻辑遭美元全面虹吸 | Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260609194105397800",
+          "source": "金十数据",
           "ranks": [
-            20
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 05时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
         },
         {
           "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
@@ -87,8 +87,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 16时36分]"
+          "appearance_count": 4,
+          "time_info": "[12时10分 ~ 20时11分]"
         },
         {
           "title": "跌跌不休!印度抛黄金救卢比",
@@ -96,11 +96,23 @@
           "source": "贴吧",
           "ranks": [
             8,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 16时36分]"
+          "appearance_count": 4,
+          "time_info": "[12时10分 ~ 20时11分]"
+        },
+        {
+          "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333027",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 05时57分]"
         },
         {
           "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
@@ -225,7 +237,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -236,7 +248,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -346,7 +358,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -379,7 +391,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -398,7 +410,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
@@ -506,6 +518,20 @@
           "time_info": "03时27分"
         },
         {
+          "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
+          "url": "https://wallstreetcn.com/articles/3774122",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时18分 ~ 20时11分]"
+        },
+        {
           "title": "美国总统特朗普：以色列不会与伊朗重启战争。",
           "url": "https://flash.jin10.com/detail/20260609054903462800",
           "source": "金十数据",
@@ -518,17 +544,16 @@
           "time_info": "[05时57分 ~ 07时18分]"
         },
         {
-          "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
-          "url": "https://wallstreetcn.com/articles/3774122",
-          "source": "华尔街见闻",
+          "title": "特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！",
+          "url": "https://www.cls.cn/detail/2394559",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            6,
-            8
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时18分 ~ 16时36分]"
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 20时11分]"
         },
         {
           "title": "美国总统特朗普谈伊朗：我们正在进行谈判。",
@@ -565,26 +590,26 @@
           "time_info": "[12时10分 ~ 12时11分]"
         },
         {
-          "title": "特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！",
-          "url": "https://www.cls.cn/detail/2394559",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
           "title": "特朗普称美伊和平协议相关工作进入收尾阶段",
           "url": "https://news.ifeng.com/c/8tohseatV8c",
           "source": "凤凰网",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "特朗普：美伊谈判进入“最后关头”",
+          "url": "https://news.ifeng.com/c/8tooQUA09O3",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
         },
         {
           "title": "特朗普出席NBA总决赛遭全场狂嘘，事后“挽尊”辩解",
@@ -593,7 +618,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -667,7 +692,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "“未来两周将对伊朗全面胜利”",
@@ -815,7 +840,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -864,6 +889,17 @@
           "time_info": "07时18分"
         },
         {
+          "title": "伊朗驻联合国使团警告称，国际原子能机构理事会的决议可能为另一次袭击铺平道路。",
+          "url": "https://flash.jin10.com/detail/20260609192859902800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
+        },
+        {
           "title": "据沙特阿拉伯阿拉比亚电视台：美国国务院表示，在达成协议之前，对伊朗实施的海上封锁将继续维持。在伊朗履行其承诺之前，伊朗被冻结资产不会被解冻或释放。",
           "url": "https://flash.jin10.com/detail/20260609023214045800",
           "source": "金十数据",
@@ -878,7 +914,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
@@ -896,11 +932,12 @@
           "url": "https://wallstreetcn.com/articles/3774056",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时18分 ~ 16时36分]"
+          "appearance_count": 5,
+          "time_info": "[07时18分 ~ 20时11分]"
         },
         {
           "title": "美股收盘：芯片股反弹费城指数升超5% 存储、光通信概念齐走强",
@@ -924,6 +961,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时10分 ~ 12时11分]"
+        },
+        {
+          "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
+          "url": "https://wallstreetcn.com/articles/3774155",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时10分 ~ 20时11分]"
         },
         {
           "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
@@ -958,21 +1007,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
-        },
-        {
-          "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
-          "url": "https://wallstreetcn.com/articles/3774155",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 16时36分]"
         },
         {
           "title": "新兴市场ETF收涨将近1.8%，领跑美股大类资产类ETF",
@@ -1003,7 +1040,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -1014,7 +1051,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -1028,6 +1065,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
+        },
+        {
+          "title": "美股70%熊市信号被触发",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A170%25%E7%86%8A%E5%B8%82%E4%BF%A1%E5%8F%B7%E8%A2%AB%E8%A7%A6%E5%8F%91%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
         }
       ]
     },
@@ -1088,7 +1136,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         }
@@ -1105,7 +1153,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
