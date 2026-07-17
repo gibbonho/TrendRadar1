@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T11:22:51.893731+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-07-17T14:25:19.151997+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗司法机构称未释放任何美国在押人员。（MIZAN）",
@@ -30,6 +30,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "报道：伊朗伊斯兰革命卫队袭击位于阿曼的雷达系统",
+          "url": "https://wallstreetcn.com/livenews/3135518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "伊朗司法部门：暂无美国囚犯从伊朗监狱获释或交换。",
           "url": "https://flash.jin10.com/detail/20260717024825919800",
           "source": "金十数据",
@@ -39,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "伊朗学生通讯社：卫星图像显示，位于阿联酋扎耶德（Zayed）的三栋美方建筑物遭到破坏。",
+          "url": "https://flash.jin10.com/detail/20260717140033727800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "美军发动新一轮空袭，连续第五晚打击伊朗",
@@ -201,7 +223,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -234,9 +256,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        },
+        {
+          "title": "据伊朗官方媒体报道，伊朗革命卫队表示，位于阿曼的美军海上监视雷达成为打击目标。",
+          "url": "https://flash.jin10.com/detail/20260717134213405800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "据伊朗官方媒体报道，伊朗军方称其利用无人机袭击了美军在科威特的兵力部署及后勤支援中心。",
@@ -245,7 +278,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -316,6 +349,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "伊朗革命卫队：打击叙利亚美军指挥中心 造成大量美军人员死亡",
+          "url": "https://wallstreetcn.com/livenews/3135479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "伊朗重申与海湾邻国不存在敌对关系",
           "url": "https://wallstreetcn.com/livenews/3135175",
           "source": "华尔街见闻-快讯",
@@ -325,12 +369,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "伊朗革命卫队称打击叙利亚美军指挥中心",
+          "url": "https://wallstreetcn.com/livenews/3135475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         }
       ]
     },
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -350,9 +405,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 14时25分]"
         },
         {
           "title": "美男网红注射黄金求超能力",
@@ -360,11 +415,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 11时22分]"
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 14时25分]"
         },
         {
           "title": "男子150万白银存金店被拒还",
@@ -379,13 +435,25 @@
           "time_info": "[01时26分 ~ 05时10分]"
         },
         {
+          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
+          "url": "https://wallstreetcn.com/articles/3777152",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 14时25分]"
+        },
+        {
           "title": "黄金跌至两周低点，临近周末美伊局势成关键变量",
           "url": "https://flash.jin10.com/detail/20260717105914216800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -407,18 +475,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
-          "url": "https://wallstreetcn.com/articles/3777152",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -440,7 +497,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -467,13 +524,24 @@
           "time_info": "03时23分"
         },
         {
+          "title": "伊朗革命卫队称打击美军驻科威特军事基地",
+          "url": "https://wallstreetcn.com/livenews/3135494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "美媒：美国防部正研究对古巴军事行动方案",
           "url": "https://m.thepaper.cn/newsDetail_forward_33596566",
           "source": "澎湃新闻",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -528,7 +596,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -542,6 +610,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "黄金鏖战4000点 多空巨头激辩",
+          "url": "https://www.toutiao.com/trending/7663341697681624603/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         }
       ]
     },
@@ -561,6 +640,18 @@
           "time_info": "[01时26分 ~ 05时10分]"
         },
         {
+          "title": "白宫：特朗普将出席世界杯决赛",
+          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 14时25分]"
+        },
+        {
           "title": "白宫：美国总统特朗普明天（当地时间周五）将前往纽约。",
           "url": "https://flash.jin10.com/detail/20260717012223455800",
           "source": "金十数据",
@@ -570,17 +661,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
-        },
-        {
-          "title": "白宫：特朗普将出席世界杯决赛",
-          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
         },
         {
           "title": "白宫：美国总统特朗普将出席世界杯决赛。",
@@ -600,7 +680,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -627,13 +707,25 @@
           "time_info": "05时10分"
         },
         {
+          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 14时25分]"
+        },
+        {
           "title": "美国多家主流电视网未在主要频道直播特朗普演讲 后者称应吊销牌照",
           "url": "https://flash.jin10.com/detail/20260717105525561800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -649,24 +741,13 @@
           "time_info": "03时23分"
         },
         {
-          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
           "title": "白宫官宣特朗普将出席世界杯决赛",
           "url": "https://www.toutiao.com/trending/7663253128728657971/",
           "source": "今日头条",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -732,6 +813,17 @@
           "time_info": "[01时26分 ~ 05时10分]"
         },
         {
+          "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
+          "url": "https://www.cls.cn/detail/2428956",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 14时25分]"
+        },
+        {
           "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
           "url": "https://www.cls.cn/detail/2428765",
           "source": "财联社热门",
@@ -742,17 +834,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时26分 ~ 11时22分]"
-        },
-        {
-          "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
-          "url": "https://www.cls.cn/detail/2428956",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
         },
         {
           "title": "美股存储芯片指数收跌超8%",
@@ -770,11 +851,12 @@
           "url": "https://www.cls.cn/detail/2429026",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 14时25分]"
         },
         {
           "title": "巴菲特怒斥美股投机狂热",
@@ -783,7 +865,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -805,7 +887,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -928,26 +1010,20 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
+      "keyword_group": "美债",
+      "match_count": 2,
       "titles": [
         {
-          "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
-          "url": "https://www.cls.cn/detail/2428987",
-          "source": "财联社热门",
+          "title": "美债大多头倒戈！霍伊辛顿投资30年来首度看空美国国债",
+          "url": "https://flash.jin10.com/detail/20260717134005819800",
+          "source": "金十数据",
           "ranks": [
-            1
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
+          "time_info": "14时25分"
+        },
         {
           "title": "美债收益率普遍涨超1个基点",
           "url": "https://wallstreetcn.com/livenews/3135247",
@@ -958,6 +1034,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
+          "url": "https://www.cls.cn/detail/2428987",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 14时25分]"
         }
       ]
     }
