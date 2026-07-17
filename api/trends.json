@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T14:25:19.151997+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-07-17T17:16:13.548501+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 39,
       "titles": [
         {
           "title": "伊朗司法机构称未释放任何美国在押人员。（MIZAN）",
@@ -36,7 +36,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -140,6 +140,17 @@
           "time_info": "[01时26分 ~ 05时10分]"
         },
         {
+          "title": "伊朗：造成大量美军人员死亡",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E9%80%A0%E6%88%90%E5%A4%A7%E9%87%8F%E7%BE%8E%E5%86%9B%E4%BA%BA%E5%91%98%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
+        },
+        {
           "title": "伊媒：美国袭击伊朗阿巴斯港致7人受伤",
           "url": "https://wallstreetcn.com/livenews/3135273",
           "source": "华尔街见闻-快讯",
@@ -151,6 +162,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "科威特电力部：电力和海水淡化厂在伊朗袭击中受损。",
+          "url": "https://flash.jin10.com/detail/20260717165850899800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
           "title": "美军开始对伊朗实施新一轮袭击。",
           "url": "https://wallstreetcn.com/livenews/3135229",
           "source": "华尔街见闻-快讯",
@@ -160,6 +182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "科威特称水厂和发电站在伊朗袭击中受损，多台发电机组在伊朗袭击中受损，水厂和发电厂发生火灾，火势已得到控制，有关部门正努力使受损机组恢复运行。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3135611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "据伊朗国家电视台：伊朗南部阿巴斯港地区遭到美国炮弹袭击。",
@@ -267,7 +300,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -292,6 +325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "15年前绝密预案曝光，多线封锁航道成伊朗反美核心筹码",
+          "url": "https://flash.jin10.com/detail/20260717164416672800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "伊朗最高领袖顾问：对基础设施的袭击将危及地区能源供应",
@@ -355,9 +399,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "伊朗称摧毁多架部署在约旦的美军军机",
+          "url": "https://wallstreetcn.com/livenews/3135587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "伊朗重申与海湾邻国不存在敌对关系",
@@ -377,7 +432,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         }
@@ -385,7 +440,7 @@
     },
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -406,8 +461,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 14时25分]"
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 17时16分]"
         },
         {
           "title": "美男网红注射黄金求超能力",
@@ -416,11 +471,36 @@
           "ranks": [
             9,
             13,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 14时25分]"
+          "appearance_count": 8,
+          "time_info": "[01时26分 ~ 17时16分]"
+        },
+        {
+          "title": "A股正迎来年内难得的黄金买点",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%AD%A3%E8%BF%8E%E6%9D%A5%E5%B9%B4%E5%86%85%E9%9A%BE%E5%BE%97%E7%9A%84%E9%BB%84%E9%87%91%E4%B9%B0%E7%82%B9%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
+        },
+        {
+          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
+          "url": "https://wallstreetcn.com/articles/3777152",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 17时16分]"
         },
         {
           "title": "男子150万白银存金店被拒还",
@@ -435,16 +515,48 @@
           "time_info": "[01时26分 ~ 05时10分]"
         },
         {
-          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
-          "url": "https://wallstreetcn.com/articles/3777152",
-          "source": "华尔街见闻",
+          "title": "何为AI泡沫？分析师：OpenAI就是“业界雷曼兄弟”，一倒全市场将崩盘！",
+          "url": "https://www.cls.cn/detail/2429226",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            8
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时22分 ~ 14时25分]"
+          "time_info": "[17时15分 ~ 17时16分]"
+        },
+        {
+          "title": "业内：市场正迎来今年的黄金买点",
+          "url": "https://www.toutiao.com/trending/7663141007135457322/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
+        },
+        {
+          "title": "黄金跌破4000美元",
+          "url": "https://www.douyin.com/hot/2574464",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
+        },
+        {
+          "title": "一年中黄金养生期来了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%B9%B4%E4%B8%AD%E9%BB%84%E9%87%91%E5%85%BB%E7%94%9F%E6%9C%9F%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
         },
         {
           "title": "黄金跌至两周低点，临近周末美伊局势成关键变量",
@@ -530,7 +642,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -618,7 +730,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         }
@@ -626,8 +738,20 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "白宫：特朗普将出席世界杯决赛",
+          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 17时16分]"
+        },
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
           "url": "https://news.ifeng.com/c/8uoXl1Ao0h2",
@@ -640,16 +764,15 @@
           "time_info": "[01时26分 ~ 05时10分]"
         },
         {
-          "title": "白宫：特朗普将出席世界杯决赛",
-          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
+          "title": "中方驳斥特朗普“中国干预美国大选”论调",
+          "url": "https://news.ifeng.com/c/8upog6XKRmu",
           "source": "凤凰网",
           "ranks": [
-            2,
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时22分 ~ 14时25分]"
+          "time_info": "[17时15分 ~ 17时16分]"
         },
         {
           "title": "白宫：美国总统特朗普明天（当地时间周五）将前往纽约。",
@@ -712,11 +835,23 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            13
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 17时16分]"
+        },
+        {
+          "title": "白宫再曝内幕交易丑闻！特朗普御用提词员利用演讲信息牟利遭调查",
+          "url": "https://www.cls.cn/detail/2429184",
+          "source": "财联社热门",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时22分 ~ 14时25分]"
+          "time_info": "[17时15分 ~ 17时16分]"
         },
         {
           "title": "美国多家主流电视网未在主要频道直播特朗普演讲 后者称应吊销牌照",
@@ -799,7 +934,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
@@ -956,6 +1091,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "美股期货跌幅扩大， 纳斯达克100指数期货跌2%，标普500指数期货跌1%，道指期货跌0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3135586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         }
       ]
     },
@@ -1020,7 +1166,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
