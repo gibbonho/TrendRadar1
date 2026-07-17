@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T21:54:01.177878+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2026-07-17T23:20:27.975665+08:00",
+  "total_titles_processed": 1501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 48,
+      "match_count": 53,
       "titles": [
         {
           "title": "伊朗司法机构称未释放任何美国在押人员。（MIZAN）",
@@ -192,7 +192,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
@@ -261,6 +261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
+        },
+        {
+          "title": "伊朗打击位于科威特和叙利亚的美军目标",
+          "url": "https://wallstreetcn.com/livenews/3135815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "美国连续第六晚打击伊朗",
@@ -351,6 +362,17 @@
           "time_info": "19时26分"
         },
         {
+          "title": "伊朗：海峡目前仍被我们牢牢把控",
+          "url": "https://flash.jin10.com/detail/20260717224859676800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "伊朗革命卫队：攻击平民和非民用基础设施将付出极其沉重和毁灭性的代价。",
           "url": "https://flash.jin10.com/detail/20260717190507730800",
           "source": "金十数据",
@@ -362,6 +384,17 @@
           "time_info": "19时26分"
         },
         {
+          "title": "安巴尼旗下信实工业无视伊朗战争阴霾，利润超预期",
+          "url": "https://wallstreetcn.com/livenews/3135810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "科威特外交部：我们谴责伊朗的侵略行为，该行为针对电站，造成发电单元受损。",
           "url": "https://flash.jin10.com/detail/20260717190411893800",
           "source": "金十数据",
@@ -371,6 +404,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
+        },
+        {
+          "title": "伊朗革命卫队：（谈及何时行动）请耐心等待。",
+          "url": "https://flash.jin10.com/detail/20260717224205955800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "据伊朗官方媒体报道，伊朗革命卫队表示，位于阿曼的美军海上监视雷达成为打击目标。",
@@ -423,7 +467,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
@@ -536,12 +580,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "美国证实摧毁了伊朗港口监视塔。",
+          "url": "https://wallstreetcn.com/livenews/3135795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         }
       ]
     },
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -549,11 +604,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时22分 ~ 21时54分]"
+          "appearance_count": 8,
+          "time_info": "[11时22分 ~ 23时20分]"
         },
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -565,6 +621,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时26分 ~ 05时10分]"
+        },
+        {
+          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
+          "url": "https://wallstreetcn.com/articles/3777152",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时22分 ~ 23时20分]"
         },
         {
           "title": "美男网红注射黄金求超能力",
@@ -581,28 +650,16 @@
           "time_info": "[01时26分 ~ 17时16分]"
         },
         {
-          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
-          "url": "https://wallstreetcn.com/articles/3777152",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时22分 ~ 21时54分]"
-        },
-        {
           "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
           "url": "https://wallstreetcn.com/articles/3777186",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 21时54分]"
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 23时20分]"
         },
         {
           "title": "A股正迎来年内难得的黄金买点",
@@ -616,6 +673,28 @@
           "time_info": "[17时15分 ~ 17时16分]"
         },
         {
+          "title": "国防部：望各方理性看待中俄军事合作",
+          "url": "https://www.toutiao.com/trending/7663393816196087851/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "现货白银站上56美元/盎司，日内涨0.90%。",
+          "url": "https://flash.jin10.com/detail/20260717230611338800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "国际现货黄金回调或仍需数日，镑美的小幅回调可视为买入机会？| Live分析更新中",
           "url": "https://flash.jin10.com/detail/20260717191347414800",
           "source": "金十数据",
@@ -625,6 +704,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
+        },
+        {
+          "title": "现货黄金短线走高，向上触及4010美元/盎司，日内涨0.86%。",
+          "url": "https://flash.jin10.com/detail/20260717230442606800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "男子150万白银存金店被拒还",
@@ -663,6 +753,18 @@
           "time_info": "[19时26分 ~ 21时54分]"
         },
         {
+          "title": "A股黄金买点来了吗",
+          "url": "https://www.toutiao.com/trending/7663454627538406938/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 23时20分]"
+        },
+        {
           "title": "何为AI泡沫？分析师：OpenAI就是“业界雷曼兄弟”，一倒全市场将崩盘！",
           "url": "https://www.cls.cn/detail/2429226",
           "source": "财联社热门",
@@ -672,17 +774,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时15分 ~ 17时16分]"
-        },
-        {
-          "title": "A股黄金买点来了吗",
-          "url": "https://www.toutiao.com/trending/7663454627538406938/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 21时54分]"
         },
         {
           "title": "业内：市场正迎来今年的黄金买点",
@@ -894,6 +985,17 @@
           "time_info": "01时26分"
         },
         {
+          "title": "美银警告：黄金恐跌向3315美元",
+          "url": "https://www.douyin.com/hot/2574420",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "一些现就职于OpenAI的前苹果员工收到了法律信函。（英国《金融时报》）",
           "url": "https://wallstreetcn.com/livenews/3135650",
           "source": "华尔街见闻-快讯",
@@ -919,7 +1021,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
@@ -950,7 +1052,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
@@ -1051,7 +1153,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
@@ -1073,9 +1175,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
+        },
+        {
+          "title": "美股存储板块全部转涨，纷纷收复盘初4%-7%的跌幅，当前，美光科技涨2.77%，西部数据涨0.07%，希捷科技涨1.94%，闪迪涨2.64%，SK海力士涨3.74%。费城半导体指数跌幅也收窄至1.7%，现报11655点，以前一度大跌5.6%。",
+          "url": "https://wallstreetcn.com/livenews/3135803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至2%，成分股Nebius集团跌14.2%，闪迪跌12.8%，Rocket Labs跌12.2%，希捷科技跌10.6%，西部数据跌10.2%，Astera Labs跌9.8%，迈威尔科技/美满电子、Lumentum、泰瑞达、英特尔至少跌6.9%，谷歌A跌4.7%。 半导体指数跌5%，存储芯片指数维持大约9%的跌幅。 北美科技软件股指数ETF跌幅重新扩大至0.4%，美股盘初一度跌1.9%。",
@@ -1125,7 +1238,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -1136,8 +1249,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时22分 ~ 21时54分]"
+          "appearance_count": 8,
+          "time_info": "[11时22分 ~ 23时20分]"
         },
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -1147,8 +1260,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时15分 ~ 21时54分]"
+          "appearance_count": 6,
+          "time_info": "[17时15分 ~ 23时20分]"
         },
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -1206,6 +1319,17 @@
           "time_info": "03时23分"
         },
         {
+          "title": "生死博弈！“特朗普美元”来了",
+          "url": "https://news.ifeng.com/c/8uqCpNoRpyA",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "美国总统特朗普准备在（今天稍早的）演讲中谈论委内瑞拉大选。（Semafor）",
           "url": "https://wallstreetcn.com/livenews/3135274",
           "source": "华尔街见闻-快讯",
@@ -1247,7 +1371,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
