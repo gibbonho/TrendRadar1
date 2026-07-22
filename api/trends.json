@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T19:54:23.096468+08:00",
-  "total_titles_processed": 1286,
+  "generated_at": "2026-07-22T22:12:05.166654+08:00",
+  "total_titles_processed": 1436,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
@@ -170,7 +170,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -225,7 +225,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -324,7 +324,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -511,7 +511,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -522,9 +522,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "报道：伊朗称战略导弹生产从未停止",
+          "url": "https://wallstreetcn.com/livenews/3138226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "民调：美国近七成民众反感伊朗战事",
@@ -560,6 +571,17 @@
           "time_info": "17时32分"
         },
         {
+          "title": "巴林：周三拦截了伊朗多次空袭。",
+          "url": "https://wallstreetcn.com/livenews/3138222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "伊朗军方：若美攻击伊核设施 中东地区美方利益都将遭报复",
           "url": "https://wallstreetcn.com/livenews/3137757",
           "source": "华尔街见闻-快讯",
@@ -569,12 +591,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "伊朗南部拉腊克岛遭到美国导弹袭击",
+          "url": "https://wallstreetcn.com/livenews/3138214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         }
       ]
     },
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 35,
+      "match_count": 41,
       "titles": [
         {
           "title": "专家：黄金已严重超卖",
@@ -647,6 +680,17 @@
           "time_info": "[07时03分 ~ 07时04分]"
         },
         {
+          "title": "现货白银向上触及60美元/盎司，刷新7月10日以来新高，日内涨2.11%。",
+          "url": "https://flash.jin10.com/detail/20260722214512455800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "OpenAI安全测试越界：智能体突破隔离并入侵开源AI平台",
           "url": "https://flash.jin10.com/detail/20260722142820467800",
           "source": "金十数据",
@@ -656,6 +700,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        },
+        {
+          "title": "OpenAI将向美国佐治亚州提供至多1000 MW灵活需求，这是当地数据中心项目协议的一部分。",
+          "url": "https://wallstreetcn.com/livenews/3138256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "伊朗最高联合军事指挥部：如果美国袭击伊朗核设施，地区内所有美国及其盟友的利益都将成为目标。",
@@ -703,6 +758,18 @@
           "time_info": "[11时24分 ~ 14时37分]"
         },
         {
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 22时12分]"
+        },
+        {
           "title": "金价涨超1.7%，4000美元整数位心理关口失而复得，白银涨4.2%，纽约铜涨超2.9%",
           "url": "https://wallstreetcn.com/livenews/3137759",
           "source": "华尔街见闻-快讯",
@@ -727,16 +794,16 @@
           "time_info": "[01时36分 ~ 03时42分]"
         },
         {
-          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
-          "url": "https://wallstreetcn.com/articles/3777627",
-          "source": "华尔街见闻",
+          "title": "黄金风险回报比重大逆转？富国银行：无所谓加不加息，上涨空间巨大！",
+          "url": "https://www.cls.cn/detail/2433860",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            6
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 19时54分]"
+          "appearance_count": 3,
+          "time_info": "[19时54分 ~ 22时12分]"
         },
         {
           "title": "黄金见底了吗",
@@ -794,17 +861,6 @@
           "time_info": "17时32分"
         },
         {
-          "title": "黄金风险回报比重大逆转？富国银行：无所谓加不加息，上涨空间巨大！",
-          "url": "https://www.cls.cn/detail/2433860",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.283吨，当前持仓量为1005.873吨。",
           "url": "https://flash.jin10.com/detail/20260722062601211800",
           "source": "金十数据",
@@ -814,6 +870,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "现货白银突破60美元/盎司，日内涨超2％。",
+          "url": "https://wallstreetcn.com/livenews/3138248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
@@ -871,6 +938,17 @@
           "time_info": "01时36分"
         },
         {
+          "title": "OpenAI推出工作流程AI智能体部署产品 面向企业客户",
+          "url": "https://wallstreetcn.com/livenews/3138239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "中方：导弹试射是例行军事训练活动",
           "url": "https://www.toutiao.com/trending/7665149511266779145/",
           "source": "今日头条",
@@ -891,6 +969,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        },
+        {
+          "title": "OpenAI将云支出预期上调至7500亿美元。OpenAI聘请xAI资深人士Brent Mayo。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3138238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "报道：OpenAI计划在佐治亚州数据中心投入超300亿美元",
+          "url": "https://wallstreetcn.com/livenews/3138236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少8.44吨，当前持仓量为15044.45吨。欢迎点击查看数据中心...",
@@ -973,8 +1073,20 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
+          "url": "https://news.ifeng.com/c/8uy1V150ZKO",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 22时12分]"
+        },
         {
           "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
           "url": "https://news.ifeng.com/c/8uwZlCa0EaK",
@@ -987,16 +1099,16 @@
           "time_info": "[01时36分 ~ 07时04分]"
         },
         {
-          "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
-          "url": "https://news.ifeng.com/c/8uy1V150ZKO",
+          "title": "这条40余年的禁令，被特朗普解除了",
+          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
           "source": "凤凰网",
           "ranks": [
-            1,
-            4
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 19时54分]"
+          "appearance_count": 6,
+          "time_info": "[14时36分 ~ 22时12分]"
         },
         {
           "title": "特朗普承认美方干预中国事务，并称“中国今时不同往日”",
@@ -1056,6 +1168,17 @@
           "time_info": "[11时24分 ~ 17时32分]"
         },
         {
+          "title": "美国总统特朗普警告：伊朗在霍尔木兹海峡每袭击一艘船只，美国将轰炸其一座桥梁或发电厂。",
+          "url": "https://wallstreetcn.com/livenews/3138255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "特朗普有意提名国际足联主席因凡蒂诺出任联合国秘书长",
           "url": "https://flash.jin10.com/detail/20260722064418802800",
           "source": "金十数据",
@@ -1065,6 +1188,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "美国参议员怀登建议立法，来限制总统特朗普的关税权力",
+          "url": "https://wallstreetcn.com/livenews/3138253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
@@ -1078,18 +1212,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时36分 ~ 07时04分]"
-        },
-        {
-          "title": "这条40余年的禁令，被特朗普解除了",
-          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时36分 ~ 19时54分]"
         },
         {
           "title": "美国总统特朗普：允许美国所有的航空公司直飞黎巴嫩。",
@@ -1114,6 +1236,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时36分 ~ 03时42分]"
+        },
+        {
+          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
+          "url": "https://wallstreetcn.com/articles/3777603",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 22时12分]"
         },
         {
           "title": "特朗普称将打击伊朗地下核设施 美官员暗示将很快出台新关税 | 环球市场",
@@ -1151,16 +1285,15 @@
           "time_info": "[01时36分 ~ 03时42分]"
         },
         {
-          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
-          "url": "https://wallstreetcn.com/articles/3777603",
-          "source": "华尔街见闻",
+          "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
+          "url": "https://www.cls.cn/detail/2434152",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时32分 ~ 19时54分]"
+          "time_info": "[22时11分 ~ 22时12分]"
         },
         {
           "title": "特朗普承认美方干预中国事务",
@@ -1196,6 +1329,17 @@
           "time_info": "11时24分"
         },
         {
+          "title": "特朗普：伊朗将付出沉重的代价。 士兵死亡事件正在调查中，伊朗将付出代价。 美国人并不反对这场战争。 美国人不想要高油价。",
+          "url": "https://wallstreetcn.com/livenews/3138250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "美国总统特朗普下周（一）将前往密歇根州，初选将在那之后举行。（美联社）",
           "url": "https://wallstreetcn.com/livenews/3137781",
           "source": "华尔街见闻-快讯",
@@ -1224,7 +1368,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -1306,6 +1450,17 @@
           "time_info": "07时04分"
         },
         {
+          "title": "特朗普：若伊朗袭击霍尔木兹海峡船只 美将摧毁其桥梁或发电厂",
+          "url": "https://wallstreetcn.com/livenews/3138231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "据福克斯新闻：美国贸易代表格里尔将于当地时间今日在参议院小组委员会就特朗普的贸易和关税政策作证。",
           "url": "https://flash.jin10.com/detail/20260722165855515800",
           "source": "金十数据",
@@ -1342,8 +1497,21 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 22时12分]"
+        },
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
           "url": "https://wallstreetcn.com/articles/3777383",
@@ -1380,16 +1548,16 @@
           "time_info": "[01时36分 ~ 05时19分]"
         },
         {
-          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
-          "url": "https://wallstreetcn.com/articles/3777518",
+          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3777612",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            2
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 19时54分]"
+          "appearance_count": 6,
+          "time_info": "[14时36分 ~ 22时12分]"
         },
         {
           "title": "美股收盘：明星存储股集体飙涨两位数 芯片股反弹费城指数升逾5%",
@@ -1405,16 +1573,15 @@
           "time_info": "[07时03分 ~ 14时37分]"
         },
         {
-          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3777612",
+          "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
+          "url": "https://wallstreetcn.com/articles/3777614",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时36分 ~ 19时54分]"
+          "appearance_count": 2,
+          "time_info": "[22时11分 ~ 22时12分]"
         },
         {
           "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
@@ -1435,7 +1602,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -1452,13 +1619,35 @@
           "time_info": "[11时24分 ~ 14时37分]"
         },
         {
+          "title": "金十图示：2026年07月22日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260722214140457800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "美股低开 芯片存储概念下挫",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%BD%8E%E5%BC%80+%E8%8A%AF%E7%89%87%E5%AD%98%E5%82%A8%E6%A6%82%E5%BF%B5%E4%B8%8B%E6%8C%AB",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时11分 ~ 22时12分]"
+        },
+        {
           "title": "GE Vernova美股盘前跌幅扩大至10%。",
           "url": "https://wallstreetcn.com/livenews/3138187",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -1485,15 +1674,37 @@
           "time_info": "05时19分"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF涨超1%，公用事业ETF涨近1%，全球航空业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3138246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "GE Vernova美股盘前下挫，现跌超6%，此前一度涨近7%。",
           "url": "https://wallstreetcn.com/livenews/3138176",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "美股盘初：存储芯片股、光通信股普跌，超微电脑涨约13%，GE Vernova跌约5%",
+          "url": "https://wallstreetcn.com/livenews/3138243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "超微电脑（SMCI）预计第四财季营收接近指引区间110亿-125亿美元的底部。 预计第四财季毛利润率15%-17%，公司原本预计8.2%-8.4%。 超微电脑美股盘后涨超20%。",
@@ -1524,9 +1735,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "美股开盘，道指跌0.07%，标普500指数跌0.19%，纳指跌0.54%。存储、AI芯片板块普跌，SK海力士(SKHY.O)跌超5%，西部数据(WDC.O)、希捷科技(STX.O)跌约4%，闪迪(SNDK.O)、美光科技(MU.O)跌超3%；英特尔(INTC.O)跌超3%，台积电(TSM.N)跌超2%，AMD(AMD.O)跌1.6%。",
+          "url": "https://flash.jin10.com/detail/20260722213039037800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "美股盘前，存储芯片股普跌，闪迪跌约2%，SK海力士跌约5%，美光科技跌约2%，西部数据跌约3%，希捷科技跌约3%。 超微电脑涨约17%，公司超预计第四财季营收接近指引区间110亿-125亿美元的底部；预计第四财季毛利润率15%-17%，公司原本预计8.2%-8.4%。",
@@ -1546,9 +1768,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3138228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "美股全线高开 闪迪、西部数据均涨超8%",
@@ -1576,7 +1809,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价银价油价集体上涨",
@@ -1599,6 +1832,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时36分 ~ 14时37分]"
+        },
+        {
+          "title": "金价回暖 水贝又“挤爆”了吗",
+          "url": "https://www.toutiao.com/trending/7665284881438523402/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时11分 ~ 22时12分]"
         }
       ]
     },
