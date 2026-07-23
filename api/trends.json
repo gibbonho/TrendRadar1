@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T18:31:58.446375+08:00",
-  "total_titles_processed": 1218,
+  "generated_at": "2026-07-23T20:46:05.118554+08:00",
+  "total_titles_processed": 1385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "据伊朗媒体Fars News：当地消息人士称，伊朗袭击了驻扎在约旦东部的美军阵地。",
@@ -58,7 +58,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -376,6 +376,17 @@
           "time_info": "15时38分"
         },
         {
+          "title": "伊拉克与科威特边境口岸遭伊朗打击",
+          "url": "https://wallstreetcn.com/livenews/3138855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "伊朗媒体Fars News：布什尔附近传出两声爆炸声。",
           "url": "https://flash.jin10.com/detail/20260723052955835800",
           "source": "金十数据",
@@ -456,7 +467,7 @@
     },
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
@@ -467,8 +478,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 18时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 20时46分]"
         },
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
@@ -576,6 +587,17 @@
           "time_info": "12时21分"
         },
         {
+          "title": "美国总统特朗普：伊朗和胡塞武装将面临严厉的军事惩罚。",
+          "url": "https://flash.jin10.com/detail/20260723202055680800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "OpenAI遭遇史上首次评测失控事故",
           "url": "https://www.baidu.com/s?wd=OpenAI%E9%81%AD%E9%81%87%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%A1%E8%AF%84%E6%B5%8B%E5%A4%B1%E6%8E%A7%E4%BA%8B%E6%95%85",
           "source": "百度热搜",
@@ -641,7 +663,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -756,6 +778,17 @@
           "time_info": "08时07分"
         },
         {
+          "title": "现货白银日内跌幅达2.0%，报58.47美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3138843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "市场消息：OpenAI澳大利亚数据中心的开发商放弃了使用再生水进行冷却的计划。",
           "url": "https://flash.jin10.com/detail/20260723070044363800",
           "source": "金十数据",
@@ -781,7 +814,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -795,6 +828,17 @@
           "time_info": "[00时25分 ~ 08时07分]"
         },
         {
+          "title": "特朗普：我们与伊朗只是小规模冲突",
+          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时38分 ~ 20时46分]"
+        },
+        {
           "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
           "url": "https://news.ifeng.com/c/8uyvegEdrQo",
           "source": "凤凰网",
@@ -805,17 +849,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时07分 ~ 12时21分]"
-        },
-        {
-          "title": "特朗普：我们与伊朗只是小规模冲突",
-          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 18时31分]"
         },
         {
           "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
@@ -840,13 +873,37 @@
           "time_info": "04时16分"
         },
         {
+          "title": "特朗普：若胡塞武装再次袭击船只 美国将追究伊朗责任",
+          "url": "https://flash.jin10.com/detail/20260723202131614800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
+          "url": "https://wallstreetcn.com/articles/3777708",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时21分 ~ 20时46分]"
+        },
+        {
           "title": "伊朗塔斯尼姆通讯社发布的一段视频显示，伊斯兰革命卫队航空航天部队的战士们在当地时间今天凌晨针对美国在该地区基地的行动中，撕碎了特朗普的签名。报道配文称，（此举为）“对特朗普签名的正确对待方式”。",
           "url": "https://flash.jin10.com/detail/20260723182201686800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -862,19 +919,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时11分 ~ 12时21分]"
-        },
-        {
-          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
-          "url": "https://wallstreetcn.com/articles/3777708",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 18时31分]"
         },
         {
           "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
@@ -946,13 +990,24 @@
           "time_info": "08时07分"
         },
         {
+          "title": "美国总统特朗普：对胡塞武装非常失望。",
+          "url": "https://flash.jin10.com/detail/20260723202050939800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-23）",
           "url": "https://flash.jin10.com/detail/20260723181802486800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -977,6 +1032,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "特朗普：美沙协议以沙特加入《亚伯拉罕协议》为条件。 美国与沙特的协议不包含材料浓缩。",
+          "url": "https://wallstreetcn.com/livenews/3138861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及伊朗和胡塞武装）如果他们再这样做将受到惩罚。",
+          "url": "https://flash.jin10.com/detail/20260723201830474800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "美国总统特朗普：美国将对未来的胡塞武装袭击追究伊朗的责任。",
+          "url": "https://flash.jin10.com/detail/20260723201810939800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "美国男生模仿特朗普讲话表情夸张",
@@ -1004,8 +1092,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时07分 ~ 20时46分]"
+        },
         {
           "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
           "url": "https://wallstreetcn.com/articles/3777612",
@@ -1030,18 +1130,6 @@
           "time_info": "[00时25分 ~ 06时11分]"
         },
         {
-          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时07分 ~ 18时31分]"
-        },
-        {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
           "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
@@ -1064,6 +1152,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时11分 ~ 12时21分]"
+        },
+        {
+          "title": "美股三大股指期货扩大跌幅，纳期斯达克100指数期货跌超1%，标普500指数期货跌0.73%，道指期货跌0.83%。",
+          "url": "https://flash.jin10.com/detail/20260723202333793800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "谷歌母公司Alphabet二季度营收1198亿美元，预期1170.2亿美元。 谷歌云营收247.7亿美元，预期224.6亿美元。 谷歌A美股盘后跌1.24%，暂报337.84美元。",
@@ -1105,7 +1204,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -1149,7 +1248,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -1185,6 +1284,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "IMAX第二季度营收1.028亿美元，预估9,390万美元。 第二季度调整后EBITDA 4,800万美元，预估3,930万美元。 第二季度调整后每股收益0.43美元，预估0.28美元。 IMAX美股盘前涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/3138849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "黑石集团第二季度总收入38.0亿美元，预期33.9亿美元。 第二季度可分配每股收益1.52美元，预期1.33美元。 黑石集团二季度管理资产1.35万亿美元，预期1.33万亿美元。 黑石集团美股盘前跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3138842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "美国航空第二季度调整后每股收益15美分，预期2.7美分。 美国航空预计第三季度营收增长16%至19%。 美国航空预计第三季度调整后每股亏损10美分至70美分，市场预期每股收益31美分。 美国航空预计全年调整后每股亏损65美分至每股收益65美分，市场预期每股收益61美分。 美国航空美股盘前跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3138834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         }
       ]
     },
@@ -1217,6 +1349,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "“债券义警”疑似再现：30年期美债收益率高于5%的天数创近二十年最多",
+          "url": "https://wallstreetcn.com/livenews/3138384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "贝莱德称高企的美债收益率为投资者提供稳健的抗跌保护",
+          "url": "https://wallstreetcn.com/livenews/3138866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -1241,23 +1401,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“债券义警”疑似再现：30年期美债收益率高于5%的天数创近二十年最多",
-          "url": "https://wallstreetcn.com/livenews/3138384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时16分"
         }
       ]
     }
