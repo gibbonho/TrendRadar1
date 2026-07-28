@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T11:18:49.429768+08:00",
-  "total_titles_processed": 755,
+  "generated_at": "2026-07-28T14:34:04.371243+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？",
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时49分 ~ 07时11分]"
+        },
+        {
+          "title": "内塔尼亚胡访美，会与特朗普聊啥？",
+          "url": "https://news.ifeng.com/c/8v6sJsiidDd",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 14时34分]"
+        },
+        {
+          "title": "特朗普向伊朗发出最后通牒",
+          "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 14时34分]"
         },
         {
           "title": "美国总统特朗普：我们要取消夏令时。",
@@ -50,28 +72,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时49分 ~ 07时11分]"
-        },
-        {
-          "title": "内塔尼亚胡访美，会与特朗普聊啥？",
-          "url": "https://news.ifeng.com/c/8v6sJsiidDd",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "特朗普向伊朗发出最后通牒",
-          "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
         },
         {
           "title": "特朗普力挺沃什降息，喊美国利率要全球最低，炮轰美联储“阻降派”",
@@ -127,9 +127,21 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 14时34分]"
+        },
+        {
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 14时34分]"
         },
         {
           "title": "美媒：特朗普政府接近敲定AI自愿审查框架",
@@ -187,17 +199,6 @@
           "time_info": "05时18分"
         },
         {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
           "title": "美国总统特朗普：关税对通用汽车(GM.N)的影响真是惊人。",
           "url": "https://flash.jin10.com/detail/20260728023159967800",
           "source": "金十数据",
@@ -218,6 +219,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "美乌关系戏剧性反转，泽连斯基再访白宫，特朗普会兑现对乌转向吗？",
+          "url": "https://flash.jin10.com/detail/20260728135155865800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
@@ -426,6 +438,31 @@
           "time_info": "[01时49分 ~ 05时18分]"
         },
         {
+          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
+          "url": "https://wallstreetcn.com/articles/3778058",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 14时34分]"
+        },
+        {
+          "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
+          "url": "https://www.cls.cn/detail/2438385",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时11分 ~ 14时34分]"
+        },
+        {
           "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
           "url": "https://www.cls.cn/detail/2438191",
           "source": "财联社热门",
@@ -450,17 +487,6 @@
           "time_info": "07时11分"
         },
         {
-          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
-          "url": "https://wallstreetcn.com/articles/3778058",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
           "title": "天弘股份（Celestica Inc.，多伦多股票代码CLS.CN）ADR美股盘后涨8%。 该公司二季度营收47亿美元，分析师预期43.9亿美元。 二季度调整后每股收益（EPS）为2.54美元，分析师预期2.30美元。 预计全年营收205亿美元，分析师预期192.8亿美元，公司原本预计190亿美元。 预计全年调整后EPS为11.30美元，分析师预期10.29美元，公司原本预计10.15美元。 预计三季度营收52.5亿-55.5亿美元，分析师预期50.1亿美元。 预计三季度调整后EPS为2.88-3.08美元，分析师预期2.68美元。",
           "url": "https://wallstreetcn.com/livenews/3140513",
           "source": "华尔街见闻-快讯",
@@ -470,6 +496,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
+          "url": "https://www.cls.cn/detail/2438605",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 14时34分]"
         },
         {
           "title": "美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击",
@@ -485,16 +523,16 @@
           "time_info": "[01时49分 ~ 07时11分]"
         },
         {
-          "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
-          "url": "https://www.cls.cn/detail/2438385",
+          "title": "7月28日投资避雷针：美股费城半导体指数创5月20日以来收盘新低 英伟达跌约5%",
+          "url": "https://www.cls.cn/detail/2438430",
           "source": "财联社热门",
           "ranks": [
-            8,
-            5
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时11分 ~ 11时18分]"
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 14时34分]"
         },
         {
           "title": "周一（7月27日），美股行业ETF涨跌各异，半导体ETF收跌2.25%，能源业ETF跌2.11%，科技行业ETF、全球科技股指数ETF、银行业ETF至多跌0.9%。 生物科技指数ETF则涨0.1%，可选消费ETF涨1.31%，网络股指数ETF涨1.89%，全球航空业ETF涨2.89%。",
@@ -514,18 +552,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "7月28日投资避雷针：美股费城半导体指数创5月20日以来收盘新低 英伟达跌约5%",
-          "url": "https://www.cls.cn/detail/2438430",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -539,17 +566,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
-        },
-        {
-          "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
-          "url": "https://www.cls.cn/detail/2438605",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
         },
         {
           "title": "金十图示：2026年07月27日（周一）美股热门股票行情一览（美股盘中）",
@@ -643,7 +659,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
@@ -674,7 +690,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -793,6 +809,17 @@
           "time_info": "[01时50分 ~ 03时45分]"
         },
         {
+          "title": "泽连斯基：与伊朗已处于战争中",
+          "url": "https://news.ifeng.com/c/8v7aKFz8e8a",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 14时34分]"
+        },
+        {
           "title": "据伊朗媒体Fars News：消息人士称，以色列炮击了黎巴嫩南部的阿里·塔希尔高地。",
           "url": "https://flash.jin10.com/detail/20260728011120494800",
           "source": "金十数据",
@@ -804,17 +831,6 @@
           "time_info": "01时50分"
         },
         {
-          "title": "泽连斯基：与伊朗已处于战争中",
-          "url": "https://news.ifeng.com/c/8v7aKFz8e8a",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
           "title": "路透社/益普索调查显示，仅有33%的美国人支持美国与伊朗的战争，为冲突初期以来的最低水平。",
           "url": "https://flash.jin10.com/detail/20260728040942338800",
           "source": "金十数据",
@@ -824,6 +840,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "伊朗外长与沙特和阿曼外长通话，讨论了在霍尔木兹海峡开展合作的必要性。",
+          "url": "https://wallstreetcn.com/livenews/3140755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "德国10年期国债收益率跌约4个基点，美国暂停袭击伊朗使得油价回撤",
@@ -862,7 +889,7 @@
     },
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "【早报】美存储股全线重挫，SK海力士破发；原油暴跌、黄金微涨；“东方证券+上海证券”合并重组草案出炉",
@@ -871,9 +898,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 14时34分]"
         },
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
@@ -881,11 +908,23 @@
           "source": "贴吧",
           "ranks": [
             15,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时49分 ~ 11时18分]"
+          "appearance_count": 8,
+          "time_info": "[01时49分 ~ 14时34分]"
+        },
+        {
+          "title": "据俄新社：俄罗斯在乌克兰米科拉伊夫地区黑海方向袭击了运送军事物资给乌克兰的船只。",
+          "url": "https://flash.jin10.com/detail/20260728140548308800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "黄金，在等待什么？",
@@ -921,6 +960,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时49分 ~ 03时45分]"
+        },
+        {
+          "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33668433",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 14时34分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：美国联邦航空管理局称，由于巴林飞行情报区军事活动增加，建议飞行员在国际水域上空飞行时提高警惕。",
@@ -978,6 +1028,17 @@
           "time_info": "03时45分"
         },
         {
+          "title": "现货白银向下跌破57美元/盎司，日内跌约2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3140757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
           "title": "黄金跌不下去了吗",
           "url": "https://www.toutiao.com/trending/7667152885049724462/",
           "source": "今日头条",
@@ -998,6 +1059,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "现货黄金日内跌幅达1%，现报4035.67美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260728133650780800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "美国芝加哥商业交易所集团（CME Group Inc.）董事总经理兼全球贵金属业务负责人Jin Hennig：“尽管波动率较低，但我们在首个周末迎来了非常强劲的成交量。” 芝商所的参与者构成与其现有的1盎司黄金客户群相似，需求继续主要来自散户投资者。交易活动在地域上分布广泛，芝商所的金属交易通常约有半数来自美国时区以外。 Hennig交易所目前没有计划将全天候交易扩展到其他贵金属合约或规模更大的黄金期货，尽管如果客户需求出现，他们会考虑这样做。（彭博）",
@@ -1031,6 +1103,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "机构：投资者可考虑增持美债短端久期",
+          "url": "https://flash.jin10.com/detail/20260728134306208800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "中长期美债收益率跌超3个基点",
+          "url": "https://wallstreetcn.com/livenews/3140494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         }
       ]
     },
@@ -1077,23 +1177,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中长期美债收益率跌超3个基点",
-          "url": "https://wallstreetcn.com/livenews/3140494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
         }
       ]
     }
