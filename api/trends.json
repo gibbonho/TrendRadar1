@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T17:44:26.624375+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2026-07-29T20:07:28.477534+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 49,
+      "match_count": 55,
       "titles": [
         {
           "title": "伊朗大使答凤凰：恢复美伊谈判，须有像中国这样的大国的担保",
@@ -121,6 +121,17 @@
           "time_info": "07时07分"
         },
         {
+          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
+          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 20时07分]"
+        },
+        {
           "title": "美国官员：伊朗在霍尔木兹海的要求过于苛刻，阿曼、美国及国际社会对此正当拒绝。",
           "url": "https://flash.jin10.com/detail/20260729043825142800",
           "source": "金十数据",
@@ -141,17 +152,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
-        },
-        {
-          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
-          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 17时44分]"
         },
         {
           "title": "伊朗副外长：德黑兰向阿曼提议，由伊朗负责管理霍尔木兹海峡一侧的单向航运通行，阿曼则负责管理另一侧的通行。",
@@ -269,6 +269,17 @@
           "time_info": "03时43分"
         },
         {
+          "title": "拒绝阿曼“霍尔木兹海峡”提案、要求更多控制权，伊朗再向美军基地发射导弹",
+          "url": "https://wallstreetcn.com/articles/3778174",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
           "title": "乌克兰外交部长：已讨论在里海袭击中遇难的伊朗水手，乌克兰的行动旨在保护自己免受俄罗斯侵略。",
           "url": "https://flash.jin10.com/detail/20260729010645888800",
           "source": "金十数据",
@@ -300,6 +311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "伊朗谴责美国沙特袭击伊拉克",
+          "url": "https://wallstreetcn.com/livenews/3141668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
         },
         {
           "title": "对约旦的最新袭击是自上周五美国暂停对伊朗的攻击以来，伊朗首次对该地区的美国基地发起导弹攻击。",
@@ -451,7 +473,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -476,6 +498,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "伊朗反驳有关寻求与美谈判的说法",
+          "url": "https://flash.jin10.com/detail/20260729194257136800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
         },
         {
           "title": "伊朗副外长：伊朗将考虑采取“任何行动”以维持对霍尔木兹海峡的控制",
@@ -511,6 +544,17 @@
           "time_info": "07时07分"
         },
         {
+          "title": "伊媒称美空袭伊朗与伊拉克边境地区",
+          "url": "https://wallstreetcn.com/livenews/3141656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
           "title": "科威特内阁：我们谴责伊朗及其代理人上周四对科威特阿卜杜利边境口岸的多次无人机攻击。",
           "url": "https://flash.jin10.com/detail/20260729021750413800",
           "source": "金十数据",
@@ -520,6 +564,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗与美国之间的持续不断交换信息，并通过不同渠道进行沟通的说法是假新闻。",
+          "url": "https://flash.jin10.com/detail/20260729194042042800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
         },
         {
           "title": "伊朗驻华大使称伊朗未介入曼德海峡问题，呼吁从源头解决也门危机",
@@ -553,12 +608,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "英媒：美国轰炸难让伊朗屈服",
+          "url": "https://wallstreetcn.com/livenews/3141646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
         }
       ]
     },
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
@@ -584,6 +650,17 @@
           "time_info": "[11时20分 ~ 14时39分]"
         },
         {
+          "title": "上海黄金交易所黄金T+D 7月29日（周三）晚盘盘初下跌0.01%报879.0元/克；<br/>上海黄金交易所白银T+D 7月29日（周三）晚盘盘初上涨0.07%报14095.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260729200150314800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
           "title": "对伊朗军事行动以来，美以领导人首次会晤",
           "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
           "source": "澎湃新闻",
@@ -592,8 +669,19 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 20时07分]"
+        },
+        {
+          "title": "为什么黄金几乎在所有文明里都是贵重金属，并且作为了货币？",
+          "url": "https://www.zhihu.com/question/23846763",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时20分 ~ 17时44分]"
+          "time_info": "[14时38分 ~ 20时07分]"
         },
         {
           "title": "“黄金界爱马仕”市值1年蒸发超千亿",
@@ -606,17 +694,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时41分 ~ 03时43分]"
-        },
-        {
-          "title": "为什么黄金几乎在所有文明里都是贵重金属，并且作为了货币？",
-          "url": "https://www.zhihu.com/question/23846763",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 17时44分]"
         },
         {
           "title": "为什么西方古代黄金文物多见大件的冠冕、圣杯，而中国古代更倾向于将黄金做成细小的错金银、金辟邪或马饰？",
@@ -718,6 +795,17 @@
           "time_info": "01时42分"
         },
         {
+          "title": "紫金矿业：终止收购联合黄金 拟认购其9.2%股权",
+          "url": "https://flash.jin10.com/detail/20260729194527137800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 7月28日（周二）晚盘收盘下跌0.4%报878.96元/克；<br/>上海黄金交易所白银T+D 7月28日（周二）晚盘收盘下跌0.34%报13962.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260729023026069800",
           "source": "金十数据",
@@ -768,7 +856,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -798,7 +886,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
@@ -851,6 +939,19 @@
           "time_info": "[01时41分 ~ 03时43分]"
         },
         {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 20时07分]"
+        },
+        {
           "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2065354296774989670",
           "source": "知乎",
@@ -863,18 +964,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时41分 ~ 07时07分]"
-        },
-        {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 17时44分]"
         },
         {
           "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
@@ -913,6 +1002,18 @@
           "time_info": "[03时42分 ~ 07时07分]"
         },
         {
+          "title": "FOMC和巨头财报在即，市场严阵以待！美股存储股盘前续跌，韩股连续两日暴跌熔断，油价涨超3%",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 20时07分]"
+        },
+        {
           "title": "美股芯片存储大跌",
           "url": "https://www.douyin.com/hot/2588858",
           "source": "抖音",
@@ -934,17 +1035,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
-        },
-        {
-          "title": "FOMC和巨头财报在即，市场严阵以待！美股存储股盘前续跌，韩股连续两日暴跌熔断，油价涨超3%",
-          "url": "https://wallstreetcn.com/articles/3778176",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
         },
         {
           "title": "美股三大股指期货短线小幅下挫，道指期货跌0.13%，标普500指数期货跌0.08%，纳指期货跌0.02%。",
@@ -991,6 +1081,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "宝洁第四财季销售净额212.0亿美元，预估213.4亿美元。 第四财季内生性收入增长0％，预估增长1.85％。 第四财季核心每股收益1.43美元，预估1.41美元。 宝洁预计2027年内生性收入增长1％至3％，预估增长2.44％。 宝洁预计2027年核心每股收益6.89美元至7.11美元，市场预估7.02美元。 宝洁美股盘前跌2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3141659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
           "title": "美股股指期货持续走低，纳斯达克100指数期货跌超1%，标普500指数期货跌0.35%，道琼斯指数期货跌0.24%。",
           "url": "https://wallstreetcn.com/livenews/3141455",
           "source": "华尔街见闻-快讯",
@@ -1005,7 +1106,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
@@ -1064,6 +1165,40 @@
           "time_info": "[11时20分 ~ 14时39分]"
         },
         {
+          "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
+          "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 20时07分]"
+        },
+        {
+          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 20时07分]"
+        },
+        {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
+          "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 20时07分]"
+        },
+        {
           "title": "伊朗否认特朗普的说法，称：并没有在过去16-17天内寻求与美国对话",
           "url": "https://wallstreetcn.com/livenews/3141133",
           "source": "华尔街见闻-快讯",
@@ -1098,17 +1233,6 @@
           "time_info": "[14时38分 ~ 14时39分]"
         },
         {
-          "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
-          "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
           "title": "美国总统特朗普：伊朗如此气急败坏地想要与我达成一份协议。 我们将让伊朗签署一份协议。 我们将让战争结束。",
           "url": "https://wallstreetcn.com/livenews/3141225",
           "source": "华尔街见闻-快讯",
@@ -1118,28 +1242,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
-        },
-        {
-          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
-          "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
-          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
         },
         {
           "title": "内塔尼亚胡称与特朗普进行了一次“极佳的会晤”",
@@ -1184,6 +1286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "特朗普将宣布杜勒斯机场翻新计划细节。（美国哥伦比亚广播公司）",
+          "url": "https://wallstreetcn.com/livenews/3141654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
         }
       ]
     },
