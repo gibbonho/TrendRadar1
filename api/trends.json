@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T17:45:31.154651+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2026-08-06T20:07:33.222086+08:00",
+  "total_titles_processed": 1286,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "伊朗的最后一张牌",
@@ -24,11 +24,12 @@
           "source": "凤凰网",
           "ranks": [
             2,
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 17时45分]"
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 20时07分]"
         },
         {
           "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭",
@@ -42,17 +43,6 @@
           "time_info": "05时19分"
         },
         {
-          "title": "伊朗总统：最高领袖决策过程遭人利用",
-          "url": "https://www.toutiao.com/trending/7670008339098750483/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
           "title": "伊朗方面称，目前尚未就美国谈判第二阶段作出决定。",
           "url": "https://flash.jin10.com/detail/20260806013712793800",
           "source": "金十数据",
@@ -62,6 +52,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
+          "url": "https://wallstreetcn.com/articles/3778783",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 20时07分]"
         },
         {
           "title": "报道：伊朗寻求对海峡过境船只收取货物价值5%-7%的费用",
@@ -97,6 +100,18 @@
           "time_info": "05时19分"
         },
         {
+          "title": "伊朗总统：最高领袖决策过程遭人利用",
+          "url": "https://www.toutiao.com/trending/7670008339098750483/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 20时07分]"
+        },
+        {
           "title": "伊朗：美国说准备恢复履行承诺",
           "url": "https://wallstreetcn.com/livenews/3145532",
           "source": "华尔街见闻-快讯",
@@ -121,16 +136,16 @@
           "time_info": "[01时49分 ~ 03时45分]"
         },
         {
-          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
-          "url": "https://wallstreetcn.com/articles/3778783",
-          "source": "华尔街见闻",
+          "title": "伊朗总统：目前与最高领袖联络困难 其决策过程遭人利用",
+          "url": "https://www.cls.cn/detail/2447200",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            6
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 17时45分]"
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 20时07分]"
         },
         {
           "title": "伊朗：将在未来2-4个月内激活新版霍尔木兹海峡航线。（IRNA）",
@@ -150,7 +165,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -254,17 +269,6 @@
           "time_info": "03时45分"
         },
         {
-          "title": "伊朗总统：目前与最高领袖联络困难 其决策过程遭人利用",
-          "url": "https://www.cls.cn/detail/2447200",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
           "title": "伊朗总统：目前与伊朗最高领袖的沟通“非常困难”。",
           "url": "https://flash.jin10.com/detail/20260806024752219800",
           "source": "金十数据",
@@ -285,6 +289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "伊朗情报部门在该国境内逮捕多名摩萨德特工",
+          "url": "https://wallstreetcn.com/livenews/3146002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
         },
         {
           "title": "伊朗副外长：（与阿曼的）会谈涉及规范商船通行以及为未来管理海峡制定基础框架。",
@@ -485,6 +500,17 @@
           "time_info": "11时19分"
         },
         {
+          "title": "伊朗总统称没有力量能让伊朗屈服",
+          "url": "https://wallstreetcn.com/livenews/3145983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
           "title": "伊朗塔斯尼姆通讯社援引叙利亚当地消息源：以色列间谍直升机及飞机飞越德拉省与库奈特拉省上空。",
           "url": "https://wallstreetcn.com/livenews/3145575",
           "source": "华尔街见闻-快讯",
@@ -521,7 +547,7 @@
     },
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "SpaceX暴跌13%拖累科技板块，标普纳指高位回调，黄金飙涨4%，原油冲高回落",
@@ -532,8 +558,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时08分 ~ 17时45分]"
+          "appearance_count": 5,
+          "time_info": "[07时08分 ~ 20时07分]"
+        },
+        {
+          "title": "突破4200美元阻力位！黄金“重置”完成，或迎来数月来最佳上涨窗口",
+          "url": "https://wallstreetcn.com/articles/3778759",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时08分 ~ 20时07分]"
         },
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
@@ -557,19 +596,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时19分 ~ 14时38分]"
-        },
-        {
-          "title": "突破4200美元阻力位！黄金“重置”完成，或迎来数月来最佳上涨窗口",
-          "url": "https://wallstreetcn.com/articles/3778759",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时08分 ~ 17时45分]"
         },
         {
           "title": "半年来最大涨幅！昨日全球市场“最炸裂资产”：黄金……",
@@ -604,6 +630,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "一图看懂 | 金价刚突破4300美元关口，黄金股早已悄悄涨了30%",
+          "url": "https://www.cls.cn/detail/2447296",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上一交易日增加4.851吨，当前持仓量为1014.148吨。",
@@ -655,6 +692,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时49分 ~ 05时19分]"
+        },
+        {
+          "title": "单日大涨4%！黄金是隔夜市场“最亮的资产”",
+          "url": "https://wallstreetcn.com/articles/3778799",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 20时07分]"
+        },
+        {
+          "title": "黄金单日暴涨188美元：宏观只是导火索，逼空才是主角",
+          "url": "https://wallstreetcn.com/articles/3778800",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 20时07分]"
         },
         {
           "title": "Meta推出首款AI编程智能体，正面挑战Anthropic与OpenAI。",
@@ -710,28 +771,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
-        },
-        {
-          "title": "单日大涨4%！黄金是隔夜市场“最亮的资产”",
-          "url": "https://wallstreetcn.com/articles/3778799",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
-          "title": "黄金单日暴涨188美元：宏观只是导火索，逼空才是主角",
-          "url": "https://wallstreetcn.com/articles/3778800",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
         },
         {
           "title": "法院文件显示，OpenAI向美国法官申请驳回苹果公司指控其侵犯商业秘密的诉讼。",
@@ -858,7 +897,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
@@ -1123,6 +1162,17 @@
           "time_info": "07时08分"
         },
         {
+          "title": "美退还1000亿美元关税特朗普输了吗",
+          "url": "https://www.toutiao.com/trending/7670860336727068203/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
           "title": "美国总统特朗普在拉斯维加斯宣称：加拿大领导层很糟糕。",
           "url": "https://wallstreetcn.com/livenews/3145617",
           "source": "华尔街见闻-快讯",
@@ -1137,7 +1187,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 SpaceX与AMD拖累纳指走低",
@@ -1207,7 +1257,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -1243,6 +1293,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "AppLovin美股盘前跌超16%，公司二季度营收不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3145991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
         },
         {
           "title": "金十图示：2026年08月05日（周三）美股热门股票行情一览（美股收盘）",
@@ -1284,7 +1345,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         }
