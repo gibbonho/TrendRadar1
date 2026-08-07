@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T19:53:33.985784+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2026-08-07T21:18:59.109399+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美妆 军事 洗发水 唇膏 黄金 白银 GITHUB chatgpt openai",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
@@ -26,9 +26,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
+        },
+        {
+          "title": "减少2.3万人！美国7月非农意外爆冷，黄金大涨超50美元",
+          "url": "https://flash.jin10.com/detail/20260807205644051800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "赤峰黄金：控股子公司签订2.2亿美元海外采矿服务合同",
@@ -99,6 +110,17 @@
           "time_info": "15时27分"
         },
         {
+          "title": "非农超预期下降，美股盘前快速拉升、存储概念股走高，光通信股AAOI涨超15%，现货黄金突破4300",
+          "url": "https://wallstreetcn.com/articles/3778924",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
           "title": "黄金在非农公布前重测4300关口，资金布局或拖累短线反弹的表现？——增强版同步发布！",
           "url": "https://flash.jin10.com/detail/20260807145349676800",
           "source": "金十数据",
@@ -127,7 +149,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -138,9 +160,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
+        },
+        {
+          "title": "现货黄金日内大涨3.00%，现报4367.90美元/盎司。现货白银现涨5.5%。",
+          "url": "https://flash.jin10.com/detail/20260807204314204800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "谷歌将人工智能管理重心迁至加州 全力迎战Anthropic与OpenAI",
@@ -154,13 +187,24 @@
           "time_info": "17时07分"
         },
         {
+          "title": "黄金牛市又要来了？知名机构：两大逆风将转为顺风，现在是建仓好时机！",
+          "url": "https://www.cls.cn/detail/2448368",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
           "title": "非农数据公布前，现货黄金日内涨幅扩大至2%，现报4325.27美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260807190904734800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -294,6 +338,21 @@
           "time_info": "[11时54分 ~ 19时01分]"
         },
         {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时54分 ~ 21时18分]"
+        },
+        {
           "title": "特朗普签署行政令，宣布加征关税",
           "url": "https://news.ifeng.com/c/8vNvJb617ek",
           "source": "凤凰网",
@@ -314,20 +373,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时54分 ~ 15时27分]"
-        },
-        {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时54分 ~ 19时53分]"
         },
         {
           "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
@@ -427,7 +472,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -493,7 +538,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -556,7 +601,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "以情报高官疑因伊朗行动失败被解职",
@@ -566,8 +611,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时07分 ~ 19时53分]"
+          "appearance_count": 4,
+          "time_info": "[17时07分 ~ 21时18分]"
         },
         {
           "title": "伊朗公布霍尔木兹海峡管理草案 国际油价大幅走高",
@@ -583,6 +628,17 @@
           "time_info": "[08时10分 ~ 15时27分]"
         },
         {
+          "title": "伊朗最高领袖给总统下了“最后警告”？",
+          "url": "https://news.ifeng.com/c/8vOzr19CfFi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
           "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
           "url": "https://wallstreetcn.com/articles/3778783",
           "source": "华尔街见闻",
@@ -592,6 +648,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "伊朗发视频隐喻美国国运衰落原因",
+          "url": "https://www.toutiao.com/trending/7671188288800899082/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 21时18分]"
+        },
+        {
+          "title": "以媒：未落实更迭伊朗政权计划 摩萨德高官被解职",
+          "url": "https://wallstreetcn.com/livenews/3146751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "伊朗总统：最高领袖决策过程遭人利用",
@@ -658,23 +737,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时07分"
-        },
-        {
-          "title": "伊朗发视频隐喻美国国运衰落原因",
-          "url": "https://www.toutiao.com/trending/7671188288800899082/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -684,8 +752,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时10分 ~ 19时53分]"
+          "appearance_count": 9,
+          "time_info": "[08时10分 ~ 21时18分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -709,8 +777,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时07分 ~ 19时53分]"
+          "appearance_count": 4,
+          "time_info": "[17时07分 ~ 21时18分]"
+        },
+        {
+          "title": "美国7月非农意外减少 美股期指走高 降息预期升温 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2448784",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
+          "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
+          "url": "https://www.cls.cn/detail/2448478",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "美股三大指数集体收跌 西数跌超13%",
@@ -783,6 +873,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国非农数据公布后，美股股指期货快速拉升，纳指期货日内涨0.79%，标普500指数期货涨0.39%，道指期货涨0.27%。美债价格飙升，10年期美国国债收益率目前下跌4.29个基点，报4.627%；非美货币普遍走高，美元兑日元短线走低80点，报157.72。",
+          "url": "https://wallstreetcn.com/livenews/3146733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
+          "title": "7月非农就业数据疲软，美债价格飙升。",
+          "url": "https://flash.jin10.com/detail/20260807203421543800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         }
       ]
     }
